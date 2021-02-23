@@ -13,23 +13,39 @@ redirect_from:
 
 Not all Pokemon are created equal, but it's important to know how to get the best out of the Pokemon that you have.
 
-- [Moveset](#moveset---break-out-those-tms-or-not)
-- [Levels & Powering Up](#level---time-to-power-up)
-- [Appraisal & IVs](#appraisal-and-ivs)
-- [Extra Tips](#extra-tips-and-notes)
+- [Psychic Starter](#moveset---break-out-those-tms-or-not)
+- [Fighting Back!](#level---time-to-power-up)
+- [Rocks in the Dark](#appraisal-and-ivs)
+- [Mewtwo & Friends](#extra-tips-and-notes)
 
 
-## Moveset - Break out those TMs! (Or not)
+## Psychic Starter - Walking with Eevee
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 
-### STAB - Same Type Attack Bonus
+### Espeon - Starting out strong!
 
-Filler text...
+![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)
+Confusion + Future Sight
+{:.figcaption}
 
-### Elite Moves - A nice bonus, but unneeded.
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
 
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress.
+### Alakazam - Trading makes things easier.
+
+![Alakazam](https://img.pokemondb.net/sprites/home/normal/alakazam.png)
+Psycho Cut/Confusion + Future Sight
+{:.figcaption}
+
+Glass-cannon, but very easy to get if you have friends to trade with.
+
+### Exeggutor - Can't make a Raid party without breaking a few eggs.
+
+![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)
+Confusion + Psychic
+{:.figcaption}
+
+That's probably the longest tagline on the site, but don't let the bad joke fool you. Exeggutor is a very strong Psychic-type to start out with, if you're left with no easier choices. Unfortunately, Exeggcute isn't always easy to come by, but if the season's right and Grass-type Pokemon are common in your area, then it's definitely worth catching some during Clear weather (which is *far* more common than the Psychic-boosting Windy weather) and evolving your Lv30+ ones to quickly build a solid team of **Confusion + Psychic** attacking palm trees.
 
 
 ## Level - Time to Power-Up?
