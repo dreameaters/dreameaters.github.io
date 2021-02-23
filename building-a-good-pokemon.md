@@ -37,17 +37,17 @@ It includes a blog that is suitable for both prose and technical documentation, 
 
 ### Default Levels
 
+> Each type of weather will "boost" 2-3 types of Pokemon, increasing their spawned level by 5, and the lowest their IVs can be is 4, rather than 0.
+{:.lead}
+
 **Wild Pokemon** spawning normally on the map can be anywhere from Lv1 up to whatever Trainer Level you are (or Lv30, if you're above Trainer Level 30).
 If the current weather boosts the type of Pokemon that spawned, it will always be **5** levels higher than it would have been, even if that makes it higher than your Trainer Level (or past the Lv30 cap).
 
 This means that the highest level wild Pokemon can spawn at is Lv35, when weather boosted, and Lv30 otherwise.
 
-
 **Raid Bosses** will be caught at Lv20, unless weather-boosted, in which case they gain the **+5** levels, as usual, making them Lv25. Catching weather-boosted Legendaries will save you a lot of hard to get Legendary Pokemon candy, and/or Rare Candy. Though keep in mind that the Raid Boss will be **5** levels higher in the Raid Battle as well, making it harder to defeat.
 
-
 **Shadow Pokemon** will be caught at Lv8, unless weather-boosted, in which case they gain the usual **+5** levels, making them Lv13. As Shadow Pokemon cost more Stardust to Power-Up than regular Pokemon, catching them weather-boosted can save you a decent chunk of Stardust. Though, this is a lot harder to control than Raid Bosses or wild Pokemon, since Go Rocket battles spawn at specific times in balloons, or at PokeStops, leaving you to battle them on their schedule, not being able to plan around the weather very easily.
-
 
 **Research Rewards** (Field, Special, Timed, or Breakthrough) will be Lv15, regardless of weather.
 
