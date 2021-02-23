@@ -53,6 +53,8 @@ menu:
     url:               /example/
   - title:             Building a Good Pokemon
     url:               /building-a-good-pokemon/
+  - title:             Top Pokemon by Type
+    url:               https://docs.google.com/spreadsheets/d/e/2PACX-1vShfgtljtudTCVkQsWUog-e1z2VXZx_GkVJ_AnvX-gw11NhgDS7uhGBjrEGVYkA0S4Iqdr6lM7DM9BM/pubhtml?gid=1988159086&single=true
   - title:             Documentation
     url:               /docs/
   - title:             About
