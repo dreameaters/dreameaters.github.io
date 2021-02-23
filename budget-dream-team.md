@@ -26,7 +26,8 @@ A boutique Jekyll theme for hackers, nerds, and academics.
 ### Espeon - Starting out strong!
 
 ![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)
-Confusion + Future Sight
+
+> Confusion + Future Sight
 {:.figcaption}
 
 Espeon is the #1 vanilla Psychic-type, and will be good forever.
@@ -34,7 +35,8 @@ Espeon is the #1 vanilla Psychic-type, and will be good forever.
 ### Alakazam - Trading makes things easier.
 
 ![Alakazam](https://img.pokemondb.net/sprites/home/normal/alakazam.png)
-Psycho Cut/Confusion + Future Sight
+
+> Psycho Cut/Confusion + Future Sight
 {:.figcaption}
 
 Glass-cannon, but very easy to get if you have friends to trade with.
@@ -42,7 +44,8 @@ Glass-cannon, but very easy to get if you have friends to trade with.
 ### Exeggutor - Can't make a Raid party without breaking a few eggs.
 
 ![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)
-Confusion + Psychic
+
+> Confusion + Psychic
 {:.figcaption}
 
 That's probably the longest tagline on the site, but don't let the bad joke fool you. Exeggutor is a very strong Psychic-type to start out with, if you're left with no easier choices. Unfortunately, Exeggcute isn't always easy to come by, but if the season's right and Grass-type Pokemon are common in your area, then it's definitely worth catching some during Clear weather (which is *far* more common than the Psychic-boosting Windy weather) and evolving your Lv30+ ones to quickly build a solid team of **Confusion + Psychic** attacking palm trees.
