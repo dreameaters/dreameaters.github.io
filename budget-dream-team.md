@@ -28,8 +28,12 @@ A boutique Jekyll theme for hackers, nerds, and academics.
 
 ![Eevee](https://img.pokemondb.net/sprites/home/normal/eevee.png)![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)
 
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
 > Confusion + Future Sight
-{:.note title="Moveset"}
+{:.note title="B-Tier Moveset"}
 {:.faded}
 
 Espeon is the #1 vanilla Psychic-type, and will be good forever.
