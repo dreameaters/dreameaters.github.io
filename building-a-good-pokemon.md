@@ -13,10 +13,10 @@ redirect_from:
 
 Not all Pokemon are created equal, but it's important to know how to get the best out of the Pokemon that you have.
 
-- [Moveset](#moveset---break-out-those-tms-or-not)
-- [Levels & Powering Up](#level---time-to-power-up)
-- [Appraisal & IVs](#appraisal-and-ivs)
-- [Extra Tips](#extra-tips-and-notes)
+* [Moveset](#moveset---break-out-those-tms-or-not)
+* [Levels & Powering Up](#level---time-to-power-up)
+* [Appraisal & IVs](#appraisal-and-ivs)
+* [Extra Tips](#extra-tips-and-notes)
 {.toc}
 
 
