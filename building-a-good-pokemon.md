@@ -13,9 +13,9 @@ redirect_from:
 
 Not all Pokemon are created equal, but it's important to know how to get the best out of the Pokemon that you have.
 
-[Moveset](#moveset---break-out-those-tms-or-not)
-[Levels & Powering Up](#level---time-to-power-up)
-[Appraisal & IVs](#appraisal-and-ivs)
+- [Moveset](#moveset---break-out-those-tms-or-not)
+- [Levels & Powering Up](#level---time-to-power-up)
+- [Appraisal & IVs](#appraisal-and-ivs)
 
 
 ## Moveset - Break out those TMs! (Or not)
@@ -64,19 +64,7 @@ This means that the highest level wild Pokemon can spawn at is **Lv35**, when we
 
 
 ## Psychic-types
-[![Mewtwo](https://img.pokemondb.net/sprites/go/normal/mewtwo.png)](http://pokemondb.net/pokedex/mewtwo)[![Exeggutor](https://img.pokemondb.net/sprites/go/normal/exeggutor.png)](http://pokemondb.net/pokedex/exeggutor)[![Espeon](https://img.pokemondb.net/sprites/go/normal/espeon.png)](http://pokemondb.net/pokedex/espeon)[![Latios](https://img.pokemondb.net/sprites/go/normal/latios.png)](http://pokemondb.net/pokedex/latios)
-
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
-
-<!--posts-->
-
-
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
-
-<!--projects-->
-
+![Mewtwo](https://img.pokemondb.net/sprites/go/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/go/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/go/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/go/normal/latios.png)
 
 ## A Printable Resume
 Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
