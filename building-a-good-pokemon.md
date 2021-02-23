@@ -64,7 +64,7 @@ This means that the highest level wild Pokemon can spawn at is **Lv35**, when we
 
 
 ## Psychic-types
-![Mewtwo](https://img.pokemondb.net/sprites/go/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/go/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/go/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/go/normal/latios.png)
+![Mewtwo](https://img.pokemondb.net/sprites/go/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/go/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/go/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/go/normal/latios.png)![Mewtwo](https://img.pokemondb.net/sprites/go/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/go/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/go/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/go/normal/latios.png)![Mewtwo](https://img.pokemondb.net/sprites/go/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/go/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/go/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/go/normal/latios.png)
 
 ## A Printable Resume
 Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
