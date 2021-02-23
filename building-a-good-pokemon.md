@@ -13,6 +13,10 @@ redirect_from:
 
 Not all Pokemon are created equal, but it's important to know how to get the best out of the Pokemon that you have.
 
+[Moveset - Break out those TMs! (Or not)]
+[Level - Time to Power-Up?]
+[Appraisal and IVs]
+
 ## Moveset - Break out those TMs! (Or not)
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
@@ -51,11 +55,11 @@ This means that the highest level wild Pokemon can spawn at is Lv35, when weathe
 
 **Research Rewards** (Field, Special, Timed, or Breakthrough) will be Lv15, regardless of weather.
 
-## Download
+## Appraisal and IVs
 
 |                               | Free                | PRO                 |
 |:------------------------------|:-------------------:|:-------------------:|
-| [Machamp]                     | Counter;            | Dynamic Punch;      |
+| Machamp                     | Counter;            | Dynamic Punch;      |
 | [Features]                    | &#x2714;            | &#x2714;            |
 | __Price__                     | __Free__            | <span class="price"><del>$99</del> <strong class="new-price">$69</strong> <small>One-Time Payment</small></span> [^22] |
 |===============================+=====================+=====================|
