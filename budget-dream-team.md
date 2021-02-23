@@ -53,6 +53,6 @@ That's probably the longest tagline on the site, but don't let the bad joke fool
 
 -----
 
-This marks the end of your time building budget teams. Let's move on to the big leagues.
-Continue on to [The ~~Budget~~ Dream Team](the-very-best.md){:.heading.flip-title}
+This marks the end of your time building budget teams. Let's move on to the big leagues.\
+Let's learn to build [The ~~Budget~~ Dream Team](the-very-best.md){:.heading.flip-title}
 {:.read-more}
