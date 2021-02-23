@@ -53,7 +53,14 @@ This means that the highest level wild Pokemon can spawn at is Lv35, when weathe
 
 ## Download
 
-{% include table.md %}
+|                               | Free                | PRO                 |
+|:------------------------------|:-------------------:|:-------------------:|
+| [Machamp]                     | Counter;            | Dynamic Punch;      |
+| [Features]                    | &#x2714;            | &#x2714;            |
+| __Price__                     | __Free__            | <span class="price"><del>$99</del> <strong class="new-price">$69</strong> <small>One-Time Payment</small></span> [^22] |
+|===============================+=====================+=====================|
+|                               | [__Download__][kit] | [__Buy PRO__][buy]{:.gumroad-button data-gumroad-single-product="true"} |
+{:.stretch-table.dl-table}
 
 
 ## A Free Blogging Theme
