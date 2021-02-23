@@ -30,6 +30,7 @@ A boutique Jekyll theme for hackers, nerds, and academics.
 
 > Confusion + Future Sight
 {:.note title="Moveset"}
+{:.faded}
 
 Espeon is the #1 vanilla Psychic-type, and will be good forever.
 
