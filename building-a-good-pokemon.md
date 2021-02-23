@@ -64,10 +64,11 @@ This means that the highest level wild Pokemon can spawn at is **Lv35**, when we
 
 
 ## Psychic-types
-![Mewtwo](https://img.pokemondb.net/sprites/go/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/go/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/go/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/go/normal/latios.png)
+![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/home/normal/latios.png)![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/home/normal/latios.png)![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/home/normal/latios.png)
 
 **Mewtwo** is a Legendary Pokemon.
 
+**Espeon** is a good starter.
 
 
 ---
