@@ -16,6 +16,7 @@ Not all Pokemon are created equal, but it's important to know how to get the bes
 - [Moveset](#moveset---break-out-those-tms-or-not)
 - [Levels & Powering Up](#level---time-to-power-up)
 - [Appraisal & IVs](#appraisal-and-ivs)
+- [Extra Tips](#extra-tips-and-notes)
 
 
 ## Moveset - Break out those TMs! (Or not)
@@ -37,13 +38,13 @@ Filler text...
 
 ### Default Levels
 
-> Weather will "boost" 2-3 types of Pokemon, increasing their spawned level by 5, and the lowest their IVs can be is 4, rather than 0.
-{:.figcaption}
-
 **Wild Pokemon** spawning normally on the map can be anywhere from **Lv1** up to whatever Trainer Level you are (or **Lv30**, if you're above Trainer Level 30).\
 If the current weather boosts the type of Pokemon that spawned, it will always be **5** levels higher than it would have been, even if that makes it higher than your Trainer Level (or past the Lv30 cap).
 
 This means that the highest level wild Pokemon can spawn at is **Lv35**, when weather boosted, and Lv30 otherwise.
+
+> Weather "boosts" 2-3 types of Pokemon. Their spawned level increases by 5, and their IVs are at least 4.
+{:.figcaption}
 
 **Raid Bosses** will be caught at **Lv20**, unless weather-boosted, in which case they gain the **+5** levels, as usual, making them **Lv25**. Catching weather-boosted Legendaries will save you a lot of hard to get Legendary Pokemon candy, and/or Rare Candy. Though keep in mind that the Raid Boss will be **5** levels higher in the Raid Battle as well, making it harder to defeat.
 
@@ -64,7 +65,7 @@ This means that the highest level wild Pokemon can spawn at is **Lv35**, when we
 
 
 ## Psychic-types
-![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/home/normal/latios.png)![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/home/normal/latios.png)![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)![Latios](https://img.pokemondb.net/sprites/home/normal/latios.png)
+![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)
 
 **Mewtwo** is a Legendary Pokemon.
 
