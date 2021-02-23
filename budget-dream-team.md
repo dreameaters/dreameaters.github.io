@@ -9,7 +9,7 @@ redirect_from:
   - /the-budget-dream-team/
 ---
 
-# Building a Good Pokemon
+# The Budget Dream Team
 
 Not all Pokemon are created equal, but it's important to know how to get the best out of the Pokemon that you have.
 
@@ -50,3 +50,9 @@ Glass-cannon, but very easy to get if you have friends to trade with.
 {:.figcaption}
 
 That's probably the longest tagline on the site, but don't let the bad joke fool you. Exeggutor is a very strong Psychic-type to start out with, if you're left with no easier choices. Unfortunately, Exeggcute isn't always easy to come by, but if the season's right and Grass-type Pokemon are common in your area, then it's definitely worth catching some during Clear weather (which is *far* more common than the Psychic-boosting Windy weather) and evolving your Lv30+ ones to quickly build a solid team of **Confusion + Psychic** attacking palm trees.
+
+-----
+
+This marks the end of your time building budget teams. Let's move on to the big leagues.
+Continue on to [The ~~Budget~~ Dream Team](the-very-best.md){:.heading.flip-title}
+{:.read-more}
