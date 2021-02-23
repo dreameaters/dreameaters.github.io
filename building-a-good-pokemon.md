@@ -9,8 +9,9 @@ redirect_from:
   - /download/
 ---
 
-# About
+# Building a Good Pokemon
 
+Not all Pokemon are created equal, 
 <!--author-->
 
 ## Moveset - Break out those TMs! (Or not)
