@@ -44,7 +44,7 @@ If the current weather boosts the type of Pokemon that spawned, it will always b
 This means that the highest level wild Pokemon can spawn at is **Lv35**, when weather boosted, and Lv30 otherwise.
 
 > Weather boosts 2-3 types of Pokemon. Their spawned level increases by 5, and their IVs are at least 4.
-{:.figcaption}
+{:.note}
 
 **Raid Bosses** will be caught at **Lv20**, unless weather-boosted, in which case they gain the **+5** levels, as usual, making them **Lv25**. Catching weather-boosted Legendaries will save you a lot of hard to get Legendary Pokemon candy, and/or Rare Candy. Though keep in mind that the Raid Boss will be **5** levels higher in the Raid Battle as well, making it harder to defeat.
 
