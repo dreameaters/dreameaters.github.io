@@ -51,6 +51,8 @@ author:
 menu:
   - title:             Example
     url:               /example/
+  - title:             Building a Good Pokemon
+    url:               /building-a-good-pokemon/
   - title:             Documentation
     url:               /docs/
   - title:             About
