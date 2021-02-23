@@ -49,12 +49,17 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
   - title:             Building a Good Pokemon
     url:               /building-a-good-pokemon/
+  - title:             The Budget Dream Team
+    url:               /comparing-pokemon/
+  - title:             Comparing Pokemon
+    url:               /comparing-pokemon/
   - title:             Top Pokemon by Type
     url:               https://docs.google.com/spreadsheets/d/e/2PACX-1vShfgtljtudTCVkQsWUog-e1z2VXZx_GkVJ_AnvX-gw11NhgDS7uhGBjrEGVYkA0S4Iqdr6lM7DM9BM/pubhtml?gid=1988159086&single=true
+  - title:             -----
+  - title:             Example
+    url:               /example/
   - title:             Documentation
     url:               /docs/
   - title:             About
@@ -63,12 +68,16 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+  - title:             CONTACT
+    url:               /CONTACT/
+  - title:             ABOUT
+    url:               /about/
+#  - title:             LICENSE
+#    url:               /LICENSE/
+#  - title:             NOTICE
+#    url:               /NOTICE/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
