@@ -13,9 +13,9 @@ redirect_from:
 
 Not all Pokemon are created equal, but it's important to know how to get the best out of the Pokemon that you have.
 
-[Moveset - Break out those TMs! (Or not)]
-[Level - Time to Power-Up?]
-[Appraisal and IVs]
+[Moveset](#moveset---break-out-those-tms-or-not)
+[Levels & Powering Up](#level---time-to-power-up)
+[Appraisal & IVs](#appraisal-and-ivs)
 
 ## Moveset - Break out those TMs! (Or not)
 
@@ -57,13 +57,11 @@ This means that the highest level wild Pokemon can spawn at is Lv35, when weathe
 
 ## Appraisal and IVs
 
-|                               | Free                | PRO                 |
-|:------------------------------|:-------------------:|:-------------------:|
-| Machamp                     | Counter;            | Dynamic Punch;      |
-| [Features]                    | &#x2714;            | &#x2714;            |
-| __Price__                     | __Free__            | <span class="price"><del>$99</del> <strong class="new-price">$69</strong> <small>One-Time Payment</small></span> [^22] |
-|===============================+=====================+=====================|
-|                               | [__Download__][kit] | [__Buy PRO__][buy]{:.gumroad-button data-gumroad-single-product="true"} |
+| Pokemon         | Fast Move     | Carge Move    |
+|:----------------|:-------------:|:-------------:|
+| __Machamp__     | Counter       | Dynamic Punch |
+|=================+===============+===============|
+| __Tyranitar__   | Confusion     | Psychic?      |
 {:.stretch-table.dl-table}
 
 
