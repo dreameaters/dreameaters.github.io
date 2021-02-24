@@ -7,7 +7,7 @@ description: >
 hide_description: true
 redirect_from:
   - /map/
-  - /site-map/
+  - /sitemap/
 ---
 
 # Sitemap
@@ -34,6 +34,7 @@ This should not be a drop-down. Instead, a page similar to Docs. Indexes stand-a
 Compare vanilla Pokémon to each of those categories, and show how important, or unimportant, the differences are.
 Break down by type, to get further into detail. (Note how this is mostly only important if short-manning.)\
 Also, offer suggestions on what non-vanilla options are worth the investment, and which are negligible. (Almost all of my research on this is already complete, but now that Megas are established I'll need to look into those to round out this analysis for my documentation.)
+
 
 # [Teambuilding]
 Guides on top Pokemon, how to get them, and how to build them. Divided by stages of play.
