@@ -15,7 +15,7 @@ Not all Pokemon are created equal, but it's important to know how to get the bes
 
 1. [Psychic Starter](#moveset---break-out-those-tms-or-not)
 2. [Fighting Back!](#level---time-to-power-up)
-3. [Rocks in the Dark](#appraisal-and-ivs)
+3. [Dark as Night](#appraisal-and-ivs)
 4. [Mewtwo & Friends](#extra-tips-and-notes)
 {:toc}
 
@@ -50,9 +50,9 @@ Espeon is the #1 vanilla Psychic-type, and will be good forever.
 {:.note title="B-Tier Moveset"}
 {:.faded}
 
-Glass-cannon, but very easy to get if you have friends to trade with.\
+Glass-cannon, but very easy to get if you have friends to trade with.
 
-> Alakazam has Psychic as an *Elite* Charge Move. That means it can only learn it via an Elite Charge TM. It's better than Future Sight, but please don't use your Elite Charge TM on it. There are **much** better uses for it once you have rarer and more powerful Pokemon. It's not worth it at all.
+Alakazam has Psychic as an *Elite* Charge Move. That means it can only learn it via an Elite Charge TM. It's better than Future Sight, but please don't use your Elite Charge TM on it. There are **much** better uses for it once you have rarer and more powerful Pokemon. It would be a huge waste.
 {:.note}
 
 ### Exeggutor - Can't make a Raid party without breaking a few eggs.
@@ -68,6 +68,65 @@ Glass-cannon, but very easy to get if you have friends to trade with.\
 {:.faded}
 
 That's probably the longest tagline on the site, but don't let the bad joke fool you. Exeggutor is a very strong Psychic-type to start out with, if you're left with no easier choices. Unfortunately, Exeggcute isn't always easy to come by, but if the season's right and Grass-type Pokemon are common in your area, then it's definitely worth catching some during Clear weather (which is *far* more common than the Psychic-boosting Windy weather) and evolving your Lv30+ ones to quickly build a solid team of **Confusion + Psychic** attacking palm trees.
+
+
+## Fighting Back! - Mind Over Matter
+
+### Machamp
+
+![Machop](https://img.pokemondb.net/sprites/home/normal/machop.png)![Machoke](https://img.pokemondb.net/sprites/home/normal/machoke.png)![Machamp](https://img.pokemondb.net/sprites/home/normal/machamp.png)
+
+> Confusion + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+> Extrasensory + Psychic
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+### Breloom
+
+![Exeggcute](https://img.pokemondb.net/sprites/home/normal/exeggcute.png)![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)
+
+> Confusion + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+> Extrasensory + Psychic
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+### Hariyama
+
+![Exeggcute](https://img.pokemondb.net/sprites/home/normal/exeggcute.png)![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)
+
+> Confusion + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+> Extrasensory + Psychic
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+
+## Dark as Night - Fight evil, then harness it!
+
+All of the Dark-type Pokemon listed below are in 3⭐ Raids quite often, and have Mega Evolutions (only Houndoom is released so far). This should make any of the three relatively accessible, as well as making it easy to grind Mega Energy for them at the same time (which would make them even better for future Raids).
+
+### Tyranitar
+
+### Houndoom
+
+### Absol
+
+
+## Mewtwo and Friends - ???
+
+### Mewtwo
+
+### Darkrai
+
+### Giratina (Origin Forme)
 
 -----
 
