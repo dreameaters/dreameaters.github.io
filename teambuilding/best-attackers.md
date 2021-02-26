@@ -97,7 +97,7 @@ Houndoom can be easy to get if you find many Fire-types in the wild near you, or
 ### Tyranitar - The Old King
 ![Tyranitar](https://img.pokemondb.net/sprites/home/normal/tyranitar.png)
 
-> Confusion/Zen Headbutt + Psychic
+> Bite + Crunch
 {:.note title="Optimal Moveset"}
 {:.faded}
 
