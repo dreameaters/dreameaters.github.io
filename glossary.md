@@ -1,6 +1,5 @@
 ---
 layout: page
-image: /assets/img/blog/hydejack-9.jpg
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
@@ -22,4 +21,7 @@ Not all Pokemon are created equal, but it's important to know how to get the bes
 ## Psychic Starter - Walking with Eevee
 
 ### DPS (Damage Per Second)
+text
+
+### TDO (Total Damage Output)
 text
