@@ -662,7 +662,7 @@ If you want a big Bug-type, this is it. Though its runner-up is just barely belo
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow Pokemon for a while now, making it quite easy to get your hands on (especially as purifying the Shadow will get you a Lv25 easily). As Genesect is only slightly better offensively, most players will do just fine relying on Pinsir, or to a slightly lesser degree any of the budget Bug-types I've written about in [The Budget Dream Team.](/go/teambuilding/budget-dream-team.md){:.heading.flip-title}
+Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow Pokemon for a while now, making it quite easy to get your hands on (especially as purifying the Shadow will get you a Lv25 easily). As Genesect is only slightly better offensively, most players will do just fine relying on Pinsir, or to a slightly lesser degree any of the budget Bug-types I've written about in [The Budget Dream Team.](/go/teambuilding/budget-dream-team){:.heading.flip-title}
 {:.read-more}
 
 ## Fairy-Type
