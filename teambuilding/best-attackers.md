@@ -63,7 +63,7 @@ Darkrai is the best Dark-type in the game, and will likely keep that title forev
 {:.note title="Honchkrow Moveset"}
 {:.faded}
 
-Weavile and Honchkrow perform very similarly when Honchkrow uses **Dark Pulse** instead of **Sky Attack**, so I'm covering them together. When Honchkrow uses the optimal **Sky Attack** rather than going with a Double-Dark Moveset to match Weavile, it's much like Darkrai instead.\
+Weavile and Honchkrow perform very similarly when Honchkrow uses **Dark Pulse** instead of **Sky Attack**, so I'm covering them together. When Honchkrow uses the optimal **Sky Attack** rather than going with a **Double-Dark Moveset** to match Weavile, it's much like Darkrai instead.\
 Weavile evolves from Sneasel, and Honchkrow from Murkrow. Both require 100 Candy and a Sinnoh Stone to evolve. These Pokemon are both regularly uncommon, with Sneasel showing up more easily during Snowy weather. It will take some time, but should be a pretty consistent grind to get either of these two, and they're always worth catching. (Though Murkrow has a pretty annoying catch rate. Razz Berries recommended.)
 
 > Noting that Honchkrow uses **Sky Attack** as its Charge Move, it can learn **Dark Pulse** instead at the cost of 16.7% DPS (damage per second) in exchange for a **Double-Dark Moveset**. This makes it on par with Weavile, rather than Darkrai.
@@ -76,7 +76,7 @@ Weavile evolves from Sneasel, and Honchkrow from Murkrow. Both require 100 Candy
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Espeon is the #1 vanilla Psychic-type, and will be good forever.
+Hydreigon is a powerful Dark-type attacker, if you can manage to get one.
 
 ### Houndoom - Hell Hound
 ![Houndoom](https://img.pokemondb.net/sprites/home/normal/houndoom.png)
@@ -614,7 +614,7 @@ Important, with Grass and Ice, for Ground-types like Groudon. Can pair with Rock
 {:.note title="Crawdaunt's Moveset"}
 {:.faded}
 
-Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in order to have a Double-Water Moveset, sacrificing 7.8% DPS.
+Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in order to have a **Double-Water Moveset**, sacrificing 7.8% DPS.
 
 ### Palkia - Rend the Tide!
 ![Palkia](https://img.pokemondb.net/sprites/home/normal/palkia.png)
@@ -729,7 +729,7 @@ Grass/Poison is very common, and Steel beats Fairy better. (Still worth somethin
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-[As discussed in the Ghost-type section](#gengar---now-you-see-me-now-you-dont), Gengar hits very hard and gets hit very hard in return. This holds true as a Poison-type attacker, boasting only slightly lower DPS (1% less than a Double-Ghost Moveset). If you have a good Gengar, you should already know to give it Ghost-type moves, but if you have a full team of Pokemon better than it (minus keeping one to Mega Evolve), then maybe you can give it new life with **Sludge Bomb**, however rarely it may be used.
+[As discussed in the Ghost-type section](#gengar---now-you-see-me-now-you-dont), Gengar hits very hard and gets hit very hard in return. This holds true as a Poison-type attacker, boasting only slightly lower DPS (1% less than a **Double-Ghost Moveset**). If you have a good Gengar, you should already know to give it Ghost-type moves, but if you have a full team of Pokemon better than it (minus keeping one to Mega Evolve), then maybe you can give it new life with **Sludge Bomb**, however rarely it may be used.
 
 ### Roserade - Why so Toxic?
 ![Roserade](https://img.pokemondb.net/sprites/home/normal/roserade.png)
@@ -738,7 +738,7 @@ Grass/Poison is very common, and Steel beats Fairy better. (Still worth somethin
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-The only Double-Poison Moveset worth talking about here. There are several in [The Budget Dream Team](/teambuilding/budget-dream-team/) but none that hit hard enough to warrant a slot on this page. Once again, it's a Pokemon we've already covered, this time in the [Grass-type section](#roserade---beauty-and-thorns), Roserade. The same goes here as it does for Gengar. You should already be using Roserade as a Grass-type attacker (especially as it's #1), but if you have tons or just love Poison-type, then sure, do this I guess.
+The only **Double-Poison Moveset** worth talking about here. There are several in [The Budget Dream Team](/teambuilding/budget-dream-team/) but none that hit hard enough to warrant a slot on this page. Once again, it's a Pokemon we've already covered, this time in the [Grass-type section](#roserade---beauty-and-thorns), Roserade. The same goes here as it does for Gengar. You should already be using Roserade as a Grass-type attacker (especially as it's #1), but if you have tons or just love Poison-type, then sure, do this I guess.
 
 
 ## Normal-Type
