@@ -548,7 +548,7 @@ As it takes 100 Candy to evolve Rhydon to Rhyperior (plus a Sinnoh Stone), you w
 {:.faded}
 
 ### Genesect - Death Metal Bug
-![Genesect](https://img.pokemondb.net/sprites/home/normal/genesect.png)![Heatran](https://img.pokemondb.net/sprites/home/normal/heatran.png)![Jirachi](https://img.pokemondb.net/sprites/home/normal/jirachi.png)
+![Genesect](https://img.pokemondb.net/sprites/home/normal/genesect.png)
 
 > Metal Claw + Magnet Bomb
 {:.note title="Optimal Moveset"}
