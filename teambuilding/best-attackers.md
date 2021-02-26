@@ -45,6 +45,10 @@ This article serves to give an analysis and breakdown of the various top perform
 These are the Types that you'll get the most use out of, simply due to the fact that lots of 5⭐ and Mega Raid Bosses are weak to them.
 
 ## Dark-Type
+
+**Dark-type** Pokemon will be your best friends against **Psychic-types** like Mewtwo, Latios, Lugia, Cresselia, and more. Dealing Super-Effective damage while also boasting a 2x Resistance to Psychic-type moves, Dark-type Pokemon will hit hard, and survive very well at the same time.\
+They'll also help you deal with **Ghost-types** well enough, hitting for weakness again, while taking neutral damage in return.
+
 ### Darkrai - Shadow of Nightmares
 ![Darkrai](https://img.pokemondb.net/sprites/home/normal/darkrai.png)
 
@@ -104,6 +108,9 @@ The greatest Dark-type attacker back in the day, Tyranitar is still a force to b
 
 
 ## Dragon-Type
+
+Super-effective against their own kind, **Dragon-types** are a bit of a double-edged sword, but they also happen to be some of the strongest Pokemon in existence. Though they faint quickly to each other, they're also the quickest at taking each other down. You're bound to amass a great collection of powerful Dragons eventually, and until then, **Ice-types** will help you wear them down to capture for yourself.
+
 ### Rayquaza - King of Dragons
 ![Rayquaza](https://img.pokemondb.net/sprites/home/normal/rayquaza.png)
 
@@ -168,6 +175,9 @@ Both strong Dragons, but extremely top their other types, Electric and Fire resp
 
 
 ## Rock-Type
+
+Rock and roll! **Rock-type** Pokemon lead the pack in defeating both **Flying-type** and **Fire-type** Pokemon. If you're lacking in other types, they can also take down most **Ice-types** well enough. Plus, if you have any **Bug-types** to squish, rather than burn, then **Rock-type** Pokemon will server you well.
+
 ### Rampardos - Extinct for a reason.
 ![Rampardos](https://img.pokemondb.net/sprites/home/normal/rampardos.png)
 
@@ -198,6 +208,9 @@ Both strong Dragons, but extremely top their other types, Electric and Fire resp
 
 
 ## Fire-Type
+
+The searing flames of **Fire-type** Pokemon should be your first pick for dealing with **Grass**, **Ice**, or **Steel-type** Pokemon. With *many* powerful Pokemon in this Type, every Trainer is sure to have a good roster of **Fire-types** ready to blaze through the competition.
+
 ### Reshiram - Lord of Fire
 ![Reshiram](https://img.pokemondb.net/sprites/home/normal/reshiram.png)
 
@@ -271,6 +284,9 @@ Using **Fire Spin** instead of **Counter** For Blaziken's Fast Move gives you a 
 **Overheat** is less than 1% DPS stronger than **Flamethrower**, so either is perfectly fine. Just be sure to replace **Fire Blast** if you have it, as it's far worse than the other two. (Also the Elite Move **Last Resort**, if evolved during a special event. It's only used in Go Battle League.)
 
 ## Fighting-Type
+
+The big bruisers of the Pokemon world! **Fighting-type** Pokemon live up to their name, boasting incredible Attack power. There's no better choice for breaking apart **Rock-types**, and are *required* for facing off against **Dark-types**. Also, if you ever need to, they're the only Type that's Super-Effective against **Normal-type** Pokemon.
+
 ### Lucario - The Aura Warrior
 ![Lucario](https://img.pokemondb.net/sprites/home/normal/lucario.png)
 
@@ -310,6 +326,9 @@ Using **Fire Spin** instead of **Counter** For Blaziken's Fast Move gives you a 
 
 
 ## Psychic-Type
+
+Proudly including the most powerful Pokemon of all time, Mewtwo, the **Psychic-type** has been considered extremely powerful since Pokemon first began. It still holds up well to that acclaim now, tearing through **Fighting-type** Pokemon, and **Poison-types**. Even in neutral matchups, Mewtwo itself can be a reliable party member.
+
 ### Mewtwo - The Most Powerful Pokemon
 ![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)
 
@@ -346,7 +365,9 @@ Simply more offensive than its red sister, Latias.
 
 
 ## Ice-Type
-Dragon-killers.
+
+When you have no Dragons, you'll want plenty of **Ice-types**. Freezing **Dragon-type** Pokemon out of the sky, especially the ones that are also **Flying-type** (I'm looking at you, Rayquaza), these chill Pokemon will have a great place in your Raid Parties. Not to mention their use against **Ground-types**, and **Fire-types** if you lack their other counters.
+
 ### Darmanitan (Galarian) - Insert Snowman Joke
 ![Darmanitan](https://img.pokemondb.net/sprites/home/normal/darmanitan-galarian-standard.png)
 
@@ -391,6 +412,9 @@ Dragon-killers.
 
 
 ## Electric-Type
+
+Having only a single weakness in **Ground-types**, **Electric-type** Pokemon can be intimidating to battle against. Hitting Super-Effective damage against **Flying** and **Water-type** Pokemon means there are very common Pokemon that these shocking monsters can paralyze.
+
 ### Zekrom - Lord of Thunder
 ![Zekrom](https://img.pokemondb.net/sprites/home/normal/zekrom.png)
 
@@ -435,7 +459,9 @@ Dragon-killers.
 
 
 ## Ghost-Type
-Counters the same Types as Dark, but has stronger Pokemon on average, and at best.
+
+Much like Dragons, **Ghost-type** Pokemon are weak and strong against each other. Though **Dark-types** have nothing to fear from these ghouls, **Ghost-types** will hit even harder than the dark foes. It's a real risk for reward, and when Raiding, fainting faster is always worth it to KO the Raid Boss fast as well.
+
 ### Darkrai - That's no ghost!
 ![Darkrai](https://img.pokemondb.net/sprites/home/normal/darkrai.png)
 
@@ -473,7 +499,9 @@ Counters the same Types as Dark, but has stronger Pokemon on average, and at bes
 
 
 ## Ground-Type
-The only counter to Electric-types.
+
+As the *only* counter to **Electric-types**, **Ground-type** Pokemon are absolutely required in any Trainer's box. Dealing well with **Steel** and **Fire-types** means that these earthly beasts will have many chances to prove their worth to you.
+
 ### Landorus (Therian Forme) - The old ones warned about this...
 ![Landorus](https://img.pokemondb.net/sprites/home/normal/landorus-therian.png)
 
@@ -519,6 +547,9 @@ The only counter to Electric-types.
 As it takes 100 Candy to evolve Rhydon to Rhyperior (plus a Sinnoh Stone), you would be best off just using that candy to get more Rhydon first if you're on a budget. You can always evolve your Rhydon army into a Rhyperior army later on, but having multiple Rhydon will be more useful to fill out a starting Ground-type Party than a single Rhyperior. Just remember that of course the evolution is always an upgrade, so long as you already have 6 Pokemon to fill your Party.
 
 ## Steel-Type
+
+Nothing fares better against **Ice-types** than **Steel-type** Pokemon. Should any **Fairy-type** Pokemon give you trouble, with their high Defense, then **Steel-types** are sure to cut them down to size, like a hero's sword.
+
 ### Metagross - Meteor Mash or Bust!
 ![Metagross](https://img.pokemondb.net/sprites/home/normal/metagross.png)
 
@@ -559,9 +590,13 @@ As it takes 100 Candy to evolve Rhydon to Rhyperior (plus a Sinnoh Stone), you w
 
 # B-Tier Types
 
+These couple of Types both counter two of the same Types, and one unique Type each. In addition covering for eachother, which they both do so equally well, they both have three Types from the group above that simply do their jobs better most of the time. So, while these two Types are certainly nothing to stick your nose up to, you may eventually find yourself using them less often as you collect more powerful options.\
+Listen to me though, this doesn't mean you should ignore them. They're largely accessible, and easier to train up than the Types we've covered already. They could be the quick start you've been looking for.
+
 ## Grass-Type
-Outclassed by Electric, Ice, and Fighting.
-Important, with Water and Ice, for Ground-types like Groudon. Can pair with Water and Ground against Rock.
+
+Outclassed by **Electric**, **Ice**, and **Fighting**, **Grass-type** Pokemon are built to counter **Water**, **Ground**, and **Rock-types**. They still work very well, but there's normally a better counter out there, if you can get one.
+
 ### Roserade - Beauty and Thorns!
 ![Roserade](https://img.pokemondb.net/sprites/home/normal/roserade.png)
 
@@ -592,8 +627,10 @@ Important, with Water and Ice, for Ground-types like Groudon. Can pair with Wate
 
 
 ## Water-Type
-Outclassed by Ice, Ground, and Rock.
-Important, with Grass and Ice, for Ground-types like Groudon. Can pair with Rock against Fire.
+
+Outclassed by **Ice**, **Ground**, and **Rock-types**, **Water-type** Pokemon can still hold their own and take down **Fire**, **Ground**, and **Rock-type** Pokemon.
+Though **Water** and **Grass-types** share a couple purposes, they are on par with each other and will do their jobs well when needed.
+
 ### Kyogre - Leviathan (Stay Tuned!)
 ![Kyogre](https://img.pokemondb.net/sprites/home/normal/kyogre.png)
 
@@ -644,7 +681,9 @@ Using **Aqua Tail†** (Gyarados' Community Day Elite Move) instead of **Hydro P
 The Types listed here are almost never useful for Raiding, either due to terrible Attack stats, bad moves, or simply existing in the shadow of another Type that counters its targets better. Trainers generally ignore these Types when building Raid Parties, but as everyone has their favorite Types and may want to know how they can get the most out of them, I'm including them in this article mostly for the sake of completion. Be warned though that I will be ripping into them pretty hard, as I have almost nothing good to say about their capabilities as attackers. Several of them have better uses in [Go Battle League](/go/pvp/), but you'll have to read about that on another section of the site.
 
 ## Bug-Type
-Never meant to be big bois.
+
+The **Bug-type** was simply never meant to be a big deal, as sad as that is to say plainly. They can counter big Types like **Dark** and **Psychic**, as well as **Grass**, but we've already discussed ways to deal with those, and **Bug-types** have *much* lower stats to work with. Fainting faster, and not hitting very hard, it's tough to find any reason to use them in Raids.
+
 ### Genesect - Metabee?
 ![Genesect](https://img.pokemondb.net/sprites/home/normal/genesect.png)
 
@@ -666,7 +705,9 @@ Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow
 {:.read-more}
 
 ## Fairy-Type
-Defensive af, leaves nothing left for offense.
+
+The things of storybooks and fables, **Fairy-type** Pokemon have a unique mystique to them, that unfortunately doesn't translate well into battle. Though they do counter **Dragon-types** better than anything else, with a 2x Resistance to the beasts, that's the part they were built for: Defense. **Fairies** will take a beating and keep standing, but at the cost of having very poor offense to work with. As I said at the very start of this article, we want fast power in high DPS, even if it means fainting more. Surviving until the end doesn't help us if the timer runs out before the Raid Boss faints.
+
 ### Gardevoir - Pretty, I guess.
 ![Gardevoir](https://img.pokemondb.net/sprites/home/normal/gardevoir.png)
 
@@ -695,7 +736,9 @@ Togekiss is the final stage of Togepi. Meaning you either have to hatch a Togepi
 The only Fairy-type up here that can be found with any sort of ease. Snubbull around in the wild every now and then, and only takes 50 candy to evolve into Granbull. Granbull isn't even very far behind Togekiss or even Gardevoir in terms of attacking Raid Bosses, so it's much more worth your time and effort to just worry about grabbing a few of these if you really want Fairy-types for a Raid Party, for some reason. I should remind you though, there are better types out there.
 
 ## Flying-Type
-Fire and Psychic do its jobs better.
+
+Simply said, **Fire** and **Psychic-types** hit harder than **Flying-type** Pokemon tend to, and are less fragile. There are very few Raid Bosses that would be better countered by these birds, and only a single Legendary. (Virizion)
+
 ### Moltres - Sky Attack or Bust
 ![Moltres](https://img.pokemondb.net/sprites/home/normal/moltres.png)
 
@@ -719,7 +762,9 @@ Fire and Psychic do its jobs better.
 
 
 ## Poison-Type
-Grass/Poison is very common, and Steel beats Fairy better. (Still worth something against it?)
+
+With one of **Poison's** main targets being **Grass**, which often has **Poison** as its secondary Type, these toxic monsters are off to a bad start. Beyond the two Pokemon listed here, **Poison-types** have comparable stats to the lowly **Bugs** we covered higher up. The one thing they might be good for is breaking through **Fairy-type** Pokemon's high Defense, but **Steel-types** are still better suited for the job.
+
 ### Gengar - Ghosts and Ghosts and Ghosts
 ![Gengar](https://img.pokemondb.net/sprites/home/normal/gengar.png)
 
@@ -740,4 +785,6 @@ The only **Double-Poison Moveset** worth talking about here. There are several i
 
 
 ## Normal-Type
-No STAB and only 2x resistance on Ghost means it's never good for attacking.
+
+The most unfortunate Type when it comes to attacking, the **Normal-type** isn't Super-Effective against any Type at all. Though they can often learn a wide variety of Typed moves, they won't get STAB on any of them, making them 25% weaker all the time when compared to properly Typed counters.\
+Though I'm personally a fan of many **Normal-type** Pokemon, I'll be discussing none here, because they won't do you any good at all in Raid Battles.
