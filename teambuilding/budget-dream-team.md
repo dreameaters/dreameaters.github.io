@@ -133,3 +133,6 @@ All of the Dark-type Pokemon listed below are in 3⭐ Raids quite often, and hav
 This marks the end of your time building budget teams. Let's move on to the big leagues.\
 Let's learn to build [The ~~Budget~~ Dream Team](the-very-best.md){:.heading.flip-title}
 {:.read-more}
+
+This is a test link to [glossary](..glossary.md){:.heading.flip-title}
+{:.read-more}
