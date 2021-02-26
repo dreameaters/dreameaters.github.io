@@ -63,7 +63,11 @@ Darkrai is the best Dark-type in the game, and will likely keep that title forev
 {:.note title="Honchkrow Moveset"}
 {:.faded}
 
-It's worth noting that Honchkrow uses **Sky Attack** as its Charge Move, which is not Dark-type. It can learn **Dark Pulse** instead, but loses a heafty 16.7% DPS (damage per second) in exchange for a **Double-Dark Moveset**
+Weavile and Honchkrow perform very similarly when Honchkrow uses **Dark Pulse** instead of **Sky Attack**, so I'm covering them together. When Honchkrow uses the optimal **Sky Attack** rather than going with a Double-Dark Moveset to match Weavile, it's much like Darkrai instead.\
+Weavile evolves from Sneasel, and Honchkrow from Murkrow. Both require 100 Candy and a Sinnoh Stone to evolve. These Pokemon are both regularly uncommon, with Sneasel showing up more easily during Snowy weather. It will take some time, but should be a pretty consistent grind to get either of these two, and they're always worth catching. (Though Murkrow has a pretty annoying catch rate. Razz Berries recommended.)
+
+> Noting that Honchkrow uses **Sky Attack** as its Charge Move, it can learn **Dark Pulse** instead at the cost of 16.7% DPS (damage per second) in exchange for a **Double-Dark Moveset**. This makes it on par with Weavile, rather than Darkrai.
+{:.note title="Note: Double-Dark Honchkrow"}
 
 ### Hydreigon - Tyrant Dragon
 ![Hydreigon](https://img.pokemondb.net/sprites/home/normal/hydreigon.png)
@@ -294,7 +298,7 @@ Using **Fire Spin** instead of **Counter** For Blaziken's Fast Move gives you a 
 {:.note title="B-Tier Moveset"}
 {:.faded}
 
-Close Combat does soften Machamp's impact noticeably, but as Machamp has 5 different Charge Moves, you could easily burn several Charge TMs trying to swap to Dynamic Punch. So if you're short on Charge TMs, sticking with Close Combat can be good enough until you have some extras to gamble with, but know that Dynamic Punch is definitely worth the upgrade.
+**Close Combat** does soften Machamp's impact noticeably, but as Machamp has 5 different Charge Moves, you could easily burn several Charge TMs trying to swap to **Dynamic Punch**. So if you're short on Charge TMs, sticking with **Close Combat** can be good enough until you have some extras to gamble with, but know that **Dynamic Punch** is definitely worth the upgrade.
 
 ### Breloom & Hariyama - Two Halves of Machamp
 ![Breloom](https://img.pokemondb.net/sprites/home/normal/breloom.png)![Hariyama](https://img.pokemondb.net/sprites/home/normal/hariyama.png)
@@ -602,8 +606,8 @@ Important, with Grass and Ice, for Ground-types like Groudon. Can pair with Rock
 ### Kingler & Crawdaunt - Crushing Claws
 ![Kingler](https://img.pokemondb.net/sprites/home/normal/kingler.png)![Crawdaunt](https://img.pokemondb.net/sprites/home/normal/crawdaunt.png)
 
-> Transform + Struggle
-{:.note title="Optimal Moveset"}
+> Bubble + Crabhammer
+{:.note title="Kingler's Moveset"}
 {:.faded}
 
 > Snarl + Crabhammer
@@ -620,7 +624,7 @@ Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in 
 {:.faded}
 
 ### Swampert, Feraligatr & Empoleon - Hydro Cannon!!
-![Swampert](https://img.pokemondb.net/sprites/home/normal/swampert.png)![Feraligatr](https://img.pokemondb.net/sprites/home/normal/feraligatrpng)![Empoleon](https://img.pokemondb.net/sprites/home/normal/empoleon.png)
+![Swampert](https://img.pokemondb.net/sprites/home/normal/swampert.png)![Feraligatr](https://img.pokemondb.net/sprites/home/normal/feraligatr.png)![Empoleon](https://img.pokemondb.net/sprites/home/normal/empoleon.png)
 
 > Transform + Struggle
 {:.note title="Optimal Moveset"}
@@ -734,7 +738,7 @@ Grass/Poison is very common, and Steel beats Fairy better. (Still worth somethin
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-The only Double-Poison Moveset worth talking about here. There are several in [The Budget Dream Team](/budget-dream-team/) but none that hit hard enough to warrant a slot on this page. Once again, it's a Pokemon we've already covered, this time in the [Grass-type section](#roserade---beauty-and-thorns), Roserade. The same goes here as it does for Gengar. You should already be using Roserade as a Grass-type attacker (especially as it's #1), but if you have tons or just love Poison-type, then sure, do this I guess.
+The only Double-Poison Moveset worth talking about here. There are several in [The Budget Dream Team](/teambuilding/budget-dream-team/) but none that hit hard enough to warrant a slot on this page. Once again, it's a Pokemon we've already covered, this time in the [Grass-type section](#roserade---beauty-and-thorns), Roserade. The same goes here as it does for Gengar. You should already be using Roserade as a Grass-type attacker (especially as it's #1), but if you have tons or just love Poison-type, then sure, do this I guess.
 
 
 ## Normal-Type
