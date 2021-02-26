@@ -134,5 +134,5 @@ This marks the end of your time building budget teams. Let's move on to the big 
 Let's learn to build [The ~~Budget~~ Dream Team](the-very-best.md){:.heading.flip-title}
 {:.read-more}
 
-This is a test link to [glossary](..glossary.md){:.heading.flip-title}
+This is a test link to [glossary](/glossary.md){:.heading.flip-title}
 {:.read-more}
