@@ -2,8 +2,8 @@
 layout: page
 image: /assets/img/articles/top_attackers.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  A breakdown and analysis of top Pokemon to use against
+  Raid Bosses in Pokemon Go, divided by Type.
 hide_description: true
 redirect_from:
   - /top-mon/
@@ -11,7 +11,10 @@ redirect_from:
 
 # Best Attackers to Train
 
-Boop.
+This article serves to give an analysis and breakdown of the various top performing Pokemon in terms of battling Raid Bosses. The main aspect important in an attacker is high DPS (Damage Per Second), meaning that bulkier Pokemon with high Defense or HP won't be as useful. Pokemon with simply high Attack, and powerful moves, will prevail here. Also, it's a high priority for attackers to exclusively use moves matching one of their Types, like a Fire-type Pokemon using a Fire-type move, as it would gain STAB (Same Type Attack Bonus), making the move 25% more powerful. Finally, having a moveset where both moves are the same Type is commonly called a "Double-<type>" moveset, and is almost always ideal.
+
+> Charizard, a Fire/Flying-type Pokemon, with the Fast Move of **Fire Spin** and the Charge Move of **Blast Burn** would be considered to have a **Double-Fire Moveset**, allowing it to constantly deal Super-Effective damage on a Bug, Grass, or Ice-type opponent, and would deal 25% more damage due to STAB with both moves.
+{:.note title="Example of an Ideal Attacker"}
 
 * [Major Types](#major-types)
   - [Dark](#dark-type)
