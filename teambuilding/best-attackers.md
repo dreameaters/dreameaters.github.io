@@ -76,20 +76,16 @@ Weavile evolves from Sneasel, and Honchkrow from Murkrow. Both require 100 Candy
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Hydreigon is a powerful Dark-type attacker, if you can manage to get one.
+Hydreigon is a powerful Dark-type attacker, if you can manage to get one. The base-stage, Deino, is only available from Go Battle League reward encounters, and 12km red eggs (at the time of writing this). So it's bound to be a big grind, a lot of walking, or a large Rare Candy investment to get it fully evolved up with 125 Candy. But if you get one, it's one of the most solid Dark-types in the game. With respectable bulk and *plenty* of power, Hydreigon is sure to serve you well if you can get your hands on it.
 
 ### Houndoom - Hell Hound
 ![Houndoom](https://img.pokemondb.net/sprites/home/normal/houndoom.png)
 
-> Confusion/Zen Headbutt + Psychic
+> Snarl + Foul Play
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-> Confusion + Future Sight
-{:.note title="B-Tier Moveset"}
-{:.faded}
-
-Espeon is the #1 vanilla Psychic-type, and will be good forever.
+Houndoom can be easy to get if you find many Fire-types in the wild near you, or if its Mega Evolution is currently in Raids. Houndour can also be rescued from Team Go Rocket Grunts. However you get it, Houndoom is a great Dark-type to have, especially early on, and the potential to Mega Evolve it is a great bonus.
 
 ### Tyranitar - The Old King
 ![Tyranitar](https://img.pokemondb.net/sprites/home/normal/tyranitar.png)
@@ -98,11 +94,10 @@ Espeon is the #1 vanilla Psychic-type, and will be good forever.
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-> Confusion + Future Sight
-{:.note title="B-Tier Moveset"}
-{:.faded}
+The greatest Dark-type attacker back in the day, Tyranitar is still a force to be reckoned with today. If you have some from back in its glory days, they're as good as they every were, it's just that now some newer Pokemon have surpassed them. If you don't have any yet, they're still a great Pokemon to train up. Catch it when it comes to 3✰ Raids, evolve a Shadow/Purified Larvitar, or stock up on wild catches when they're part of an event. With a Mega Evolution releasing later on, Tyranitar is sure to be sticking around.
 
-Espeon is the #1 vanilla Psychic-type, and will be good forever.
+> Shadow Tyranitar is an absolute beast, and though I'm not detailing Shadow Pokemon in this article, check out [Shadow Pokemon](/teambuilding/shadow-pokemon/) if you want to learn more. (Recommended Lv35+)
+{:.note title="To purify or not..."}
 
 
 ## Dragon-Type
