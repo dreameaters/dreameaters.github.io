@@ -99,7 +99,7 @@ Houndoom can be easy to get if you find many Fire-types in the wild near you, or
 
 The greatest Dark-type attacker back in the day, Tyranitar is still a force to be reckoned with today. If you have some from back in its glory days, they're as good as they every were, it's just that now some newer Pokemon have surpassed them. If you don't have any yet, they're still a great Pokemon to train up. Catch it when it comes to 3✰ Raids, evolve a Shadow/Purified Larvitar, or stock up on wild catches when they're part of an event. With a Mega Evolution releasing later on, Tyranitar is sure to be sticking around.
 
-> Shadow Tyranitar is an absolute beast, and though I'm not detailing Shadow Pokemon in this article, check out [Shadow Pokemon](/teambuilding/shadow-pokemon/) if you want to learn more. (Recommended Lv35+)
+> Shadow Tyranitar is an absolute beast, and though I'm not detailing Shadow Pokemon in this article, check out [Shadow Pokemon](/go/teambuilding/shadow-pokemon/) if you want to learn more. (Recommended Lv35+)
 {:.note title="To purify or not..."}
 
 
@@ -641,7 +641,7 @@ Using **Aqua Tail†** (Gyarados' Community Day Elite Move) instead of **Hydro P
 
 # Outclassed
 
-The Types listed here are almost never useful for Raiding, either due to terrible Attack stats, bad moves, or simply existing in the shadow of another Type that counters its targets better. Trainers generally ignore these Types when building Raid Parties, but as everyone has their favorite Types and may want to know how they can get the most out of them, I'm including them in this article mostly for the sake of completion. Be warned though that I will be ripping into them pretty hard, as I have almost nothing good to say about their capabilities as attackers. Several of them have better uses in [Go Battle League](/pvp/), but you'll have to read about that on another section of the site.
+The Types listed here are almost never useful for Raiding, either due to terrible Attack stats, bad moves, or simply existing in the shadow of another Type that counters its targets better. Trainers generally ignore these Types when building Raid Parties, but as everyone has their favorite Types and may want to know how they can get the most out of them, I'm including them in this article mostly for the sake of completion. Be warned though that I will be ripping into them pretty hard, as I have almost nothing good to say about their capabilities as attackers. Several of them have better uses in [Go Battle League](/go/pvp/), but you'll have to read about that on another section of the site.
 
 ## Bug-Type
 Never meant to be big bois.
@@ -662,7 +662,7 @@ If you want a big Bug-type, this is it. Though its runner-up is just barely belo
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow Pokemon for a while now, making it quite easy to get your hands on (especially as purifying the Shadow will get you a Lv25 easily). As Genesect is only slightly better offensively, most players will do just fine relying on Pinsir, or to a slightly lesser degree any of the budget Bug-types I've written about in [The Budget Dream Team.](/teambuilding/budget-dream-team){:.heading.flip-title}
+Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow Pokemon for a while now, making it quite easy to get your hands on (especially as purifying the Shadow will get you a Lv25 easily). As Genesect is only slightly better offensively, most players will do just fine relying on Pinsir, or to a slightly lesser degree any of the budget Bug-types I've written about in [The Budget Dream Team.](/go/teambuilding/budget-dream-team){:.heading.flip-title}
 {:.read-more}
 
 ## Fairy-Type
@@ -683,7 +683,7 @@ Gardevoir is one of Kirlia's evolutions (base-form being Ralts), along with Gall
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Togekiss is the final stage of Togepi. Meaning you either have to hatch a Togepi (only ocassionally in Eggs) and give it 125 candy, or capture Togetic from 3⭐ Raids when it's around and use 100 candy. It's a hard to get Pokemon, either way, and in the end it's not worth Raiding with. It has use in [Go Battle League](/pvp/), but that's not what we're talking about here.
+Togekiss is the final stage of Togepi. Meaning you either have to hatch a Togepi (only ocassionally in Eggs) and give it 125 candy, or capture Togetic from 3⭐ Raids when it's around and use 100 candy. It's a hard to get Pokemon, either way, and in the end it's not worth Raiding with. It has use in [Go Battle League](/go/pvp/), but that's not what we're talking about here.
 
 ### Granbull - Mad Dog
 ![Granbull](https://img.pokemondb.net/sprites/home/normal/granbull.png)
@@ -736,7 +736,7 @@ Grass/Poison is very common, and Steel beats Fairy better. (Still worth somethin
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-The only **Double-Poison Moveset** worth talking about here. There are several in [The Budget Dream Team](/teambuilding/budget-dream-team/) but none that hit hard enough to warrant a slot on this page. Once again, it's a Pokemon we've already covered, this time in the [Grass-type section](#roserade---beauty-and-thorns), Roserade. The same goes here as it does for Gengar. You should already be using Roserade as a Grass-type attacker (especially as it's #1), but if you have tons or just love Poison-type, then sure, do this I guess.
+The only **Double-Poison Moveset** worth talking about here. There are several in [The Budget Dream Team](/teambuilding/budget-dream-team.md) but none that hit hard enough to warrant a slot on this page. Once again, it's a Pokemon we've already covered, this time in the [Grass-type section](#roserade---beauty-and-thorns), Roserade. The same goes here as it does for Gengar. You should already be using Roserade as a Grass-type attacker (especially as it's #1), but if you have tons or just love Poison-type, then sure, do this I guess.
 
 
 ## Normal-Type
