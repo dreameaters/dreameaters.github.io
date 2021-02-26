@@ -296,7 +296,6 @@ Both strong Dragons, but extremely top their other types, Electric and Fire resp
 > Transform + Struggle
 {:.note title="Breloom Moveset"}
 {:.faded}
-
 > Transform + Struggle
 {:.note title="Hariyama Moveset"}
 {:.faded}
