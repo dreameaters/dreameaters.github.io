@@ -662,7 +662,7 @@ If you want a big Bug-type, this is it. Though its runner-up is just barely belo
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow Pokemon for a while now, making it quite easy to get your hands on (especially as purifying the Shadow will get you a Lv25 easily). As Genesect is only slightly better offensively, most players will do just fine relying on Pinsir, or to a slightly lesser degree any of the budget Bug-types I've written about in [The Budget Dream Team.](budget-dream-team.md){:.heading.flip-title}
+Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow Pokemon for a while now, making it quite easy to get your hands on (especially as purifying the Shadow will get you a Lv25 easily). As Genesect is only slightly better offensively, most players will do just fine relying on Pinsir, or to a slightly lesser degree any of the budget Bug-types I've written about in [The Budget Dream Team.](/go/teambuilding/budget-dream-team.md){:.heading.flip-title}
 {:.read-more}
 
 ## Fairy-Type
@@ -683,7 +683,7 @@ Gardevoir is one of Kirlia's evolutions (base-form being Ralts), along with Gall
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Togekiss is the final stage of Togepi. Meaning you either have to hatch a Togepi (only ocassionally in Eggs) and give it 125 candy, or capture Togetic from 3⭐ Raids when it's around and use 100 candy. It's a hard to get Pokemon, either way, and in the end it's not worth Raiding with. It has use in [Go Battle League](../pvp/), but that's not what we're talking about here.
+Togekiss is the final stage of Togepi. Meaning you either have to hatch a Togepi (only ocassionally in Eggs) and give it 125 candy, or capture Togetic from 3⭐ Raids when it's around and use 100 candy. It's a hard to get Pokemon, either way, and in the end it's not worth Raiding with. It has use in [Go Battle League](/go/pvp/), but that's not what we're talking about here.
 
 ### Granbull - Mad Dog
 ![Granbull](https://img.pokemondb.net/sprites/home/normal/granbull.png)
