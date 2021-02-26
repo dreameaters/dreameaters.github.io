@@ -143,7 +143,7 @@ Due to the secondary Steel-typing, Dialga is the only Dragon-type Pokemon to *no
 These two are very similar, sharing the Dragon/Flying-typing as well as having the exact same best, and second best, movesets. They also share their types and moves with the great Rayquaza. Salamence has a little more Attack and a little less Defense, while Dragonite is the opposite. We know that offense is preferred, so generally Salamence is the better option, but they're both so close that it doesn't make much of a difference. Speaking of not much difference, their B-Tier Moveset is nearly as good as their Optimal Moveset (~2.5% DPS difference).\
 Additionally, Salamence will get a Mega Evolution at some point in the future, while Dragonite will not.
 
-> *Dragonite has Outrage as a normal move, learnable by regular Charge TM, while Draco Meteor is an Elite Move learnable only during certain events or via Elite Charge TM. The opposite is true for Salamence.
+> *Dragonite has **Outrage** as a normal move, learnable by regular Charge TM, while **Draco Meteor** is an Elite Move learnable only during certain events or via Elite Charge TM. The opposite is true for Salamence.
 > {:.note title="Important! Elite Moves"}
 
 ### Haxorus & Garchomp - Dragons of Myth
