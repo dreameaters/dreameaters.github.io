@@ -42,7 +42,7 @@ This article serves to give an analysis and breakdown of the various top perform
 
 # Major Types
 
-These are the Types that you'll get the most use out of, simply due to the fact that lots of 5⭐ and Mega Raid Bosses are weak to them.
+These are the Types that you'll get the most use out of, simply due to the fact that lots of 5⭐ and Mega Raid Bosses are weak to them. You'll no doubt want a full Party of six for each of these Types, eventually hosting the most powerful of each category.
 
 ## Dark-Type
 
@@ -114,64 +114,73 @@ Super-effective against their own kind, **Dragon-types** are a bit of a double-e
 ### Rayquaza - King of Dragons
 ![Rayquaza](https://img.pokemondb.net/sprites/home/normal/rayquaza.png)
 
-> Confusion/Zen Headbutt + Psychic
+> Dragon Tail + Outrage
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Espeon is the #1 vanilla Psychic-type, and will be good forever.
+Rayquaza is the strongest Dragon-type there is. With a Mega Evolution coming at some point, it's only going to get stronger. The best part of this is that two Trainers with Lv25 Mamoswine, Galarian Darmanitan, Glaceon, and/or Weavile can defeat it. If it's Snowing, it's easy. If the Pokemon are above Lv25, also easy. For one of the most powerful Pokemon in the game, and the best Dragon-type all around, Rayquaza is incredibly easy to get. It's just a matter of waiting for it to show up in 5⭐ Raids.
 
 ### Dialga - Shielded Dragon
 ![Dialga](https://img.pokemondb.net/sprites/home/normal/dialga.png)
 
-> Confusion/Zen Headbutt + Psychic
+> Dragon Breath + Draco Meteor
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Espeon is the #1 vanilla Psychic-type, and will be good forever.
+Due to the secondary Steel-typing, Dialga is the only Dragon-type Pokemon to *not* be weak to Dragon itself. That incredible fact combined with great DPS, makes it an extremely important Pokemon to have. Unfortunately, it's only been in 5⭐ Raids very few times since it was first released in early 2019. Everyone is eagerly awaiting this truly Legendary Dragon's return. Be sure to catch as many as you can once it's available again.
 
 ### Salamence & Dragonite - Rayquaza's Grunts
 ![Salamence](https://img.pokemondb.net/sprites/home/normal/salamence.png)![Dragonite](https://img.pokemondb.net/sprites/home/normal/dragonite.png)
 
-> Confusion/Zen Headbutt + Psychic
+> Dragon Tail + Outrage*
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Espeon is the #1 vanilla Psychic-type, and will be good forever.
+> Dragon Tail + Draco Meteor*
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+These two are very similar, sharing the Dragon/Flying-typing as well as having the exact same best, and second best, movesets. They also share their types and moves with the great Rayquaza. Salamence has a little more Attack and a little less Defense, while Dragonite is the opposite. We know that offense is preferred, so generally Salamence is the better option, but they're both so close that it doesn't make much of a difference. Speaking of not much difference, their B-Tier Moveset is nearly as good as their Optimal Moveset (~2.5% DPS difference).\
+Additionally, Salamence will get a Mega Evolution at some point in the future, while Dragonite will not.
+
+> * Dragonite has Outrage as a normal move, learnable by regular Charge TM, while Draco Meteor is an Elite Move learnable only during certain events or via Elite Charge TM. The opposite is true for Salamence.
+> {:.note title="Important! Elite Moves"}
 
 ### Haxorus & Garchomp - Dragons of Myth
 ![Haxorus](https://img.pokemondb.net/sprites/home/normal/haxorus.png)![Garchomp](https://img.pokemondb.net/sprites/home/normal/garchomp.png)
 
-> Confusion/Zen Headbutt + Psychic
+> Dragon Tail + Dragon Claw
 {:.note title="Haxorus' Moveset"}
 {:.faded}
 
-> Confusion/Zen Headbutt + Psychic
+> Dragon Tail + Outrage
 {:.note title="Garchomp's Moveset"}
 {:.faded}
 
-Espeon is the #1 vanilla Psychic-type, and will be good forever.
+Description coming soon.
 
 ### Palkia - Pearlescent Dragon
 ![Palkia](https://img.pokemondb.net/sprites/home/normal/palkia.png)
 
-> Confusion/Zen Headbutt + Psychic
+> Dragon Tail + Draco Meteor
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Espeon is the #1 vanilla Psychic-type, and will be good forever.
+Description coming soon.
 
 ### Zekrom & Reshiram - Far From Home
 ![Zekrom](https://img.pokemondb.net/sprites/home/normal/zekrom.png)![Reshiram](https://img.pokemondb.net/sprites/home/normal/reshiram.png)
 
-> Confusion/Zen Headbutt + Psychic
+> Dragon Breath + Outrage
 {:.note title="Zekrom's Moveset"}
 {:.faded}
 
-> Confusion/Zen Headbutt + Psychic
+> Dragon Breath + Draco Meteor
 {:.note title="Reshiram's Moveset"}
 {:.faded}
 
-Both strong Dragons, but extremely top their other types, Electric and Fire respectively.
+Both strong Dragons, but extremely top their other types, Electric and Fire respectively.\
+Description coming soon.
 
 
 ## Rock-Type
@@ -181,31 +190,36 @@ Rock and roll! **Rock-type** Pokemon lead the pack in defeating both **Flying-ty
 ### Rampardos - Extinct for a reason.
 ![Rampardos](https://img.pokemondb.net/sprites/home/normal/rampardos.png)
 
-> Transform + Struggle
+> Smack Down + Rock Slide
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Rhyperior - Arm Cannons
 ![Rhyperior](https://img.pokemondb.net/sprites/home/normal/rhyperior.png)
 
-> Transform + Struggle
+> Smack Down + Rock Wrecker†
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Terrakion - The Sword of Justice
 ![Terrakion](https://img.pokemondb.net/sprites/home/normal/terrakion.png)
 
-> Transform + Struggle
+> Smack Down + Rock Slide
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Tyranitar - Godzilla of Old
 ![Tyranitar](https://img.pokemondb.net/sprites/home/normal/tyranitar.png)
 
-> Transform + Struggle
+> Smack Down† + Stone Edge
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+> Bite + Stone Edge
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+**Bite** gives the same DPS as **Smack Down†**, but it's Dark-type instead of Rock-type. Tyranitar will still get STAB on it, but if your opponent isn't weak to Dark-type, you're losing out on Super-Effective damage.
 
 ## Fire-Type
 
@@ -214,21 +228,21 @@ The searing flames of **Fire-type** Pokemon should be your first pick for dealin
 ### Reshiram - Lord of Fire
 ![Reshiram](https://img.pokemondb.net/sprites/home/normal/reshiram.png)
 
-> Transform + Struggle
+> Fire Fang + Overheat
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Darmanitan - Gurilla Tactics
 ![Darmanitan](https://img.pokemondb.net/sprites/home/normal/darmanitan-standard.png)
 
-> Transform + Struggle
+> Fire Fang + Overheat
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Chandelure - Will-o-Wisp
 ![Chandelure](https://img.pokemondb.net/sprites/home/normal/chandelure.png)
 
-> Transform + Struggle
+> Fire Spin + Overheat
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -248,20 +262,19 @@ Using **Fire Spin** instead of **Counter** For Blaziken's Fast Move gives you a 
 ### Moltres - Rising Phoenix!
 ![Moltres](https://img.pokemondb.net/sprites/home/normal/moltres.png)
 
-> Transform + Struggle
+> Fire Spin + Overheat
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Charizard & Infernape - Blast Burn!!
 ![Charizard](https://img.pokemondb.net/sprites/home/normal/charizard.png)![Infernape](https://img.pokemondb.net/sprites/home/normal/infernape.png)
 
-> Transform + Struggle
-{:.note title="Charizard Moveset"}
+> Fire Spin + Blast Burn†
+{:.note title="Optimal Moveset"}
 {:.faded}
 
-> Transform + Struggle
-{:.note title="Infernape Moveset"}
-{:.faded}
+Charizard and Infernape have the same moveset.\
+Description coming soon.
 
 ### Entei & Heatran - Volcanic Legends!
 ![Entei](https://img.pokemondb.net/sprites/home/normal/entei.png)![Heatran](https://img.pokemondb.net/sprites/home/normal/heatran.png)
@@ -270,7 +283,7 @@ Using **Fire Spin** instead of **Counter** For Blaziken's Fast Move gives you a 
 {:.note title="Entei Moveset"}
 {:.faded}
 
-> Transform + Struggle
+> Fire Spin + Flamethrower
 {:.note title="Heatran Moveset"}
 {:.faded}
 
@@ -290,14 +303,14 @@ The big bruisers of the Pokemon world! **Fighting-type** Pokemon live up to thei
 ### Lucario - The Aura Warrior
 ![Lucario](https://img.pokemondb.net/sprites/home/normal/lucario.png)
 
-> Transform + Struggle
+> Counter + Aura Sphere
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Conkeldurr - Bigger Machamp
 ![Conkeldurr](https://img.pokemondb.net/sprites/home/normal/conkeldurr.png)
 
-> Transform + Struggle
+> Counter + Dynamic Punch
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -317,11 +330,8 @@ The big bruisers of the Pokemon world! **Fighting-type** Pokemon live up to thei
 ### Breloom & Hariyama - Two Halves of Machamp
 ![Breloom](https://img.pokemondb.net/sprites/home/normal/breloom.png)![Hariyama](https://img.pokemondb.net/sprites/home/normal/hariyama.png)
 
-> Transform + Struggle
-{:.note title="Breloom Moveset"}
-{:.faded}
-> Transform + Struggle
-{:.note title="Hariyama Moveset"}
+> Counter + Dynamic Punch
+{:.note title="Optimal Moveset"}
 {:.faded}
 
 
@@ -343,14 +353,14 @@ Proudly including the most powerful Pokemon of all time, Mewtwo, the **Psychic-t
 ### Espeon - MVE (Most Valuable Eevee)
 ![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)
 
-> Transform + Struggle
+> Confusion + Psychic
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Latios - Big Bro
 ![Latios](https://img.pokemondb.net/sprites/home/normal/latios.png)
 
-> Transform + Struggle
+> Zen Headbutt + Psychic
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -359,7 +369,7 @@ Simply more offensive than its red sister, Latias.
 ### Metagross - Super Computer
 ![Metagross](https://img.pokemondb.net/sprites/home/normal/metagross.png)
 
-> Transform + Struggle
+> Zen Headbutt + Psychic
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -371,42 +381,42 @@ When you have no Dragons, you'll want plenty of **Ice-types**. Freezing **Dragon
 ### Darmanitan (Galarian) - Insert Snowman Joke
 ![Darmanitan](https://img.pokemondb.net/sprites/home/normal/darmanitan-galarian-standard.png)
 
-> Transform + Struggle
+> Ice Fang + Avalanche
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Mamoswine - Mammoth Bulk!
 ![Mamoswine](https://img.pokemondb.net/sprites/home/normal/mamoswine.png)
 
-> Transform + Struggle
+> Powder Snow + Avalanche
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Weavile - The Sword of Ice
 ![Weavile](https://img.pokemondb.net/sprites/home/normal/weavile.png)
 
-> Transform + Struggle
+> Ice Shard + Avalanche
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Glaceon - Chilly Dog
 ![Glaceon](https://img.pokemondb.net/sprites/home/normal/glaceon.png)
 
-> Transform + Struggle
+> Frost Breath + Avalanche
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Mewtwo - Hey, it's me again.
 ![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)
 
-> Transform + Struggle
+> Confusion + Ice Beam
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Kyogre - Arctic Whale
 ![Kyogre](https://img.pokemondb.net/sprites/home/normal/kyogre.png)
 
-> Transform + Struggle
+> Waterfall + Blizzard
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -418,42 +428,46 @@ Having only a single weakness in **Ground-types**, **Electric-type** Pokemon can
 ### Zekrom - Lord of Thunder
 ![Zekrom](https://img.pokemondb.net/sprites/home/normal/zekrom.png)
 
-> Transform + Struggle
+> Charge Beam + Wild Charge
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Electivire - Fists of Lightning
 ![Electivire](https://img.pokemondb.net/sprites/home/normal/electivire.png)
 
-> Transform + Struggle
+> Thunder Shock + Wild Charge
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Raikou - The Speed of Light
 ![Raikou](https://img.pokemondb.net/sprites/home/normal/raikou.png)
 
-> Transform + Struggle
+> Thunder Shock + Wild Charge
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Zapdos - Pure Instinct
 ![Zapdos](https://img.pokemondb.net/sprites/home/normal/zapdos.png)
 
-> Transform + Struggle
+> Thunder Shock† + Thunderbolt
 {:.note title="Optimal Moveset"}
+{:.faded}
+
+> Charge Beam + Thunderbolt
+{:.note title="B-Tier Moveset"}
 {:.faded}
 
 ### Magnezone - Electivire, favoring Bulk
 ![Magnezone](https://img.pokemondb.net/sprites/home/normal/magnezone.png)
 
-> Transform + Struggle
+> Spark + Wild Charge
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Mewtwo & Deoxys - Shocking DNA!
 ![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)![Deoxys](https://img.pokemondb.net/sprites/home/normal/deoxys-normal.png)
 
-> Transform + Struggle
+> Confusion/Zen Headbutt + Thunderbolt
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -465,35 +479,35 @@ Much like Dragons, **Ghost-type** Pokemon are weak and strong against each other
 ### Darkrai - That's no ghost!
 ![Darkrai](https://img.pokemondb.net/sprites/home/normal/darkrai.png)
 
-> Transform + Struggle
+> Snarl + Shadow Ball
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Chandelure - Will-o-Wisp
 ![Chandelure](https://img.pokemondb.net/sprites/home/normal/chandelure.png)
 
-> Transform + Struggle
+> Hex + Shadow Ball
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Giratina (Origin Forme) - Chaos Itself
 ![Giratina](https://img.pokemondb.net/sprites/home/normal/giratina-origin.png)
 
-> Transform + Struggle
+> Shadow Claw + Shadow Ball
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Mewtwo - Again, but Super Rare!
 ![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)
 
-> Transform + Struggle
+> Confusion + Shadow Ball†
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Gengar - Now you see me, now you don't.
 ![Gengar](https://img.pokemondb.net/sprites/home/normal/gengar.png)
 
-> Transform + Struggle
+> Shadow Claw + Shadow Ball
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -505,35 +519,35 @@ As the *only* counter to **Electric-types**, **Ground-type** Pokemon are absolut
 ### Landorus (Therian Forme) - The old ones warned about this...
 ![Landorus](https://img.pokemondb.net/sprites/home/normal/landorus-therian.png)
 
-> Transform + Struggle
+> Mud Shot + Earth Power
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Excadrill - I Dig It!
 ![Excadrill](https://img.pokemondb.net/sprites/home/normal/excadrill.png)
 
-> Transform + Struggle
+> Mud-Slap + Drill Run
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Landorus (Incarnate Forme) - Second verse, same-ish as the first.
 ![Ladorus](https://img.pokemondb.net/sprites/home/normal/landorus-incarnate.png)
 
-> Transform + Struggle
+> Mud Shot + Earth Power
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Groudon - Behemoth (Stay Tuned!)
 ![Groudon](https://img.pokemondb.net/sprites/home/normal/groudon.png)
 
-> Transform + Struggle
+> Mud Shot + Earthquake
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Garchomp - Landshark
 ![Garchomp](https://img.pokemondb.net/sprites/home/normal/garchomp.png)
 
-> Transform + Struggle
+> Mud Shot + Earthquake
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -544,6 +558,7 @@ As the *only* counter to **Electric-types**, **Ground-type** Pokemon are absolut
 {:.note title="Optimal Moveset for both"}
 {:.faded}
 
+Taking only 25 Candy to evolve from Rhyhorn, Rhydon is very accessible, and is a great choice for how powerful it is. Though it could be considered a budget Ground-type to deal with Electric-types early on, it packs enough of a punch to be considered good for a long while after you've gotten more of a collection, before eventually evolving it.\
 As it takes 100 Candy to evolve Rhydon to Rhyperior (plus a Sinnoh Stone), you would be best off just using that candy to get more Rhydon first if you're on a budget. You can always evolve your Rhydon army into a Rhyperior army later on, but having multiple Rhydon will be more useful to fill out a starting Ground-type Party than a single Rhyperior. Just remember that of course the evolution is always an upgrade, so long as you already have 6 Pokemon to fill your Party.
 
 ## Steel-Type
@@ -553,21 +568,21 @@ Nothing fares better against **Ice-types** than **Steel-type** Pokemon. Should a
 ### Metagross - Meteor Mash or Bust!
 ![Metagross](https://img.pokemondb.net/sprites/home/normal/metagross.png)
 
-> Transform + Struggle
+> Bullet Punch + Meteor Mash†
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Dialga - Aged Steel
 ![Dialga](https://img.pokemondb.net/sprites/home/normal/dialga.png)
 
-> Transform + Struggle
+> Metal Claw + Iron Head
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Excadrill - A drill that will pierce the heavens!
 ![Excadrill](https://img.pokemondb.net/sprites/home/normal/excadrill.png)
 
-> Transform + Struggle
+> Metal Claw + Iron Head
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -600,28 +615,25 @@ Outclassed by **Electric**, **Ice**, and **Fighting**, **Grass-type** Pokemon ar
 ### Roserade - Beauty and Thorns!
 ![Roserade](https://img.pokemondb.net/sprites/home/normal/roserade.png)
 
-> Transform + Struggle
+> Razor Leaf + Grass Knot
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Venusaur & Sceptile - Frenzy Plant!!
 ![Venusaur](https://img.pokemondb.net/sprites/home/normal/venusaur.png)![Sceptile](https://img.pokemondb.net/sprites/home/normal/sceptile.png)
 
-> Transform + Struggle
-{:.note title="Optimal Moveset"}
+> Vine Whip + Frenzy Plant†
+{:.note title="Venusaur's Moveset"}
+{:.faded}
+
+> Bullet Seed + Frenzy Plant†
+{:.note title="Sceptile's Moveset"}
 {:.faded}
 
 ### Tangrowth - Objectively Flawless (citation needed)
 ![Tangrowth](https://img.pokemondb.net/sprites/home/normal/tangrowth.png)
 
-> Transform + Struggle
-{:.note title="Optimal Moveset"}
-{:.faded}
-
-### Breloom, Leafeon & Exeggutor - Strange Plants
-![Breloom](https://img.pokemondb.net/sprites/home/normal/breloom.png)![Leafeon](https://img.pokemondb.net/sprites/home/normal/leafeon.png)![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)
-
-> Transform + Struggle
+> Vine Whip + Power Whip
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -634,7 +646,7 @@ Though **Water** and **Grass-types** share a couple purposes, they are on par wi
 ### Kyogre - Leviathan (Stay Tuned!)
 ![Kyogre](https://img.pokemondb.net/sprites/home/normal/kyogre.png)
 
-> Transform + Struggle
+> Waterfall + Surf
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -654,22 +666,30 @@ Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in 
 ### Palkia - Rend the Tide!
 ![Palkia](https://img.pokemondb.net/sprites/home/normal/palkia.png)
 
-> Transform + Struggle
+> Dragon Tail + Hydro Pump
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Swampert, Feraligatr & Empoleon - Hydro Cannon!!
 ![Swampert](https://img.pokemondb.net/sprites/home/normal/swampert.png)![Feraligatr](https://img.pokemondb.net/sprites/home/normal/feraligatr.png)![Empoleon](https://img.pokemondb.net/sprites/home/normal/empoleon.png)
 
-> Transform + Struggle
-{:.note title="Optimal Moveset"}
+> Water Gun + Hydro Cannon†
+{:.note title="Swampert's Moveset"}
+{:.faded}
+
+> Waterfall + Hydro Cannon†
+{:.note title="Feraligatr & Empoleon's Moveset"}
 {:.faded}
 
 ### Gyarados - Skull Kraken!
 ![Gyarados](https://img.pokemondb.net/sprites/home/normal/gyarados.png)
 
-> Transform + Struggle
+> Waterfall + Hydro Pump
 {:.note title="Optimal Moveset"}
+{:.faded}
+
+> Waterfall + Aqua Tail†
+{:.note title="B-Tier Moveset"}
 {:.faded}
 
 Using **Aqua Tail†** (Gyarados' Community Day Elite Move) instead of **Hydro Pump** for Gyarados' Fast Move barely loses any damage (1.4% DPS), so if you have that already, don't waste the Charge TM to swap to **Hydro Pump**.
@@ -742,22 +762,26 @@ Simply said, **Fire** and **Psychic-types** hit harder than **Flying-type** Poke
 ### Moltres - Sky Attack or Bust
 ![Moltres](https://img.pokemondb.net/sprites/home/normal/moltres.png)
 
-> Transform + Struggle
+> Wing Attack + Sky Attack†
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Honchkrow - Darkness is behind me.
 ![Honchkrow](https://img.pokemondb.net/sprites/home/normal/honchkrow.png)
 
-> Transform + Struggle
+> Peck + Sky Attack
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 ### Zapdos & Rayquaza - Quell the Storm
 ![Zapdos](https://img.pokemondb.net/sprites/home/normal/zapdos.png)![Rayquaza](https://img.pokemondb.net/sprites/home/normal/rayquaza.png)
 
-> Transform + Struggle
-{:.note title="Optimal Moveset"}
+> Thunder Shock†/Charge Beam + Drill Peck
+{:.note title="Zapdos' Moveset"}
+{:.faded}
+
+> Air Slash + Aerial Ace
+{:.note title="Rayquaza's Moveset"}
 {:.faded}
 
 
