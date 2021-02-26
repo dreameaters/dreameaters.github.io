@@ -49,7 +49,7 @@ These are the Types that you'll get the most use out of, simply due to the fact 
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Darkrai is the best Dark-type in the game, and will likely keep that title forever. It's found only in 5⭐ Raids, and is classified as a Mythical Pokemon, meaning that it's unable to be traded. Pummeling it with a lobby of other Trainers, all using their best Fighting-types, is gonna be your only means of catching it. But it will be well worth it, as it's one of the most valuable Raid Bosses in the game, and serves as both the top Dark-type attacker as well as the top Ghost-type attacker, despite not being Ghost-type itself. More info on that [here.](the-very-best.md){:.heading.flip-title}
+Darkrai is the best Dark-type in the game, and will likely keep that title forever. It's found only in 5⭐ Raids, and is classified as a Mythical Pokemon, meaning that it's unable to be traded. Pummeling it with a lobby of other Trainers, all using their best Fighting-types, is gonna be your only means of catching it. But it will be well worth it, as it's one of the most valuable Raid Bosses in the game, and serves as both the top Dark-type attacker as well as the top Ghost-type attacker, despite not being Ghost-type itself. More info on that [here.](#darkrai---thats-no-ghost){:.heading.flip-title}
 {:.read-more}
 
 ### Weavile & Honchkrow - Dark Sinnoh Evolutions
