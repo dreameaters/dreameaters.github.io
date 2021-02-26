@@ -59,11 +59,11 @@ Darkrai is the best Dark-type in the game, and will likely keep that title forev
 {:.note title="Weavile Moveset"}
 {:.faded}
 
-> Snarl + Dark Pulse
+> Snarl + Sky Attack
 {:.note title="Honchkrow Moveset"}
 {:.faded}
 
-Espeon is the #1 vanilla Psychic-type, and will be good forever.
+It's worth noting that Honchkrow uses **Sky Attack** as its Charge Move, which is not Dark-type. It can learn **Dark Pulse** instead, but loses a heafty 16.7% DPS (damage per second) in exchange for a **Double-Dark Moveset**
 
 ### Hydreigon - Tyrant Dragon
 ![Hydreigon](https://img.pokemondb.net/sprites/home/normal/hydreigon.png)
@@ -220,9 +220,15 @@ Both strong Dragons, but extremely top their other types, Electric and Fire resp
 ### Blaziken - From Good to Great!
 ![Blaziken](https://img.pokemondb.net/sprites/home/normal/blaziken.png)
 
-> Transform + Struggle
+> Counter + Blast Burn†
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+> Counter + Blaze Kick
+{:.note title="Vanilla Moveset"}
+{:.faded}
+
+Using **Fire Spin** instead of **Counter** For Blaziken's Fast Move gives you a **Double-Fire Moveset**, while only sacrificing 2.5% damage. If the Raid Boss you're battling isn't weak to Fighting, it's a worthwhile swap, even if it means simply toggling it with a Fast TM.
 
 ### Moltres - Rising Phoenix!
 ![Moltres](https://img.pokemondb.net/sprites/home/normal/moltres.png)
@@ -245,7 +251,7 @@ Both strong Dragons, but extremely top their other types, Electric and Fire resp
 ### Entei & Heatran - Volcanic Legends!
 ![Entei](https://img.pokemondb.net/sprites/home/normal/entei.png)![Heatran](https://img.pokemondb.net/sprites/home/normal/heatran.png)
 
-> Transform + Struggle
+> Fire Fang + Overheat
 {:.note title="Entei Moveset"}
 {:.faded}
 
@@ -256,10 +262,11 @@ Both strong Dragons, but extremely top their other types, Electric and Fire resp
 ### Flareon - Hot Dog
 ![Flareon](https://img.pokemondb.net/sprites/home/normal/flareon.png)
 
-> Transform + Struggle
+> Fire Spin + Overheat/Flamethrower
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+**Overheat** is less than 1% DPS stronger than **Flamethrower**, so either is perfectly fine. Just be sure to replace **Fire Blast** if you have it, as it's far worse than the other two. (Also the Elite Move **Last Resort**, if evolved during a special event. It's only used in Go Battle League.)
 
 ## Fighting-Type
 ### Lucario - The Aura Warrior
@@ -325,6 +332,8 @@ Close Combat does soften Machamp's impact noticeably, but as Machamp has 5 diffe
 > Transform + Struggle
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Simply more offensive than its red sister, Latias.
 
 ### Metagross - Super Computer
 ![Metagross](https://img.pokemondb.net/sprites/home/normal/metagross.png)
@@ -501,14 +510,11 @@ The only counter to Electric-types.
 ### Rhydon & Rhyperior - Rumblin' Rhynos
 ![Rhydon](https://img.pokemondb.net/sprites/home/normal/rhydon.png)![Rhyperior](https://img.pokemondb.net/sprites/home/normal/rhyperior.png)
 
-> Transform + Struggle
-{:.note title="Rhydon Moveset"}
+> Mud-Slap + Earthquake
+{:.note title="Optimal Moveset for both"}
 {:.faded}
 
-> Transform + Struggle
-{:.note title="Rhyperior Moveset"}
-{:.faded}
-
+As it takes 100 Candy to evolve Rhydon to Rhyperior (plus a Sinnoh Stone), you would be best off just using that candy to get more Rhydon first if you're on a budget. You can always evolve your Rhydon army into a Rhyperior army later on, but having multiple Rhydon will be more useful to fill out a starting Ground-type Party than a single Rhyperior. Just remember that of course the evolution is always an upgrade, so long as you already have 6 Pokemon to fill your Party.
 
 ## Steel-Type
 ### Metagross - Meteor Mash or Bust!
@@ -532,10 +538,17 @@ The only counter to Electric-types.
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-### Genesect, Heatran & Jirachi - Dead bugs, magma, and shooting stars?
+### Jirachi - Make a Wish!
+![Jirachi](https://img.pokemondb.net/sprites/home/normal/jirachi.png)
+
+> Confusion + Doom Desire
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+### Genesect - Death Metal Bug
 ![Genesect](https://img.pokemondb.net/sprites/home/normal/genesect.png)![Heatran](https://img.pokemondb.net/sprites/home/normal/heatran.png)![Jirachi](https://img.pokemondb.net/sprites/home/normal/jirachi.png)
 
-> Transform + Struggle
+> Metal Claw + Magnet Bomb
 {:.note title="Optimal Moveset"}
 {:.faded}
 
@@ -586,15 +599,21 @@ Important, with Grass and Ice, for Ground-types like Groudon. Can pair with Rock
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-### Palkia - Rend the Tide!
-![Palkia](https://img.pokemondb.net/sprites/home/normal/palkia.png)
+### Kingler & Crawdaunt - Crushing Claws
+![Kingler](https://img.pokemondb.net/sprites/home/normal/kingler.png)![Crawdaunt](https://img.pokemondb.net/sprites/home/normal/crawdaunt.png)
 
 > Transform + Struggle
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-### Kingler & Crawdaunt - Crushing Claws
-![Kingler](https://img.pokemondb.net/sprites/home/normal/kingler.png)![Crawdaunt](https://img.pokemondb.net/sprites/home/normal/crawdaunt.png)
+> Snarl + Crabhammer
+{:.note title="Crawdaunt's Moveset"}
+{:.faded}
+
+Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in order to have a Double-Water Moveset, sacrificing 7.8% DPS.
+
+### Palkia - Rend the Tide!
+![Palkia](https://img.pokemondb.net/sprites/home/normal/palkia.png)
 
 > Transform + Struggle
 {:.note title="Optimal Moveset"}
@@ -614,51 +633,64 @@ Important, with Grass and Ice, for Ground-types like Groudon. Can pair with Rock
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Using **Aqua Tail†** (Gyarados' Community Day Elite Move) instead of **Hydro Pump** for Gyarados' Fast Move barely loses any damage (1.4% DPS), so if you have that already, don't waste the Charge TM to swap to **Hydro Pump**.
 
 ---
 
 # Outclassed
+
+The Types listed here are almost never useful for Raiding, either due to terrible Attack stats, bad moves, or simply existing in the shadow of another Type that counters its targets better. Trainers generally ignore these Types when building Raid Parties, but as everyone has their favorite Types and may want to know how they can get the most out of them, I'm including them in this article mostly for the sake of completion. Be warned though that I will be ripping into them pretty hard, as I have almost nothing good to say about their capabilities as attackers. Several of them have better uses in [Go Battle League](/pvp/), but you'll have to read about that on another section of the site.
 
 ## Bug-Type
 Never meant to be big bois.
 ### Genesect - Metabee?
 ![Genesect](https://img.pokemondb.net/sprites/home/normal/genesect.png)
 
-> Transform + Struggle
+> Fury Cutter + X-Scissor
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Genesect is as good as Bug-types get. Hosting the lowest DPS of any Type's #1 slot, Genesect also holds the "honor" of being a Mythical Pokemon, locked behind a Special Research, 5⭐ Raids, and being unable to be traded. So not only is the best Bug-type the worst #1, but it's also about as complicated as it gets to obtain. To top it all off, Genesect performs a bit better as a [Steel-type attacker](#genesect---death-metal-bug), while also being outclassed by 4 or 5 better Steel-types.\
+If you want a big Bug-type, this is it. Though its runner-up is just barely below it, and much easier to catch. Keep scrolling.
 
 ### Pinsir - Vicegrip (but don't use that)
 ![Pinsir](https://img.pokemondb.net/sprites/home/normal/pinsir.png)
 
-> Transform + Struggle
+> Bug Bite + X-Scissor
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow Pokemon for a while now, making it quite easy to get your hands on (especially as purifying the Shadow will get you a Lv25 easily). As Genesect is only slightly better offensively, most players will do just fine relying on Pinsir, or to a slightly lesser degree any of the budget Bug-types I've written about in [The Budget Dream Team.](/teambuilding/budget-dream-team){:.heading.flip-title}
+{:.read-more}
 
 ## Fairy-Type
 Defensive af, leaves nothing left for offense.
 ### Gardevoir - Pretty, I guess.
 ![Gardevoir](https://img.pokemondb.net/sprites/home/normal/gardevoir.png)
 
-> Transform + Struggle
+> Charm + Dazzling Gleam
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Gardevoir is one of Kirlia's evolutions (base-form being Ralts), along with Gallade (which has no place here). This already means it's going to take a good while to collect enough candy to get evolved, being 125 from a rare wild spawn. Once you get there though, you have the second worst Type leader (only ahead of Genesect representing Bug-type). Gardevoir boasts solid Defense, and very lackluster Attack, making it horrible for attacking Raids. This is as good as Fairy-type gets though, so if you really want a hard-hitting Fairy, this is the closest you'll find.
 
 ### Togekiss - Eggbird
 ![Togekiss](https://img.pokemondb.net/sprites/home/normal/togekiss.png)
 
-> Transform + Struggle
+> Charm + Dazzling Gleam
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Togekiss is the final stage of Togepi. Meaning you either have to hatch a Togepi (only ocassionally in Eggs) and give it 125 candy, or capture Togetic from 3⭐ Raids when it's around and use 100 candy. It's a hard to get Pokemon, either way, and in the end it's not worth Raiding with. It has use in [Go Battle League](/pvp/), but that's not what we're talking about here.
 
 ### Granbull - Mad Dog
 ![Granbull](https://img.pokemondb.net/sprites/home/normal/granbull.png)
 
-> Transform + Struggle
+> Charm + Play Rough
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+The only Fairy-type up here that can be found with any sort of ease. Snubbull around in the wild every now and then, and only takes 50 candy to evolve into Granbull. Granbull isn't even very far behind Togekiss or even Gardevoir in terms of attacking Raid Bosses, so it's much more worth your time and effort to just worry about grabbing a few of these if you really want Fairy-types for a Raid Party, for some reason. I should remind you though, there are better types out there.
 
 ## Flying-Type
 Fire and Psychic do its jobs better.
@@ -689,16 +721,20 @@ Grass/Poison is very common, and Steel beats Fairy better. (Still worth somethin
 ### Gengar - Ghosts and Ghosts and Ghosts
 ![Gengar](https://img.pokemondb.net/sprites/home/normal/gengar.png)
 
-> Transform + Struggle
+> Shadow Claw + Sludge Bomb
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+[As discussed in the Ghost-type section](#gengar---now-you-see-me-now-you-dont), Gengar hits very hard and gets hit very hard in return. This holds true as a Poison-type attacker, boasting only slightly lower DPS (1% less than a Double-Ghost Moveset). If you have a good Gengar, you should already know to give it Ghost-type moves, but if you have a full team of Pokemon better than it (minus keeping one to Mega Evolve), then maybe you can give it new life with **Sludge Bomb**, however rarely it may be used.
 
 ### Roserade - Why so Toxic?
 ![Roserade](https://img.pokemondb.net/sprites/home/normal/roserade.png)
 
-> Transform + Struggle
+> Poison Jab + Sludge Bomb
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+The only Double-Poison Moveset worth talking about here. There are several in [The Budget Dream Team](/budget-dream-team/) but none that hit hard enough to warrant a slot on this page. Once again, it's a Pokemon we've already covered, this time in the [Grass-type section](#roserade---beauty-and-thorns), Roserade. The same goes here as it does for Gengar. You should already be using Roserade as a Grass-type attacker (especially as it's #1), but if you have tons or just love Poison-type, then sure, do this I guess.
 
 
 ## Normal-Type
