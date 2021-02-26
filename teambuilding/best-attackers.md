@@ -13,29 +13,144 @@ redirect_from:
 
 Boop.
 
-1. [Psychic Starter](#moveset---break-out-those-tms-or-not)
+* [Psychic Starter](#moveset---break-out-those-tms-or-not)
 {:toc}
 
 
-# Major Types - Most Important Counters
+# Major Types
 
 These are the Types that you'll get the most use out of, simply due to the fact that lots of 5⭐ and Mega Raid Bosses are weak to them.
 
 ## Dark-Type
 ### Darkrai - Shadow of Nightmares
+![Darkrai](https://img.pokemondb.net/sprites/home/normal/darkrai.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+> Confusion + Future Sight
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
+
 ### Weavile & Honchkrow - Dark Sinnoh Evolutions
+![Weavile](https://img.pokemondb.net/sprites/home/normal/weavile.png)![Honchkrow](https://img.pokemondb.net/sprites/home/normal/honchkrow.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+> Confusion + Future Sight
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
+
 ### Hydreigon - Tyrant Dragon
+![Hydreigon](https://img.pokemondb.net/sprites/home/normal/hydreigon.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+> Confusion + Future Sight
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
+
 ### Houndoom - Hell Hound
+![Houndoom](https://img.pokemondb.net/sprites/home/normal/houndoom.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+> Confusion + Future Sight
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
+
 ### Tyranitar - The Old King
+![Tyranitar](https://img.pokemondb.net/sprites/home/normal/tyranitar.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+> Confusion + Future Sight
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
+
 
 ## Dragon-Type
 ### Rayquaza - King of Dragons
+![Rayquaza](https://img.pokemondb.net/sprites/home/normal/rayquaza.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
+
 ### Dialga - Shielded Dragon
+![Dialga](https://img.pokemondb.net/sprites/home/normal/dialga.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
+
 ### Salamence & Dragonite - Rayquaza's Grunts
+![Salamence](https://img.pokemondb.net/sprites/home/normal/salamence.png)![Dragonite](https://img.pokemondb.net/sprites/home/normal/dragonite.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
+
 ### Haxorus & Garchomp - Dragons of Myth
-### Palkia
+![Haxorus](https://img.pokemondb.net/sprites/home/normal/harxorus.png)![Garchomp](https://img.pokemondb.net/sprites/home/normal/garchomp.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Haxorus' Moveset"}
+{:.faded}
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Garchomp's Moveset"}
+{:.faded}
+
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
+
+### Palkia - Pearlescent Dragon
+![Palkia](https://img.pokemondb.net/sprites/home/normal/palkia.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+Espeon is the #1 vanilla Psychic-type, and will be good forever.
+
 ### Zekrom & Reshiram - Far From Home
+![Zekrom](https://img.pokemondb.net/sprites/home/normal/zekrom.png)![Reshiram](https://img.pokemondb.net/sprites/home/normal/reshiram.png)
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Zekrom's Moveset"}
+{:.faded}
+
+> Confusion/Zen Headbutt + Psychic
+{:.note title="Reshiram's Moveset"}
+{:.faded}
+
 Both strong Dragons, but extremely top their other types, Electric and Fire respectively.
+
 
 ## Rock-Type
 ### Rampardos - Extinct for a reason.
@@ -49,7 +164,7 @@ Both strong Dragons, but extremely top their other types, Electric and Fire resp
 ### Chandelure - Will-o-Wisp
 ### Blaziken - From Good to Great!
 ### Moltres - Rising Phoenix!
-### Charizard & Infernape* - Blast Burn!!
+### Charizard & Infernape - Blast Burn!!
 ### Entei & Heatran - Volcanic Legends!
 ### Flareon - Hot Dog
 
@@ -107,9 +222,10 @@ The only counter to Electric-types.
 
 ---
 
-# B-Tier Types - Outclassed, but still good.
+# B-Tier Types
 
 ## Grass
+Outclassed by Electric, Ice, and Fighting.
 Important, with Water and Ice, for Ground-types like Groudon. Can pair with Water and Ground against Rock.
 ### Roserade - Beauty and Thorns!
 ### Venusaur & Sceptile - Frenzy Plant!!
@@ -117,6 +233,7 @@ Important, with Water and Ice, for Ground-types like Groudon. Can pair with Wate
 ### Breloom, Leafeon & Exeggutor - Strange Plants
 
 ## Water
+Outclassed by Ice, Ground, and Rock.
 Important, with Grass and Ice, for Ground-types like Groudon. Can pair with Rock against Fire.
 ### Kyogre - Leviathan (Stay Tuned!)
 ### Palkia - Rend the Tide!
@@ -126,7 +243,7 @@ Important, with Grass and Ice, for Ground-types like Groudon. Can pair with Rock
 
 ---
 
-# Outclassed - There's always someone better than you.
+# Outclassed
 
 ## Bug - Caterpie & Friends Can't Hack It!
 Never meant to be big bois.
