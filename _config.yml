@@ -49,16 +49,18 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Building a Good Pokemon
-    url:               /building-a-good-pokemon/
-  - title:             The Budget Dream Team
-    url:               /budget-dream-team/
-  - title:             Comparing Pokemon
-    url:               /comparing-pokemon/
+  - title:             Best Attackers
+    url:               /teambuilding/best-attackers/
+#  - title:             Building a Good Pokemon
+#    url:               /building-a-good-pokemon/
+#  - title:             The Budget Dream Team
+#    url:               /budget-dream-team/
+#  - title:             Comparing Pokemon
+#    url:               /comparing-pokemon/
   - title:             Top Attackers by Type
     url:               https://docs.google.com/spreadsheets/d/e/2PACX-1vShfgtljtudTCVkQsWUog-e1z2VXZx_GkVJ_AnvX-gw11NhgDS7uhGBjrEGVYkA0S4Iqdr6lM7DM9BM/pubhtml?gid=1988159086&single=true
-  - title:             Battle League
-    url:               /pvp/
+#  - title:             Battle League
+#    url:               /pvp/
   - title:             About
     url:               /about/
 
