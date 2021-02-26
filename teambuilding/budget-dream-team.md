@@ -128,6 +128,23 @@ All of the Dark-type Pokemon listed below are in 3⭐ Raids quite often, and hav
 
 ### Giratina (Origin Forme)
 
+## Grass-Type
+
+### Breloom, Leafeon & Exeggutor - Strange Plants
+![Breloom](https://img.pokemondb.net/sprites/home/normal/breloom.png)![Leafeon](https://img.pokemondb.net/sprites/home/normal/leafeon.png)![Exeggutor](https://img.pokemondb.net/sprites/home/normal/exeggutor.png)
+
+> Bullet Seed + Seed Bomb
+{:.note title="Breloom Moveset"}
+{:.faded}
+
+> Razor Leaf + Leaf Blade
+{:.note title="Leafeon Moveset"}
+{:.faded}
+
+> Bullet Seed + Solar Beam
+{:.note title="Exeggutor Moveset"}
+{:.faded}
+
 -----
 
 This marks the end of your time building budget teams. Let's move on to the big leagues.\
