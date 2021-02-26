@@ -13,9 +13,29 @@ redirect_from:
 
 Boop.
 
-* [Psychic Starter](#moveset---break-out-those-tms-or-not)
-{:toc}
+* [Major Types](#major-types)
+  - [Dark](#dark-type)
+  - [Dragon](#dragon-type)
+  - [Rock](#rock-type)
+  - [Fire](#fire-type)
+  - [Fighting](#fighting-type)
+  - [Psychic](#psychic-type)
+  - [Ice](#ice-type)
+  - [Electric](#electric-type)
+  - [Ghost](#ghost-type)
+  - [Ground](#ground-type)
+  - [Steel](#steel-type)
+- [B-Tier Types](#b-tier-types)
+  - [Grass](#grass-type)
+  - [Water](#water-type)
+- [Outclassed](#outclassed)
+  - [Bug](#bug-type)
+  - [Fairy](#fairy-type)
+  - [Flying](#flying-type)
+  - [Poison](#poison-type)
+  - [Normal](#normal-type)
 
+---
 
 # Major Types
 
@@ -224,7 +244,7 @@ The only counter to Electric-types.
 
 # B-Tier Types
 
-## Grass
+## Grass-Type
 Outclassed by Electric, Ice, and Fighting.
 Important, with Water and Ice, for Ground-types like Groudon. Can pair with Water and Ground against Rock.
 ### Roserade - Beauty and Thorns!
@@ -232,7 +252,7 @@ Important, with Water and Ice, for Ground-types like Groudon. Can pair with Wate
 ### Tangrowth - Objectively Flawless (citation needed)
 ### Breloom, Leafeon & Exeggutor - Strange Plants
 
-## Water
+## Water-Type
 Outclassed by Ice, Ground, and Rock.
 Important, with Grass and Ice, for Ground-types like Groudon. Can pair with Rock against Fire.
 ### Kyogre - Leviathan (Stay Tuned!)
@@ -245,27 +265,27 @@ Important, with Grass and Ice, for Ground-types like Groudon. Can pair with Rock
 
 # Outclassed
 
-## Bug - Caterpie & Friends Can't Hack It!
+## Bug-Type
 Never meant to be big bois.
 ### Genesect - Metabee?
 ### Pinsir - Vicegrip (but don't use that)
 
-## Fairy
+## Fairy-Type
 Defensive af, leaves nothing left for offense.
 ### Gardevoir - Pretty, I guess.
 ### Togekiss - Eggbird
 ### Granbull - Mad Dog
 
-## Flying - Getting Burnt by Mindgames
+## Flying-Type
 Fire and Psychic do its jobs better.
 ### Moltres - Sky Attack or Bust
 ### Honchkrow - Darkness is behind me.
 ### Zapdos & Rayquaza - Quell the Storm
 
-## Poison - It'd rather use a sword.
+## Poison-Type
 Grass/Poison is very common, and Steel beats Fairy better. (Still worth something against it?)
 ### Gengar - Ghosts and Ghosts and Ghosts
 ### Roserade - Why so Toxic?
 
-## Normal - Nothing to see here.
+## Normal-Type
 No STAB and only 2x resistance on Ghost means it's never good for attacking.
