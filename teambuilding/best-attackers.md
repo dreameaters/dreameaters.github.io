@@ -45,25 +45,22 @@ These are the Types that you'll get the most use out of, simply due to the fact 
 ### Darkrai - Shadow of Nightmares
 ![Darkrai](https://img.pokemondb.net/sprites/home/normal/darkrai.png)
 
-> Confusion/Zen Headbutt + Psychic
+> Snarl + Dark Pulse
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-> Confusion + Future Sight
-{:.note title="B-Tier Moveset"}
-{:.faded}
-
-Espeon is the #1 vanilla Psychic-type, and will be good forever.
+Darkrai is the best Dark-type in the game, and will likely keep that title forever. It's found only in 5⭐ Raids, and is classified as a Mythical Pokemon, meaning that it's unable to be traded. Pummeling it with a lobby of other Trainers, all using their best Fighting-types, is gonna be your only means of catching it. But it will be well worth it, as it's one of the most valuable Raid Bosses in the game, and serves as both the top Dark-type attacker as well as the top Ghost-type attacker, despite not being Ghost-type itself. More info on that [here.](the-very-best.md){:.heading.flip-title}
+{:.read-more}
 
 ### Weavile & Honchkrow - Dark Sinnoh Evolutions
 ![Weavile](https://img.pokemondb.net/sprites/home/normal/weavile.png)![Honchkrow](https://img.pokemondb.net/sprites/home/normal/honchkrow.png)
 
-> Confusion/Zen Headbutt + Psychic
-{:.note title="Optimal Moveset"}
+> Snarl + Foul Play
+{:.note title="Weavile Moveset"}
 {:.faded}
 
-> Confusion + Future Sight
-{:.note title="B-Tier Moveset"}
+> Snarl + Dark Pulse
+{:.note title="Honchkrow Moveset"}
 {:.faded}
 
 Espeon is the #1 vanilla Psychic-type, and will be good forever.
@@ -71,12 +68,8 @@ Espeon is the #1 vanilla Psychic-type, and will be good forever.
 ### Hydreigon - Tyrant Dragon
 ![Hydreigon](https://img.pokemondb.net/sprites/home/normal/hydreigon.png)
 
-> Confusion/Zen Headbutt + Psychic
+> Bite + Dark Pulse
 {:.note title="Optimal Moveset"}
-{:.faded}
-
-> Confusion + Future Sight
-{:.note title="B-Tier Moveset"}
 {:.faded}
 
 Espeon is the #1 vanilla Psychic-type, and will be good forever.
@@ -286,9 +279,15 @@ Both strong Dragons, but extremely top their other types, Electric and Fire resp
 ### Machamp - The OG MVP
 ![Machamp](https://img.pokemondb.net/sprites/home/normal/machamp.png)
 
-> Transform + Struggle
+> Counter + Dynamic Punch
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+> Counter + Close Combat
+{:.note title="B-Tier Moveset"}
+{:.faded}
+
+Close Combat does soften Machamp's impact noticeably, but as Machamp has 5 different Charge Moves, you could easily burn several Charge TMs trying to swap to Dynamic Punch. So if you're short on Charge TMs, sticking with Close Combat can be good enough until you have some extras to gamble with, but know that Dynamic Punch is definitely worth the upgrade.
 
 ### Breloom & Hariyama - Two Halves of Machamp
 ![Breloom](https://img.pokemondb.net/sprites/home/normal/breloom.png)![Hariyama](https://img.pokemondb.net/sprites/home/normal/hariyama.png)
