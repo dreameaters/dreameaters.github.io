@@ -294,6 +294,7 @@ Description coming soon.
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Flareon, like all the Eeveelutions, is incredibly easy to get. All it takes is 25 Candy on an Eevee, no special conditions. Though, you might end up with a Vaporeon or Jolteon instead, so it's not quite as simple as it could be. But you're bound to find Eevee often enough to be able to take a shot at this fluffy fire Pokemon every now and then.\
 **Overheat** is less than 1% DPS stronger than **Flamethrower**, so either is perfectly fine. Just be sure to replace **Fire Blast** if you have it, as it's far worse than the other two. (Also the Elite Move **Last Resort**, if evolved during a special event. It's only used in Go Battle League.)
 
 ## Fighting-Type
