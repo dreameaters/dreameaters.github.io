@@ -112,7 +112,7 @@ That's probably the longest tagline on the site, but don't let the bad joke fool
 
 ## Dark as Night - Fight evil, then harness it!
 
-All of the Dark-type Pokemon listed below are in 3⭐ Raids quite often, and have Mega Evolutions (only Houndoom is released so far). This should make any of the three relatively accessible, as well as making it easy to grind Mega Energy for them at the same time (which would make them even better for future Raids).
+All of the Dark-type Pokemon listed below are in 3✰ Raids quite often, and have Mega Evolutions (only Houndoom is released so far). This should make any of the three relatively accessible, as well as making it easy to grind Mega Energy for them at the same time (which would make them even better for future Raids).
 
 ### Tyranitar
 

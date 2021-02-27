@@ -16,27 +16,27 @@ redirect_from:
 
 Not all Pokemon are created equal, but it's important to know how to get the best out of the Pokemon that you have.
 
-* [Bug]()⭐⭐ ∙ ∙ ∙
-* [Dark]()⭐⭐⭐⭐⭐
-* [Dragon]()⭐⭐⭐⭐⭐
-* [Electric]()⭐⭐⭐⭐ ∙
-* [Fairy]()⭐ ∙ ∙ ∙ ∙
-* [Fighting](#moveset---break-out-those-tms-or-not)⭐⭐⭐⭐⭐
-* [Fire](#moveset---break-out-those-tms-or-not)⭐⭐⭐⭐⭐
-* [Flying](#moveset---break-out-those-tms-or-not)⭐⭐ ∙ ∙ ∙
-* [Ghost](#moveset---break-out-those-tms-or-not)⭐⭐⭐⭐ ∙
-* [Grass](#moveset---break-out-those-tms-or-not)⭐⭐⭐ ∙ ∙
-* [Ground](#moveset---break-out-those-tms-or-not)⭐⭐⭐⭐ ∙
-* [Ice](#moveset---break-out-those-tms-or-not)⭐⭐⭐⭐ ∙
-* [Poison](#moveset---break-out-those-tms-or-not)⭐ ∙ ∙ ∙ ∙
-* [Psychic](#moveset---break-out-those-tms-or-not)⭐⭐⭐⭐⭐
-* [Rock](#moveset---break-out-those-tms-or-not)⭐⭐⭐⭐⭐
-* [Steel](#moveset---break-out-those-tms-or-not)⭐⭐⭐⭐ ∙
-* [Water](#moveset---break-out-those-tms-or-not)⭐⭐⭐ ∙ ∙
+* [Bug]()✰✰ ∙ ∙ ∙
+* [Dark]()✰✰✰✰✰
+* [Dragon]()✰✰✰✰✰
+* [Electric]()✰✰✰✰ ∙
+* [Fairy]()✰ ∙ ∙ ∙ ∙
+* [Fighting](#moveset---break-out-those-tms-or-not)✰✰✰✰✰
+* [Fire](#moveset---break-out-those-tms-or-not)✰✰✰✰✰
+* [Flying](#moveset---break-out-those-tms-or-not)✰✰ ∙ ∙ ∙
+* [Ghost](#moveset---break-out-those-tms-or-not)✰✰✰✰ ∙
+* [Grass](#moveset---break-out-those-tms-or-not)✰✰✰ ∙ ∙
+* [Ground](#moveset---break-out-those-tms-or-not)✰✰✰✰ ∙
+* [Ice](#moveset---break-out-those-tms-or-not)✰✰✰✰ ∙
+* [Poison](#moveset---break-out-those-tms-or-not)✰ ∙ ∙ ∙ ∙
+* [Psychic](#moveset---break-out-those-tms-or-not)✰✰✰✰✰
+* [Rock](#moveset---break-out-those-tms-or-not)✰✰✰✰✰
+* [Steel](#moveset---break-out-those-tms-or-not)✰✰✰✰ ∙
+* [Water](#moveset---break-out-those-tms-or-not)✰✰✰ ∙ ∙
 {:toc}
 
 
-## Psychic - ⭐⭐⭐⭐⭐
+## Psychic - ✰✰✰✰✰
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 
@@ -127,7 +127,7 @@ That's probably the longest tagline on the site, but don't let the bad joke fool
 
 ## Dark as Night - Fight evil, then harness it!
 
-All of the Dark-type Pokemon listed below are in 3⭐ Raids quite often, and have Mega Evolutions (only Houndoom is released so far). This should make any of the three relatively accessible, as well as making it easy to grind Mega Energy for them at the same time (which would make them even better for future Raids).
+All of the Dark-type Pokemon listed below are in 3✰ Raids quite often, and have Mega Evolutions (only Houndoom is released so far). This should make any of the three relatively accessible, as well as making it easy to grind Mega Energy for them at the same time (which would make them even better for future Raids).
 
 ### Tyranitar
 

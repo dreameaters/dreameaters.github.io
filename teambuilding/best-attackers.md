@@ -42,7 +42,7 @@ This article serves to give an analysis and breakdown of the various top perform
 
 # Major Types
 
-These are the Types that you'll get the most use out of, simply due to the fact that lots of 5⭐ and Mega Raid Bosses are weak to them. You'll no doubt want a full Party of six for each of these Types, eventually hosting the most powerful of each category.
+These are the Types that you'll get the most use out of, simply due to the fact that lots of 5✰ and Mega Raid Bosses are weak to them. You'll no doubt want a full Party of six for each of these Types, eventually hosting the most powerful of each category.
 
 ## Dark-Type
 
@@ -56,7 +56,7 @@ They'll also help you deal with **Ghost-types** well enough, hitting for weaknes
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Darkrai is the best Dark-type in the game, and will likely keep that title forever. It's found only in 5⭐ Raids, and is classified as a Mythical Pokemon, meaning that it's unable to be traded. Pummeling it with a lobby of other Trainers, all using their best Fighting-types, is gonna be your only means of catching it. But it will be well worth it, as it's one of the most valuable Raid Bosses in the game, and serves as both the top Dark-type attacker as well as the top Ghost-type attacker, despite not being Ghost-type itself. More info on that [here.](#darkrai---thats-no-ghost){:.heading.flip-title}
+Darkrai is the best Dark-type in the game, and will likely keep that title forever. It's found only in 5✰ Raids, and is classified as a Mythical Pokemon, meaning that it's unable to be traded. Pummeling it with a lobby of other Trainers, all using their best Fighting-types, is gonna be your only means of catching it. But it will be well worth it, as it's one of the most valuable Raid Bosses in the game, and serves as both the top Dark-type attacker as well as the top Ghost-type attacker, despite not being Ghost-type itself. More info on that [here.](#darkrai---thats-no-ghost){:.heading.flip-title}
 {:.read-more}
 
 ### Weavile & Honchkrow - Dark Sinnoh Evolutions
@@ -101,7 +101,7 @@ Houndoom can be easy to get if you find many Fire-types in the wild near you, or
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-The greatest Dark-type attacker back in the day, Tyranitar is still a force to be reckoned with today. If you have some from back in its glory days, they're as good as they every were, it's just that now some newer Pokemon have surpassed them. If you don't have any yet, they're still a great Pokemon to train up. Catch it when it comes to 3✰ Raids, evolve a Shadow/Purified Larvitar, or stock up on wild catches when they're part of an event. With a Mega Evolution releasing later on, Tyranitar is sure to be sticking around.
+The greatest Dark-type attacker back in the day, Tyranitar is still a force to be reckoned with today. If you have some from back in its glory days, they're as good as they ever were, it's just that now some newer Pokemon have surpassed them. If you don't have any yet, they're still a great Pokemon to train up. Catch it when it comes to 3✰ Raids, evolve a Shadow/Purified Larvitar, or stock up on wild catches when they're part of an event. With a Mega Evolution releasing later on, Tyranitar is sure to be sticking around.
 
 > Shadow Tyranitar is an absolute beast, and though I'm not detailing Shadow Pokemon in this article, check out [Shadow Pokemon](/go/teambuilding/shadow-pokemon/) if you want to learn more. (Recommended Lv35+)
 {:.note title="To purify or not..."}
@@ -118,7 +118,7 @@ Super-effective against their own kind, **Dragon-types** are a bit of a double-e
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Rayquaza is the strongest Dragon-type there is. With a Mega Evolution coming at some point, it's only going to get stronger. The best part of this is that two Trainers with Lv25 Mamoswine, Galarian Darmanitan, Glaceon, and/or Weavile can defeat it. If it's Snowing, it's easy. If the Pokemon are above Lv25, also easy. For one of the most powerful Pokemon in the game, and the best Dragon-type all around, Rayquaza is incredibly easy to get. It's just a matter of waiting for it to show up in 5⭐ Raids.
+Rayquaza is the strongest Dragon-type there is. With a Mega Evolution coming at some point, it's only going to get stronger. The best part of this is that two Trainers with Lv25 Mamoswine, Galarian Darmanitan, Glaceon, and/or Weavile can defeat it. If it's Snowing, it's easy. If the Pokemon are above Lv25, also easy. For one of the most powerful Pokemon in the game, and the best Dragon-type all around, Rayquaza is incredibly easy to get. It's just a matter of waiting for it to show up in 5✰ Raids.
 
 ### Dialga - Shielded Dragon
 ![Dialga](https://img.pokemondb.net/sprites/home/normal/dialga.png)
@@ -127,7 +127,7 @@ Rayquaza is the strongest Dragon-type there is. With a Mega Evolution coming at 
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Due to the secondary Steel-typing, Dialga is the only Dragon-type Pokemon to *not* be weak to Dragon itself. That incredible fact combined with great DPS, makes it an extremely important Pokemon to have. Unfortunately, it's only been in 5⭐ Raids very few times since it was first released in early 2019. Everyone is eagerly awaiting this truly Legendary Dragon's return. Be sure to catch as many as you can once it's available again.
+Due to the secondary Steel-typing, Dialga is the only Dragon-type Pokemon to *not* be weak to Dragon itself. That incredible fact combined with great DPS, makes it an extremely important Pokemon to have. Unfortunately, it's only been in 5✰ Raids very few times since it was first released in early 2019. Everyone is eagerly awaiting this truly Legendary Dragon's return. Be sure to catch as many as you can once it's available again.
 
 ### Salamence & Dragonite - Rayquaza's Grunts
 ![Salamence](https://img.pokemondb.net/sprites/home/normal/salamence.png)![Dragonite](https://img.pokemondb.net/sprites/home/normal/dragonite.png)
@@ -711,7 +711,7 @@ The **Bug-type** was simply never meant to be a big deal, as sad as that is to s
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Genesect is as good as Bug-types get. Hosting the lowest DPS of any Type's #1 slot, Genesect also holds the "honor" of being a Mythical Pokemon, locked behind a Special Research, 5⭐ Raids, and being unable to be traded. So not only is the best Bug-type the worst #1, but it's also about as complicated as it gets to obtain. To top it all off, Genesect performs a bit better as a [Steel-type attacker](#genesect---death-metal-bug), while also being outclassed by 4 or 5 better Steel-types.\
+Genesect is as good as Bug-types get. Hosting the lowest DPS of any Type's #1 slot, Genesect also holds the "honor" of being a Mythical Pokemon, locked behind a Special Research, 5✰ Raids, and being unable to be traded. So not only is the best Bug-type the worst #1, but it's also about as complicated as it gets to obtain. To top it all off, Genesect performs a bit better as a [Steel-type attacker](#genesect---death-metal-bug), while also being outclassed by 4 or 5 better Steel-types.\
 If you want a big Bug-type, this is it. Though its runner-up is just barely below it, and much easier to catch. Keep scrolling.
 
 ### Pinsir - Vicegrip (but don't use that)
@@ -744,7 +744,7 @@ Gardevoir is one of Kirlia's evolutions (base-form being Ralts), along with Gall
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Togekiss is the final stage of Togepi. Meaning you either have to hatch a Togepi (only ocassionally in Eggs) and give it 125 candy, or capture Togetic from 3⭐ Raids when it's around and use 100 candy. It's a hard to get Pokemon, either way, and in the end it's not worth Raiding with. It has use in [Go Battle League](/go/pvp/), but that's not what we're talking about here.
+Togekiss is the final stage of Togepi. Meaning you either have to hatch a Togepi (only ocassionally in Eggs) and give it 125 candy, or capture Togetic from 3✰ Raids when it's around and use 100 candy. It's a hard to get Pokemon, either way, and in the end it's not worth Raiding with. It has use in [Go Battle League](/go/pvp/), but that's not what we're talking about here.
 
 ### Granbull - Mad Dog
 ![Granbull](https://img.pokemondb.net/sprites/home/normal/granbull.png)
