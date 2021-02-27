@@ -1,6 +1,6 @@
 ---
 layout: page
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/banner.jpg
 description: >
   If you're missing Types from the Best Attackers list,
   you can probably get these for the time being.
