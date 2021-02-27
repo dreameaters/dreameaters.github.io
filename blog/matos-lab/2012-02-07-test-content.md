@@ -3,6 +3,7 @@ layout: post
 title: Test Content
 description: >
   Howdy! Mato's Lab here!
+tags:       [test, obscure]
 sitemap: false
 hide_last_modified: false
 ---
