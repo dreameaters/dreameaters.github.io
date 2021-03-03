@@ -190,7 +190,7 @@ Palkia trades in the resistance of Dialga for extra power, and a secondary Water
 The black and white Dragons, representing ideals and truth. The truth is that these Dragon-types are ideally used for their secondary typings of Electric and Fire respectively. However, if you find yourself swimming in them with no other Dragons in sight, then they still do well using **Double-Dragon Movesets**.
 
 See how Zekrom dominates the [Electric-type category here.](#zekrom---lord-of-thunder){:.heading.flip-title}
-{:.read-more}\
+{:.read-more}
 See how Reshiram dominates the [Fire-type category here.](#reshiram---lord-of-fire){:.heading.flip-title}
 {:.read-more}
 
@@ -205,6 +205,8 @@ Rock and roll! **Rock-type** Pokemon lead the pack in defeating both **Flying-ty
 > Smack Down + Rock Slide
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+No other Rock-type attacker comes close to the raw power of Rampardos.
 
 ### Rhyperior - Arm Cannons
 ![Rhyperior](https://img.pokemondb.net/sprites/home/normal/rhyperior.png)
