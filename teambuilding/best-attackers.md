@@ -171,8 +171,7 @@ Garchomp is also a wonderful [Ground-type attacker.](#garchomp---landshark){:.he
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Description coming soon.
-
+Palkia trades in the resistance of Dialga for extra power, and a secondary Water-typing. Unlike Dialga's Steel-type, Water does nothing special for Palkia. This doesn't mean Palkia should be ignored. Boasting DPS comparable to Salamence, without all the candy needed to evolve, Palkia is yet another powerhouse of a Dragon-type, well worth the stardust investment.
 
 > With Pokemon Brilliant Diamond and Shining Pearl versions releasing on Nintendo Switch late this year, expect both Dialga and Palkia to return to raids in celebration of the release.
 {:.note}
@@ -188,8 +187,12 @@ Description coming soon.
 {:.note title="Reshiram's Moveset"}
 {:.faded}
 
-Both strong Dragons, but extremely top their other types, Electric and Fire respectively.\
-Description coming soon.
+The black and white Dragons, representing ideals and truth. The truth is that these Dragon-types are ideally used for their secondary typings of Electric and Fire respectively. However, if you find yourself swimming in them with no other Dragons in sight, then they still do well using **Double-Dragon Movesets**.
+
+See how Zekrom dominates the [Electric-type category here.](#zekrom---lord-of-thunder){:.heading.flip-title}
+{:.read-more}\
+See how Reshiram dominates the [Fire-type category here.](#reshiram---lord-of-fire){:.heading.flip-title}
+{:.read-more}
 
 
 ## Rock-Type
