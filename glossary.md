@@ -1,8 +1,8 @@
 ---
 layout: page
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  A glossary of terms commonly used on this site, other
+  fan-made documentation, and Pokemon Go in-game.
 hide_description: true
 redirect_from:
   - /terms/
