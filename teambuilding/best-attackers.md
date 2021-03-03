@@ -338,12 +338,22 @@ The big bruisers of the Pokemon world! **Fighting-type** Pokemon live up to thei
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Lucario is far and away the best Fighting-type Pokemon in the game. With such power, of course comes extreme difficulty in obtaining one for yourself. Only found in rare eggs, hatched as Riolu, you're going to have a hard time getting one. If you do get one, it's going to need 50 Candy to evolve, and will of course need to be Powered-Up past the **Lv20** it hatches at. Finding a Lucky Friend who also has a Riolu to trade, wouldn't be a bad idea, but even then, you'd better Buddy up and start walking.
+
 ### Conkeldurr - Bigger Machamp
 ![Conkeldurr](https://img.pokemondb.net/sprites/home/normal/conkeldurr.png)
 
 > Counter + Dynamic Punch
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+A bigger Machamp, that can only be obtained through 1✰ Raids, caught as the base form Timburr. It's gonna take either a lot of low-tier Raids, a lot of Rare Candy, or a lot of walking as your Buddy to get the 125 Candy needed to fully evolve to Conkeldurr, and of course will need to be Powered-Up from **Lv20** just like Lucario. (Or **Lv25** if the Raid was Weather Boosted.)\
+As I said, Conkeldurr is a bigger Machamp, but only by a bit, and Machamp is **extremely** easier to obtain. So let me be completely honest with you:
+
+> Never raid for Conkeldurr. It's a waste of a Raid Pass to even do one Raid and then walk it. It's a waste of time walking, and a massive waste of Rare Candy. Machamp is nearly as good, and extremely accessible.
+{:.note title="My Brutal Opinion"}
+
+Now, with that out of the way, let's stop wasting time here, and move on to the real star of the show. Keep scrolling.
 
 ### Machamp - The OG MVP
 ![Machamp](https://img.pokemondb.net/sprites/home/normal/machamp.png)
@@ -356,7 +366,14 @@ The big bruisers of the Pokemon world! **Fighting-type** Pokemon live up to thei
 {:.note title="B-Tier Moveset"}
 {:.faded}
 
-**Close Combat** does soften Machamp's impact noticeably, but as Machamp has 5 different Charge Moves, you could easily burn several Charge TMs trying to swap to **Dynamic Punch**. So if you're short on Charge TMs, sticking with **Close Combat** can be good enough until you have some extras to gamble with, but know that **Dynamic Punch** is definitely worth the upgrade.
+A Pokemon that new Trainers used to work hard for, excited to break into the Raid scene. Machamp used to require either a strong party of Psychic-types to fight in 4✰ Raids (when those existed), or 125 Candy from (hopefully Weather Boosted) wild Machop spawns (which are often around). Nowadays, this true champion is *much* easier to get, and just as highly regarded as ever.\
+* Catch a high-level wild Machop (ideally in Cloudy Weather for the Weather-Boost to increase its Level even more).
+* Trade your high-level Machop for a friend's.
+* Evolve to Machoke using 25 Candy.
+* Evolve for **free** (due to the trade) to Machamp.
+That's all it takes. Trade Evolutions have made Machamp extremely easy to get, and if you don't have anyone to swap your high-level Machop with, it's just gonna mean adding 100 Candy to the formula instead. Not a huge deal, but it's best to have a trade friend if possible. Many experienced Trainers tend to hold on to a few high-level Machop for the sake of helping out newbies, so it doesn't hurt to ask around a bit.
+
+Finally, in terms of Movesets, **Close Combat** does soften Machamp's impact noticeably, but as Machamp has 5 different Charge Moves, you could easily burn several Charge TMs trying to swap to **Dynamic Punch**. So if you're short on Charge TMs, sticking with **Close Combat** can be good enough until you have some extras to gamble with, but know that **Dynamic Punch** is definitely worth the upgrade.
 
 ### Breloom & Hariyama - Two Halves of Machamp
 ![Breloom](https://img.pokemondb.net/sprites/home/normal/breloom.png)![Hariyama](https://img.pokemondb.net/sprites/home/normal/hariyama.png)
