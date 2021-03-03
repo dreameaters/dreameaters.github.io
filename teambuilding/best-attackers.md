@@ -638,6 +638,11 @@ Nothing fares better against **Ice-types** than **Steel-type** Pokemon. Should a
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Let's get an unfortunate truth out of the way, right at the start.\
+Without **Meteor Mash†**, Metagross can't help you as a Steel-type attacker.
+
+**Meteor Mash†** makes Metagross the best Steel-type attacker by far. With the massive defense that Steel-types are known for, combined with the huge power of **Meteor Mash†**, Metagross is what any top attacker should hope to be. The only downside would be rarity. Beldum is a very rare wild spawn, but does show up in events from time to time. Grab it when you can, and hope for an event with **Meteor Mash†** in the future.
+
 ### Dialga - Aged Steel
 ![Dialga](https://img.pokemondb.net/sprites/home/normal/dialga.png)
 
