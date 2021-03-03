@@ -25,3 +25,9 @@ text
 
 ### TDO (Total Damage Output)
 text
+
+### STAB (Same Type Attack Bonus)
+text
+
+### Elite Move
+text
