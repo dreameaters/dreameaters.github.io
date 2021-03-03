@@ -30,7 +30,10 @@ text
 text
 
 ### Elite Move
-text
+Some Pokemon have moves that they can't normally learn, but are able to get under special conditions. These moves are most often available during a Community Day staring said Pokemon, which is guaranteed to learn the Elite Move upon full evolution during the Commnity Day hours.\
+(Other reasons for a Move being Elite are mostly very obscure, and aren't worth being detailed here.)\
+The only way for a Pokemon to learn an Elite Move outside of the appropriate event, is through the use of either an Elite Fast TM or an Elite Charge TM, depending on the kind of Move in question. These items are *very* limited, and are detailed further in [Rare Items](/go/trainer-school/rare-items){:.heading.flip-title}.
+{:.read-more}
 
 ### Toggle
 When a Pokemon has only two possible Moves it can learn in a category (either Fast or Charge), using the proper TM on said Pokemon will *always* result in the currently not-known Move being learned. This means the forgotten Move can just as easily be relearned, letting the Trainer **Toggle** the Pokemon's Move with only a single Fast TM, whenever the opposite Move is desired.
