@@ -42,7 +42,7 @@ Often considered a more useful metric than [TDO](#tdo-total-damage-output), due 
 A number used to note the total amount of damage a specific Pokemon can mathematically deal against a specific opponent before fainting. This is rarely used as a useful metric, as it is dependant on the defending Pokemon's stats, as well as [DPS](#dps-damage-per-second) almost always being a more relevant and helpful measure to compare Pokemon by.
 
 > A Pokemon with higher TDO is likely due to it having more "[bulk](#bulk)".
-[:.note]
+{:.note}
 
 ### STAB (Same Type Attack Bonus)
 When a Pokemon uses a Move that matches one of its own Types, said Move deals 25% extra damage.
