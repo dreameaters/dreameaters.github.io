@@ -16,7 +16,7 @@ This article serves to give an analysis and breakdown of the various top perform
 > Charizard, a Fire/Flying-type Pokemon, with the Fast Move of **Fire Spin** and the Charge Move of **Blast Burn** would be considered to have a **Double-Fire Moveset**, allowing it to constantly deal Super-Effective damage on a Bug, Grass, or Ice-type opponent, and would deal 25% more damage due to STAB with both moves.
 {:.note title="Example of an Ideal Attacker"}
 
-> This guide expects an understanding of the terms "[Elite Move](/glossary/#elite-move)", "STAB"(/glossary/#stab-(same-type-attack-bonus)), and "DPS"(/glossary/#dps-(damage-per-second)). Visit the [Glossary](/glossary/) if you encounter any terms you're unfamiliar with.
+> This guide expects an understanding of the terms "[Elite Move](/glossary/#elite-move)", "[STAB](/glossary/#stab-(same-type-attack-bonus))", and "[DPS](/glossary/#dps-(damage-per-second))". Visit the [Glossary](/glossary/) if you encounter any terms you're unfamiliar with.
 {:.note title="Helpful Note"}
 {:.faded}
 
