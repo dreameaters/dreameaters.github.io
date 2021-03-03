@@ -129,6 +129,9 @@ Rayquaza is the strongest Dragon-type there is. With a Mega Evolution coming at 
 
 Due to the secondary Steel-typing, Dialga is the only Dragon-type Pokemon to *not* be weak to Dragon itself. That incredible fact combined with great DPS, makes it an extremely important Pokemon to have. Unfortunately, it's only been in 5✰ Raids very few times since it was first released in early 2019. Everyone is eagerly awaiting this truly Legendary Dragon's return. Be sure to catch as many as you can once it's available again.
 
+> With Pokemon Brilliant Diamond and Shining Pearl versions releasing on Nintendo Switch late this year, expect both Dialga and its counterpart Palkia to return to raids in celebration of the release.
+{:.note}
+
 ### Salamence & Dragonite - Rayquaza's Grunts
 ![Salamence](https://img.pokemondb.net/sprites/home/normal/salamence.png)![Dragonite](https://img.pokemondb.net/sprites/home/normal/dragonite.png)
 
@@ -157,7 +160,9 @@ Additionally, Salamence will get a Mega Evolution at some point in the future, w
 {:.note title="Garchomp's Moveset"}
 {:.faded}
 
-Description coming soon.
+Both Haxorus and Garchomp are extremely rare in the wild (spawning as Axew and Gible respectively), but if you can get either of them, they're absolute powerhouses. If you want big Dragons like Dragonite and Salamence, but without the Flying-type added onto them, these two are exactly what you're looking for.\
+Garchomp is also a wonderful [Ground-type attacker.](#garchomp---landshark){:.heading.flip-title}
+{:.read-more}
 
 ### Palkia - Pearlescent Dragon
 ![Palkia](https://img.pokemondb.net/sprites/home/normal/palkia.png)
@@ -167,6 +172,10 @@ Description coming soon.
 {:.faded}
 
 Description coming soon.
+
+
+> With Pokemon Brilliant Diamond and Shining Pearl versions releasing on Nintendo Switch late this year, expect both Dialga and Palkia to return to raids in celebration of the release.
+{:.note}
 
 ### Zekrom & Reshiram - Far From Home
 ![Zekrom](https://img.pokemondb.net/sprites/home/normal/zekrom.png)![Reshiram](https://img.pokemondb.net/sprites/home/normal/reshiram.png)
