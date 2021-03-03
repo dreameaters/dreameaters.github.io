@@ -366,11 +366,13 @@ Now, with that out of the way, let's stop wasting time here, and move on to the 
 {:.note title="B-Tier Moveset"}
 {:.faded}
 
-A Pokemon that new Trainers used to work hard for, excited to break into the Raid scene. Machamp used to require either a strong party of Psychic-types to fight in 4✰ Raids (when those existed), or 125 Candy from (hopefully Weather Boosted) wild Machop spawns (which are often around). Nowadays, this true champion is *much* easier to get, and just as highly regarded as ever.\
+A Pokemon that new Trainers used to work hard for, excited to break into the Raid scene. Machamp used to require either a strong party of Psychic-types to fight in 4✰ Raids (when those existed), or 125 Candy from (hopefully Weather Boosted) wild Machop spawns (which are often around). Nowadays, this true champion is *much* easier to get, and just as highly regarded as ever.
+
 * Catch a high-level wild Machop (ideally in Cloudy Weather for the Weather-Boost to increase its Level even more).
 * Trade your high-level Machop for a friend's.
 * Evolve to Machoke using 25 Candy.
 * Evolve for **free** (due to the trade) to Machamp.
+
 That's all it takes. Trade Evolutions have made Machamp extremely easy to get, and if you don't have anyone to swap your high-level Machop with, it's just gonna mean adding 100 Candy to the formula instead. Not a huge deal, but it's best to have a trade friend if possible. Many experienced Trainers tend to hold on to a few high-level Machop for the sake of helping out newbies, so it doesn't hurt to ask around a bit.
 
 Finally, in terms of Movesets, **Close Combat** does soften Machamp's impact noticeably, but as Machamp has 5 different Charge Moves, you could easily burn several Charge TMs trying to swap to **Dynamic Punch**. So if you're short on Charge TMs, sticking with **Close Combat** can be good enough until you have some extras to gamble with, but know that **Dynamic Punch** is definitely worth the upgrade.
@@ -381,6 +383,8 @@ Finally, in terms of Movesets, **Close Combat** does soften Machamp's impact not
 > Counter + Dynamic Punch
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Though they share an Optimal Moveset, these two Pokemon have noticeably different stats. Breloom hits harder, while Hariyama has more bulk. In addition, Breloom has the Grass-typing to go with its Fighting-type. Both of these Pokemon are solid alternatives to Machamp, if they happen to be common in the wild around you. (Base forms being Shroomish and Makuhita respectively.)
 
 
 ## Psychic-Type
@@ -412,7 +416,7 @@ Proudly including the most powerful Pokemon of all time, Mewtwo, the **Psychic-t
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Simply more offensive than its red sister, Latias.
+Simply more offensive than his red sister, Latias.
 
 ### Metagross - Super Computer
 ![Metagross](https://img.pokemondb.net/sprites/home/normal/metagross.png)
@@ -432,6 +436,11 @@ When you have no Dragons, you'll want plenty of **Ice-types**. Freezing **Dragon
 > Ice Fang + Avalanche
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+We've coverd the original Fire-type Darmanitan earlier in this guide, and the Ice-type Galarian variant is the exact same story, but with a Type swap. Being the most powerful Ice-type attacker by far, the egg-sclusive Galarian Daumaka is only found in 7km Eggs, so make sure you're opening your friends' gifts when you have an empty slot in your egg storage.
+
+> Remember that regional variants share Candy, so any Darumaka Candy obtained from the Fire-type variant will also be usable on this icy cousin.
+{:.note}
 
 ### Mamoswine - Mammoth Bulk!
 ![Mamoswine](https://img.pokemondb.net/sprites/home/normal/mamoswine.png)
@@ -480,6 +489,8 @@ Having only a single weakness in **Ground-types**, **Electric-type** Pokemon can
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Towering over its fellow Electric-types, the deep black dragon of ideals rules supreme. Only caught in 5✰ Raids, Zekrom is a Legendary worth chasing after. Though it also fares well with a [**Double-Dragon Moveset**](#zekrom--reshiram---far-from-home), the Electric-type is where it truly is truly shines.
+
 ### Electivire - Fists of Lightning
 ![Electivire](https://img.pokemondb.net/sprites/home/normal/electivire.png)
 
@@ -518,6 +529,8 @@ Having only a single weakness in **Ground-types**, **Electric-type** Pokemon can
 > Confusion/Zen Headbutt + Thunderbolt
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Though not Electric-types themselves, nor having Electric-type Fast Moves, these two Psychic-type 5✰ Bosses can deal damage close to that of Zekrom itself. If you don't have enough true Electric-type options, or your opponent is also weak to Psychic-type attacks, these two are worth bringing to the fight.
 
 
 ## Ghost-Type
@@ -598,6 +611,11 @@ As the *only* counter to **Electric-types**, **Ground-type** Pokemon are absolut
 > Mud Shot + Earthquake
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Though better at using [Dragon-type attacks](#haxorus--garchomp---dragons-of-myth), Garchomp is also a great Ground-type attacker. Though its base form, Gible, is super rare in the wild, it's always worth investing in when you find a strong one. The Dragon-typing neutralizes a few of Garchomp's weakness that other Ground-types can't handle. (Grass and Water, specifically.)
+
+> One option, though expensive, is to unlock a Second Charge Move on Garchomp, letting it know both **Earthquake** and **Outrage**. That way, you can use a single Fast TM to switch the Fast Move between **Mud Shot** and **Dragon Tail**, depending on which Type of Moveset you need at the time, letting your Garchomp serve both roles.
+{:.note title="An Expensive Toggle"}
 
 ### Rhydon & Rhyperior - Rumblin' Rhynos
 ![Rhydon](https://img.pokemondb.net/sprites/home/normal/rhydon.png)![Rhyperior](https://img.pokemondb.net/sprites/home/normal/rhyperior.png)
