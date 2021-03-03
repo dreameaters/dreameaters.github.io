@@ -26,7 +26,9 @@ A non-descript term for a Pokemon having high defense and/or HP. (Generally, or 
 ### Power
 1. A "slang" term for a Pokemon's [DPS](#dps-damage-per-second). ie, a powerful Pokemon is normally one with high DPS.
 2. A lazy way to say [Combat Power](#cp-combat-power) (aka CP). Often avoided, to not confuse CP and DPS.
-#### The term "Power" will never be used anywhere on this site to mean "Combat Power".
+> The term "Power" will never be used anywhere on this site to mean "Combat Power".
+{:.note}
+{:.faded}
 
 ### CP (Combat Power)
 text\
