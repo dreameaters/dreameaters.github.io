@@ -16,6 +16,10 @@ This article serves to give an analysis and breakdown of the various top perform
 > Charizard, a Fire/Flying-type Pokemon, with the Fast Move of **Fire Spin** and the Charge Move of **Blast Burn** would be considered to have a **Double-Fire Moveset**, allowing it to constantly deal Super-Effective damage on a Bug, Grass, or Ice-type opponent, and would deal 25% more damage due to STAB with both moves.
 {:.note title="Example of an Ideal Attacker"}
 
+> This guide expects an understanding of the terms "[Elite Move](/glossary/#elite-move)", "STAB"(/glossary/#stab-(same-type-attack-bonus)), and "DPS"(/glossary/#dps-(damage-per-second)). Visit the [Glossary](/glossary/) if you encounter any terms you're unfamiliar with.
+{:.note title="Helpful Note"}
+{:.faded}
+
 * [Major Types](#major-types)
   - [Dark](#dark-type)
   - [Dragon](#dragon-type)
@@ -206,21 +210,20 @@ Rock and roll! **Rock-type** Pokemon lead the pack in defeating both **Flying-ty
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-No other Rock-type attacker comes close to the raw power of Rampardos.
+No other Rock-type attacker comes close to the raw power of Rampardos. However, offense is all it has. This ancient beast can hardly take a hit, and trades away the Rock-type's signature high defense in exchange for absolute crushing power. Rarely found in the wild (as Cranidos), it's worth Powering-Up for the massive hits it will deal before quickly falling itself, and should lead any Rock-type Raid Party for quick damage right at the start of the fight.
 
-### Rhyperior - Arm Cannons
-![Rhyperior](https://img.pokemondb.net/sprites/home/normal/rhyperior.png)
+### Rhyperior & Terrakion - Different Rare Gems
+![Rhyperior](https://img.pokemondb.net/sprites/home/normal/rhyperior.png)![Terrakion](https://img.pokemondb.net/sprites/home/normal/terrakion.png)
 
 > Smack Down + Rock Wrecker†
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-### Terrakion - The Sword of Justice
-![Terrakion](https://img.pokemondb.net/sprites/home/normal/terrakion.png)
-
 > Smack Down + Rock Slide
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+With very similar stats, and a rare limiter on accessibility, deciding between these top Rock-type attackers only comes down to which you can personally get. Rhyperior requires its Elite Charge Move, **Rock Wrecker†**, originally gotten on its Community Day, while Terrakion is a Legendary Pokemon found only in 5✰ Raids. Both should fill the gap right behind Rampardos, and fare better than any remaining Rock-type options.
 
 ### Tyranitar - Godzilla of Old
 ![Tyranitar](https://img.pokemondb.net/sprites/home/normal/tyranitar.png)
@@ -233,7 +236,7 @@ No other Rock-type attacker comes close to the raw power of Rampardos.
 {:.note title="B-Tier Moveset"}
 {:.faded}
 
-**Bite** gives the same DPS as **Smack Down†**, but it's Dark-type instead of Rock-type. Tyranitar will still get STAB on it, but if your opponent isn't weak to Dark-type, you're losing out on Super-Effective damage.
+Regarded as the best Rock-type attacker for a long time, Tyranitar has since been one-upped by the newer Pokemon listed above. Don't let this lead you to think that Tyranitar isn't worth your attention though. It still hits as hard as ever, and that's *very* hard. It's old Community Day move, **Smack Down†**, will give the **Double-Rock Moveset** you ideally want, but **Bite** is regularly accessible and matches it for DPS, while still getting STAB from Tyranitar's Dark-typing. However, if your opponent isn't also weak to Dark, then you're missing out on Super-Effective damage.
 
 ## Fire-Type
 
@@ -246,6 +249,8 @@ The searing flames of **Fire-type** Pokemon should be your first pick for dealin
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Reshiram is the ultimate Fire-type attacker. Only caught in 5✰ Raids, the vast white Dragon of truth will dominate any Grass, Ice, Bug, or Steel-types that you throw it at. Though it also fares well with a [**Double-Dragon Moveset**](#zekrom--reshiram---far-from-home), the Fire-type is where it truly is without match.
+
 ### Darmanitan - Gurilla Tactics
 ![Darmanitan](https://img.pokemondb.net/sprites/home/normal/darmanitan-standard.png)
 
@@ -253,12 +258,16 @@ The searing flames of **Fire-type** Pokemon should be your first pick for dealin
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+The best vanilla Fire-type attacker, Darmanitan, can be hard to come by. A very rare spawn of Darumaka in the wild, or from eggs, is always a welcome sight. The Fire-type has many top attackers, but you'll quickly see that most are pretty hard to get. When you can, use your Pinap Berries on wild Darumaka, even if it's the Glaraian Ice-type variant. The candies still count.
+
 ### Chandelure - Will-o-Wisp
 ![Chandelure](https://img.pokemondb.net/sprites/home/normal/chandelure.png)
 
 > Fire Spin + Overheat
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Close to Darmanitan in power, the catch with Chandelure is that its base form (Litwik) is almost exclusively found in the wild during Halloween events. So be sure to stock up when the spooky season is around. Beyond that, the mid-stage (Lampent) is often a potential encounter in the Go Battle League, as of a certain Rank.
 
 ### Blaziken - From Good to Great!
 ![Blaziken](https://img.pokemondb.net/sprites/home/normal/blaziken.png)
@@ -271,6 +280,7 @@ The searing flames of **Fire-type** Pokemon should be your first pick for dealin
 {:.note title="Vanilla Moveset"}
 {:.faded}
 
+As with most Fire-type starter Pokemon, Blaziken gets the Elite Charge Move **Blast Burn**. With it, this brawling bird surpasses Darmanitan in pure power, still ending up shy of Reshiram's greatness. Without it, Blaziken finds its place just below Chandelure. Either way, take note that the prefered Fast Move on Blaziken is **Counter**, which is a Fighting-type move. It will still gain STAB, due to Blaziken's second type, but be aware of your opponent's weaknesses.\
 Using **Fire Spin** instead of **Counter** For Blaziken's Fast Move gives you a **Double-Fire Moveset**, while only sacrificing 2.5% damage. If the Raid Boss you're battling isn't weak to Fighting, it's a worthwhile swap, even if it means simply toggling it with a Fast TM.
 
 ### Moltres - Rising Phoenix!
@@ -280,6 +290,8 @@ Using **Fire Spin** instead of **Counter** For Blaziken's Fast Move gives you a 
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Finally another Legendary for the Fire-type. Moltres works better as a [Flying-type attacker](#moltres---sky-attack-or-bust), but that's not something you'll need nearly as often as you'll need Fire. Close to a Blaziken sans **Blast Burn†**, Moltres is a reliable Fire-type, and comes around to 5✰ Raids pretty often.
+
 ### Charizard & Infernape - Blast Burn!!
 ![Charizard](https://img.pokemondb.net/sprites/home/normal/charizard.png)![Infernape](https://img.pokemondb.net/sprites/home/normal/infernape.png)
 
@@ -287,8 +299,10 @@ Using **Fire Spin** instead of **Counter** For Blaziken's Fast Move gives you a 
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Charizard and Infernape have the same moveset.\
-Description coming soon.
+Sharing a Moveset, and both relying on the Elite Move **Blast Burn†**, Charizard and Infernape are solid Fire-type options. Without **Blast Burn†**, they fall short of greatness and can not be considered top picks by any means. Good if you have nothing else on this list, but more on that is left to [The Budget Dream Team.](/go/teambuilding/budget-dream-team){:.heading.flip-title}
+{:.read-more}
+
+> Charizard has not one, but *two* Mega Evolutions. Mega Charizard Y turns Charizard into a beast, surpassing Reshiram, while Mega Charizard X trades its Flying-typing in for the Dragon-type (and remains a great Fire-type attacker, but not as incredible as the Y variant).
 
 ### Entei & Heatran - Volcanic Legends!
 ![Entei](https://img.pokemondb.net/sprites/home/normal/entei.png)![Heatran](https://img.pokemondb.net/sprites/home/normal/heatran.png)
@@ -300,6 +314,8 @@ Description coming soon.
 > Fire Spin + Flamethrower
 {:.note title="Heatran Moveset"}
 {:.faded}
+
+Two more Legendary Pokemon, nearly similar in terms of attacking power. Entei and Heatran aren't uncommon Bosses in 5✰ Raids. The main difference between the two is Heatran's secondary Steel-typing, with Entei being purely Fire-type. With Entei hitting a *tiny* bit harder, and Heatran's Steel-typing, its very situational which has an edge over the other, but they're both solid options in general.
 
 ### Flareon - Hot Dog
 ![Flareon](https://img.pokemondb.net/sprites/home/normal/flareon.png)
