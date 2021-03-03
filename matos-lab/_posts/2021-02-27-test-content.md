@@ -5,7 +5,7 @@ description: >
   Howdy! Mato's Lab here!
 tags:       [test, obscure]
 sitemap: false
-hide_last_modified: false
+hide_last_modified: true
 ---
 
 The new evolutions in gen 4, Tangrowth, Weavile, Mamoswine, Electivire, etc, weren't in the Sinnoh Dex in Diamond and Pearl. They were like, extra.
