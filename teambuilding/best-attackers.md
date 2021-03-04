@@ -498,12 +498,16 @@ Towering over its fellow Electric-types, the deep black dragon of ideals rules s
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Costing 100 Candy and a Sinnoh Stone, this evolved form of Electabuzz packs a punch! A step above the rest of the Electric-types, Electivire makes its mark on any Electric party. Just know that it won't stick around for long, as its defense is surprisingly low for such a big Pokemon, but it will get the job done.
+
 ### Raikou - The Speed of Light
 ![Raikou](https://img.pokemondb.net/sprites/home/normal/raikou.png)
 
 > Thunder Shock + Wild Charge
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+The Legendary Beast of Thunder, Raikou makes quick work of its adversaries. There's nothing too special about it, but Raikou spent quite some time being the pinnacle of Electric-type attackers, only recently usurped by the Pokemon above it. It's still great today, and is worth the investment.
 
 ### Zapdos - Pure Instinct
 ![Zapdos](https://img.pokemondb.net/sprites/home/normal/zapdos.png)
@@ -516,12 +520,17 @@ Towering over its fellow Electric-types, the deep black dragon of ideals rules s
 {:.note title="B-Tier Moveset"}
 {:.faded}
 
+When blessed with its Elite Fast Move, **Thunder Shock†**, Zapdos holds up well in comparison to Raikou. Without it, Zapdos is still good, just not as good as the saber-tooth above it, or the giant magnet beneath it for that matter.\
+**Thunder Shock†** is available on Zapdos from 5✰ Raids most often these days, though sometimes you'll find this Legendary Bird without it, so be wary and read the in-game news carefully when you see those spiky wings, to make sure the Elite Move is mentioned specifically.
+
 ### Magnezone - Electivire, favoring Bulk
 ![Magnezone](https://img.pokemondb.net/sprites/home/normal/magnezone.png)
 
 > Spark + Wild Charge
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Wish your Electivire stuck around a little bit longer? Well you shouldn't. You know that raw power is more important than endurance. But, if you insist (or you simply can't find Electabuzz), Magnezone is about on par with **Thunder Shock†** Zapdos. It will end up costing you 125 Magnemite Candy, as well as a Sinnoh stone.
 
 ### Mewtwo & Deoxys - Shocking DNA!
 ![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)![Deoxys](https://img.pokemondb.net/sprites/home/normal/deoxys-normal.png)
@@ -535,14 +544,7 @@ Though not Electric-types themselves, nor having Electric-type Fast Moves, these
 
 ## Ghost-Type
 
-Much like Dragons, **Ghost-type** Pokemon are weak and strong against each other. Though **Dark-types** have nothing to fear from these ghouls, **Ghost-types** will hit even harder than the dark foes. It's a real risk for reward, and when Raiding, fainting faster is always worth it to KO the Raid Boss fast as well.
-
-### Darkrai - That's no ghost!
-![Darkrai](https://img.pokemondb.net/sprites/home/normal/darkrai.png)
-
-> Snarl + Shadow Ball
-{:.note title="Optimal Moveset"}
-{:.faded}
+Much like Dragons, **Ghost-type** Pokemon are weak and strong against each other. Though **Dark-types** have nothing to fear from these ghouls, **Ghost-types** will hit **Psychic-types** even harder than their Dark rivals. It's a real risk for reward, and when Raiding, fainting faster is always worth it to KO the Raid Boss fast as well.
 
 ### Chandelure - Will-o-Wisp
 ![Chandelure](https://img.pokemondb.net/sprites/home/normal/chandelure.png)
@@ -551,12 +553,31 @@ Much like Dragons, **Ghost-type** Pokemon are weak and strong against each other
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Though annoying, its certainly fitting that the best Ghost-type attacker in the game is a Pokemon almost exclusively seen around Halloween. Chandelure evolves from its base form, Litwick, which only spawns in the wild during Halloween events, or from its mid-stage, Lampent, which is a potential encounter in the Go Battle League (as of a certain rank).\
+This spooky piece of haunted mansion decor is definitely worth the investment, and tops the Ghost-type by a large margin, alongside the unexpected 2nd best on this list. Keep scrolling.
+
+### Darkrai - That's no ghost!
+![Darkrai](https://img.pokemondb.net/sprites/home/normal/darkrai.png)
+
+> Snarl + Shadow Ball
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+Though it can't learn a Ghost-type Fast Move, missing out on the ideal **Double-Ghost Moveset**, Darkrai somehow ends up as the 2nd best Ghost-type attacker, and by quite a lot too. As both Ghost and Dark-types are mainly used to battle Psychic-types and their fellow Ghost-types, the mismatched Moveset is rarely an issue in practice. This is a very rare case where not having a Double-Type Moveset actually doesn't cause an issue.\
+Collect Darkrai from 5✰ Raids, and know that it will serve you very well, whether as a Ghost-type attacker or more purely as a [Dark-type attacker.](#darkrai---shadow-of-nightmares){:.heading.flip-title}.
+{:.read-more}
+
 ### Giratina (Origin Forme) - Chaos Itself
 ![Giratina](https://img.pokemondb.net/sprites/home/normal/giratina-origin.png)
 
 > Shadow Claw + Shadow Ball
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Origin Forme Giratina is known in legend as the being that created disorder and chaos, and it lives up to that destructive lore in battle. It's Dragon-typing will grant it handy resistances, but be careful against Raid Bosses like Latias and Latios. Reliably appearing in 5✰ Raids near Halloween time, Giratina is worth picking up whenever possible.
+
+> Altered Forme Giratina won't be of much use at all in your Raid Party, as it trades offense for defense, which we know isn't going to help you take down a Boss.
+{:.note title="Formal Warning"}
 
 ### Mewtwo - Again, but Super Rare!
 ![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)
@@ -572,6 +593,12 @@ Much like Dragons, **Ghost-type** Pokemon are weak and strong against each other
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Gengar has the highest DPS of all Ghost-type Pokemon. So why is it so low? Because it's made of glass and tissue paper. Gengar hits even harder than Chandelure, but will faint in so few hits that you won't know what happened. If you tend to have a lot of healing items (or no just other options), then Gengar will tear apart the battlefield better than anyone else, but it's gonna be chugging Revives and Potions faster than anything else as well.
+
+An important note though, is that Gengar is a Trade Evolution Pokemon. Meaning that, much like Machamp in the Fighting-type category, you could trade high-level Gastly or Haunter with your friends, and evolve to Gengar for free. This accessibility simply can't be beat when it comes to Ghost-type attackers, and means that Gengar will likely make up most of any Trainer's Ghost-type parties for a while, until more sustainable options are caught.
+
+> Gengar's Mega Evolution boosts its damage output to insane levels, though it does almost nothing for its miserable defense. With this in mind, it's worth simply dodging for as long as you can with your Mega Gengar, so that the other Trainers in your lobby will get the Mega Boost for as long as possible before this ghoul faints. The couple of hits Mega Gengar will land while trying to fight just isn't worth it in comparison. Support your teammates instead.
+{:.note title="Mega Support"}
 
 ## Ground-Type
 
