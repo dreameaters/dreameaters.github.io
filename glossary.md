@@ -12,9 +12,7 @@ redirect_from:
 
 # Glossary of Terms
 
-Not all Pokemon are created equal, but it's important to know how to get the best out of the Pokemon that you have.
-
-* [Psychic Starter](#moveset---break-out-those-tms-or-not)
+* ToC dummy text
 {:toc}
 
 
