@@ -748,6 +748,8 @@ Though **Water** and **Grass-types** share a couple purposes, they are on par wi
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+The Pokemon said to have raised the tides in ancient times, Kyogre is a Legendary Pokemon that has yet to even show us its full potential, but is already an absolute beast. Nearly as devastating as the two Pokemon ranked below it on this list, but with *much* more bulk to back it up, Kyogre crashes through opponents like a tidal wave! With a Signature Move yet to be released (Origin Pulse), and a Mega Evolution also waiting for its time (Primal Kyogre), this leviathan is destined to become the undisputed best Water-type in the game, most likely holding that title forever.
+
 ### Kingler & Crawdaunt - Crushing Claws
 ![Kingler](https://img.pokemondb.net/sprites/home/normal/kingler.png)![Crawdaunt](https://img.pokemondb.net/sprites/home/normal/crawdaunt.png)
 
@@ -759,7 +761,10 @@ Though **Water** and **Grass-types** share a couple purposes, they are on par wi
 {:.note title="Crawdaunt's Moveset"}
 {:.faded}
 
-Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in order to have a **Double-Water Moveset**, sacrificing 7.8% DPS.
+These crustaceans are the most accessible Water-types on this list. Only 50 Candy each from their base forms (Krabby & Corphish respectively), they're worth evolving whenever you find yourself a high-level one. Gifted with the unmatched **Crabhammer** (exclusive to these two Pokemon), they're both equally skilled at crushing Raid Bosses. Be wary of their fragile defense, but if you have no other Water-types that hit as hard, it's worth spending the extra healing items to just throw them back into the fight when they faint.
+
+> Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in order to have a **Double-Water Moveset**, sacrificing 7.8% DPS.
+{:.note title="Dark Water"}
 
 ### Palkia - Rend the Tide!
 ![Palkia](https://img.pokemondb.net/sprites/home/normal/palkia.png)
@@ -767,6 +772,8 @@ Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in 
 > Dragon Tail + Hydro Pump
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Though it doesn't learn any Water-type Fast Moves, Palkia still hits harder than any other Water-type in the game so far. Kyogre is expected to surpass it someday with its currently unreleased signature move (Origin Pulse), but until then, Palkia tops the charts on damage, and has sizable bulk to boot. Until Kyogre gets an upgrade, Palkia is the Water-type to beat.
 
 ### Swampert, Feraligatr & Empoleon - Hydro Cannon!!
 ![Swampert](https://img.pokemondb.net/sprites/home/normal/swampert.png)![Feraligatr](https://img.pokemondb.net/sprites/home/normal/feraligatr.png)![Empoleon](https://img.pokemondb.net/sprites/home/normal/empoleon.png)
@@ -779,6 +786,8 @@ Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in 
 {:.note title="Feraligatr & Empoleon's Moveset"}
 {:.faded}
 
+The Elite Charge Move **Hydro Cannon†** is the signature of fully evolved Water-type starter Pokemon. It's also required for any of them to reach the DPS expected of a top attacker. Evolving your Mudkips, Totodiles, or Piplups all the way to their final stage when **Hydro Cannon†** isn't available (limited to specific events) is unfortunately a big waste. Hold out for its return, and you'll be rewarded with solid Water-type attackers.
+
 ### Gyarados - Skull Kraken!
 ![Gyarados](https://img.pokemondb.net/sprites/home/normal/gyarados.png)
 
@@ -790,7 +799,10 @@ Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in 
 {:.note title="B-Tier Moveset"}
 {:.faded}
 
-Using **Aqua Tail†** (Gyarados' Community Day Elite Move) instead of **Hydro Pump** for Gyarados' Fast Move barely loses any damage (1.4% DPS), so if you have that already, don't waste the Charge TM to swap to **Hydro Pump**.
+Costing an incredible 400 Magikarp Candy to evolve, Gyarados is a big goal for many Trainers early on. It ends up being quite worth it. Though not as powerful as the **Hydro Cannon†** users, Gyarados makes up for it by always being available, and pushes its way quickly up the ranks when Mega Evolved. (Also trading the secondary Flying-type for Dark-type, for what its worth.)
+
+> Using **Aqua Tail†** (Gyarados' Community Day Elite Move) instead of **Hydro Pump** for Gyarados' Fast Move barely loses any damage (1.4% DPS), so if you have that already, don't waste your Charge TMs swapping to **Hydro Pump**.
+{:.note title="Aqua Tail's Comparison"}
 
 ---
 
