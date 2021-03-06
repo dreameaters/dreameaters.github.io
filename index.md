@@ -23,5 +23,5 @@ If you have any questions, suggestions, or requests for things you'd like to see
 
 ---
 
-> At the time of writing this, the only complete guide on this site is [Top Attackers by Type](/go/teambuilding/best-attackers). There will be a blog available shortly, where I will post updates on the site, such as when new guides are available, as well as other snippets like spotlighting a certain Pokemon and how to use it.
+> At the time of writing this, the only complete guide on this site is about the [Best Attackers](/go/teambuilding/best-attackers) to train. There will be a blog available shortly, where I will post updates on the site, such as when new guides are available, as well as other snippets like spotlighting a certain Pokemon and how to use it.
 > Until then, you can follow [@GoDreamEaters](www.twitter.com/godreameaters) on Twitter for updates.
