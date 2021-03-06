@@ -21,7 +21,7 @@ As there are many resources online dedicated to well established, high-level, an
 
 ---
 
-If you have any questions, suggestions, or requests for things you'd like to see added or changed on the site, or you see something on the site that doesn't work, or is no longer accurate, please email me at **DreamEaters.Go@gmail.com**, or reach out to me on Twitter [@GoDreamEaters](www.twitter.com/godreameaters).
+If you have any questions, suggestions, or requests for things you'd like to see added or changed on the site, or you see something on the site that doesn't work, or is no longer accurate, please email me at **DreamEaters.Go@gmail.com**, or reach out to me on Twitter [@GoDreamEaters](https://www.twitter.com/godreameaters).
 
 ---
 
