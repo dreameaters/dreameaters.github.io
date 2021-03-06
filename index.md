@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dream Eaters
+image: /assets/img/banner.jpg
 description: >
   Team Dream Eaters' official site. Filled with guides to help up-and-coming Trainers.
 last_modified_at: 2020-02-26
