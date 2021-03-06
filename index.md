@@ -11,9 +11,11 @@ hide_image: false
 cover: true
 ---
 
-This site is currently a work in-progress, so please mind the occasional broken link, or "coming soon" page.
+> This site is currently a work in-progress, so please mind the occasional broken link, or "coming soon" page.
+{:.note title="Under Construction"}
+{:.faded}
 
-The goal of this site is to present Pokemon Go player's guides to help Trainers learn how to build Battle Parties, what Pokemon are worth investing resources into and why, how to best manage their Pokemon and Items Storage, and more.
+The goal of this site is to present a collection of Pokemon Go "player's guides" to help Trainers learn how to build Battle Parties, what Pokemon are worth investing resources into and why, how to best manage their Pokemon and Items Storage, and more.
 
 As there are many resources online dedicated to well established, high-level, and hardcore Trainers, this site does not try to emulate what they do. Instead, our guides are meant to provide Trainers with the knowledge they need to confidently make their own decisions while playing, rather than having to resort to a chart or other resource to double-check their options. Our guides are filled with realistic examples of decisions that Trainers commonly have to make, and explain why the best option is in fact the best. Rather than telling Trainers what they should do, we aim to explain why they should do something, in a way that they can then apply to other situations in the game.
 
