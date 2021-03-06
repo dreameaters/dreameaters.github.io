@@ -60,8 +60,7 @@ They'll also help you deal with **Ghost-types** well enough, hitting for weaknes
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Darkrai is the best Dark-type in the game, and will likely keep that title forever. It's found only in 5✰ Raids, and is classified as a Mythical Pokemon, meaning that it's unable to be traded. Pummeling it with a lobby of other Trainers, all using their best Fighting-types, is gonna be your only means of catching it. But it will be well worth it, as it's one of the most valuable Raid Bosses in the game, and serves as both the top Dark-type attacker as well as the top Ghost-type attacker, despite not being Ghost-type itself. More info on that [here.](#darkrai---thats-no-ghost){:.heading.flip-title}
-{:.read-more}
+Darkrai is the best Dark-type in the game, and will likely keep that title forever. It's found only in 5✰ Raids, and is classified as a Mythical Pokemon, meaning that it's unable to be traded. Pummeling it with a lobby of other Trainers, all using their best Fighting-types, is gonna be your only means of catching it. But it will be well worth it, as it's one of the most valuable Raid Bosses in the game, and serves as both the top Dark-type attacker as well as the top [Ghost-type attacker](#darkrai---thats-no-ghost), despite not being Ghost-type itself.
 
 ### Weavile & Honchkrow - Dark Sinnoh Evolutions
 ![Weavile](https://img.pokemondb.net/sprites/home/normal/weavile.png)![Honchkrow](https://img.pokemondb.net/sprites/home/normal/honchkrow.png)
@@ -165,8 +164,7 @@ Additionally, Salamence will get a Mega Evolution at some point in the future, w
 {:.faded}
 
 Both Haxorus and Garchomp are extremely rare in the wild (spawning as Axew and Gible respectively), but if you can get either of them, they're absolute powerhouses. If you want big Dragons like Dragonite and Salamence, but without the Flying-type added onto them, these two are exactly what you're looking for.\
-Garchomp is also a wonderful [Ground-type attacker.](#garchomp---landshark){:.heading.flip-title}
-{:.read-more}
+Garchomp is also a wonderful [Ground-type attacker](#garchomp---landshark).
 
 ### Palkia - Pearlescent Dragon
 ![Palkia](https://img.pokemondb.net/sprites/home/normal/palkia.png)
@@ -193,10 +191,8 @@ Palkia trades in the resistance of Dialga for extra power, and a secondary Water
 
 The black and white Dragons, representing ideals and truth. The truth is that these Dragon-types are ideally used for their secondary typings of Electric and Fire respectively. However, if you find yourself swimming in them with no other Dragons in sight, then they still do well using **Double-Dragon Movesets**.
 
-See how Zekrom dominates the [Electric-type category here.](#zekrom---lord-of-thunder){:.heading.flip-title}
-{:.read-more}
-See how Reshiram dominates the [Fire-type category here.](#reshiram---lord-of-fire){:.heading.flip-title}
-{:.read-more}
+See how Zekrom dominates the [Electric-type category here](#zekrom---lord-of-thunder).
+See how Reshiram dominates the [Fire-type category here](#reshiram---lord-of-fire).
 
 
 ## Rock-Type
@@ -299,8 +295,7 @@ Finally another Legendary for the Fire-type. Moltres works better as a [Flying-t
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Sharing a Moveset, and both relying on the Elite Move **Blast Burn†**, Charizard and Infernape are solid Fire-type options. Without **Blast Burn†**, they fall short of greatness and can not be considered top picks by any means. Good if you have nothing else on this list, but more on that is left to [The Budget Dream Team.](/go/teambuilding/budget-dream-team){:.heading.flip-title}
-{:.read-more}
+Sharing a Moveset, and both relying on the Elite Move **Blast Burn†**, Charizard and Infernape are solid Fire-type options. Without **Blast Burn†**, they fall short of greatness and can not be considered top picks by any means. Good if you have nothing else on this list, but more on that is left to [The Budget Dream Team](/go/teambuilding/budget-dream-team).
 
 > Charizard has not one, but *two* Mega Evolutions. Mega Charizard Y turns Charizard into a beast, surpassing Reshiram, while Mega Charizard X trades its Flying-typing in for the Dragon-type (and remains a great Fire-type attacker, but not as incredible as the Y variant).
 
@@ -601,8 +596,7 @@ This spooky piece of haunted mansion decor is definitely worth the investment, a
 {:.faded}
 
 Though it can't learn a Ghost-type Fast Move, missing out on the ideal **Double-Ghost Moveset**, Darkrai somehow ends up as the 2nd best Ghost-type attacker, and by quite a lot too. As both Ghost and Dark-types are mainly used to battle Psychic-types and their fellow Ghost-types, the mismatched Moveset is rarely an issue in practice. This is a very rare case where not having a Double-Type Moveset actually doesn't cause an issue.\
-Collect Darkrai from 5✰ Raids, and know that it will serve you very well, whether as a Ghost-type attacker or more purely as a [Dark-type attacker.](#darkrai---shadow-of-nightmares){:.heading.flip-title}.
-{:.read-more}
+Collect Darkrai from 5✰ Raids, and know that it will serve you very well, whether as a Ghost-type attacker or more purely as a [Dark-type attacker](#darkrai---shadow-of-nightmares).
 
 ### Giratina (Origin Forme) - Chaos Itself
 ![Giratina](https://img.pokemondb.net/sprites/home/normal/giratina-origin.png)
@@ -901,8 +895,7 @@ If you want a big Bug-type, this is it. Though its runner-up is just barely belo
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow Pokemon for a while now, making it quite easy to get your hands on (especially as purifying the Shadow will get you a Lv25 easily). As Genesect is only slightly better offensively, most players will do just fine relying on Pinsir, or to a slightly lesser degree any of the budget Bug-types I've written about in [The Budget Dream Team.](/go/teambuilding/budget-dream-team){:.heading.flip-title}
-{:.read-more}
+Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow Pokemon for a while now, making it quite easy to get your hands on (especially as purifying the Shadow will get you a Lv25 easily). As Genesect is only slightly better offensively, most players will do just fine relying on Pinsir, or to a slightly lesser degree any of the budget Bug-types I've written about in [The Budget Dream Team](/go/teambuilding/budget-dream-team).
 
 ## Fairy-Type
 
@@ -948,8 +941,7 @@ Simply said, **Fire** and **Psychic-types** hit harder than **Flying-type** Poke
 {:.faded}
 
 The Elite Charge Move **Sky Attack†** pushes Moltres into the top slot when it comes to Flying-type attackers. It commonly has this Elite Move when caught from 5✰ Raids these days, but it's not a guarantee. Make sure to check the event details to find out if **Sky Attack†** is a part of the deal or not.\
-Though with all of that said, Moltres is better off with a non-Elite [**Double-Fire Moveset**.](#moltres---rising-phoenix){:.heading.flip-title}
-{:.read-more}
+Though with all of that said, Moltres is better off with a non-Elite [**Double-Fire Moveset**](#moltres---rising-phoenix).
 
 ### Honchkrow - Darkness is behind me.
 ![Honchkrow](https://img.pokemondb.net/sprites/home/normal/honchkrow.png)
