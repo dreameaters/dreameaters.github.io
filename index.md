@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Dream Eaters
 description: >
   Team Dream Eaters' official site. Filled with guides to help up-and-coming Trainers.
