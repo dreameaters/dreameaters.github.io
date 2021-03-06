@@ -394,13 +394,22 @@ Proudly including the most powerful Pokemon of all time, Mewtwo, the **Psychic-t
 ### Mewtwo - The Most Powerful Pokemon
 ![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)
 
-> Confusion + Psystrike
+> Confusion + Psystrike†
 {:.note title="Optimal Moveset"}
 {:.faded}
 
 > Confusion + Psychic
 {:.note title="B-Tier Moveset"}
 {:.faded}
+
+> "We dreamed of creating the world's most powerful Pokemon... And we succeeded."
+
+Dr. Fuji, *Pokemon The First Movie*
+{:.figcaption}
+
+Dr. Fuji was right, before Mewtwo blew him up, along with the entire island and science lab he was created in. Since the beginning of Pokemon, Mewtwo has always been the most powerful. With the highest attack stat of any Pokemon in the game, along with its signature move, the Elite Charge Move **Psystrike†**, being the most powerful Psychic-type Move in the game, Mewtwo is truly unmatched. Even with **Psychic** (a Charge Move Mewtwo can always learn) in place of the Elite **Psystrike†**, Mewtwo is still the top of the Psychic-type by a landslide.
+
+This is *the* Pokemon you'll always want to catch and train.
 
 > Mewtwo's unmatched power really skews the Psychic-type list. Just know that the remaining Psychic-types listed all have higher DPS than most top attackers of other Types. Mewtwo simply breaks the ceiling for what a #1 attacker is normally capable of.
 {:.note title="Comparison Note"}
@@ -456,12 +465,18 @@ We've coverd the original Fire-type Darmanitan earlier in this guide, and the Ic
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Costing a whopping 125 Candy and a Sinnoh Stone to fully evolve from Swinub, Mamoswine is a costly investment that tells you to Pinap any wild Swinub you find. Being Weather-Boosted by both Clear and Snow weather makes finding high-level ones easy though, which means you should have one or two good ones by the time you save up enough Candy to start evolving.
+
+With a team composed of Mamoswines, and/or the following two Pokemon (Weavile and Glaceon), you'll be tearing into Dragon-types like a pro! Some of the strongest Pokemon will fall to your might!
+
 ### Weavile - The Sword of Ice
 ![Weavile](https://img.pokemondb.net/sprites/home/normal/weavile.png)
 
 > Ice Shard + Avalanche
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Evolving from Sneasel with 100 Candy and a Sinnoh Stone, Weavile is like Mamoswine without the bulk. Fainting faster, but nearly as powerful, Weavile trails *very* close behind the frigid mammoth. If Sneasel are more common than Swinub in your neck of the woods, then it's likely your best option when it comes to Ice-types.
 
 ### Glaceon - Chilly Dog
 ![Glaceon](https://img.pokemondb.net/sprites/home/normal/glaceon.png)
@@ -470,6 +485,10 @@ We've coverd the original Fire-type Darmanitan earlier in this guide, and the Ic
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+One of three Eeveelutions in this guide, Glaceon costs 25 Candy as you'd expect, but requires evolving your Eevee in range of a PokeStop that's equipped with a Glacial Lure Module. For efficiency's sake, gather around one of these special Lures with some friends, and make sure you all have several Eevee you're wanting to evolve into the Ice-type Glaceon.
+
+Practically as strong as Weavile, Glaceon is made much more accessible due to how easy it is to catch Eevee, but the odd Glacial Lure evolution method does make it a little less convenient for some people.
+
 ### Mewtwo - Hey, it's me again.
 ![Mewtwo](https://img.pokemondb.net/sprites/home/normal/mewtwo.png)
 
@@ -477,12 +496,18 @@ We've coverd the original Fire-type Darmanitan earlier in this guide, and the Ic
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Mewtwo finds itself fitting well into various Types due to its simply high stats. Not being an Ice-type itself, nor having an Ice-type Fast Move to work with, any usual Mewtwo with **Confusion** can learn the Charge Move **Ice Beam** to suddenly make it a dominating Ice-type attacker, surpassing even Mamoswine. Granted, if your opponent isn't weak to Psychic-type, or even worse resists it, then you're better off with a proper Ice-type Pokemon for the constant Super-Effective damage.
+
+Remember, Mewtwo is (by an *extreme* margin) [the most powerful Psychic-type Pokemon in the game](#mewtwo---the-most-powerful-pokemon), and will stay there forever. If you don't need it for the Ice-type, then build a **Double-Psychic Moveset** instead.
+
 ### Kyogre - Arctic Whale
 ![Kyogre](https://img.pokemondb.net/sprites/home/normal/kyogre.png)
 
 > Waterfall + Blizzard
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Once again, not an Ice-type Pokemon, and not having an Ice-type Fast Move, but Kyogre is still as strong as Glaceon, as long as your opponent has a weakness to Water-type moves so that **Waterfall** doesn't slow you down. You're always better off giving Kyogre a [**Double-Water Moveset**](#kyogre---leviathan-stay-tuned), but if you have no proper Ice-type attackers, Kyogre will do what you need.
 
 
 ## Electric-Type
@@ -548,6 +573,11 @@ Wish your Electivire stuck around a little bit longer? Well you shouldn't. You k
 
 Though not Electric-types themselves, nor having Electric-type Fast Moves, these two Psychic-type 5✰ Bosses can deal damage close to that of Zekrom itself. If you don't have enough true Electric-type options, or your opponent is also weak to Psychic-type attacks, these two are worth bringing to the fight.
 
+> There is a Normal, Attack, Defense, and Speed Forme to Deoxys. In terms of attacking Raids, only the Normal Forme will be of help to you. The others have different movesets, and simply don't have good enough stats to work. Normal Forme is the one shown in the image above.
+{:.note title="Deoxys Many Formes"}
+
+> Remember, Mewtwo is (by an *extreme* margin) [the most powerful Psychic-type Pokemon in the game](#mewtwo---the-most-powerful-pokemon), and will stay there forever. If you don't need it for the Ice-type, then build a **Double-Psychic Moveset** instead.
+{:.note title="Mewtwo Warning"}
 
 ## Ghost-Type
 
@@ -593,6 +623,8 @@ Origin Forme Giratina is known in legend as the being that created disorder and 
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Before Mewtwo got its signature move **Psystrike**, it had another Elite Charge Move: **Shadow Ball**. Only able to be learned via the incredibly rare and valuable Elite Charge TMs these days, **Shadow Ball** is a hard sell, considering we have many better Ghost-type attackers these days than we had before. My advice would be, if you have a Mewtwo that knows **Shadow Ball** already, keep it and power it up, but don't bother spending an Elite Charge TM just to get it. There are much easier, and slightly better, Ghost-types to catch.
+
 ### Gengar - Now you see me, now you don't.
 ![Gengar](https://img.pokemondb.net/sprites/home/normal/gengar.png)
 
@@ -618,12 +650,20 @@ As the *only* counter to **Electric-types**, **Ground-type** Pokemon are absolut
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+The superior forme of Landorus, this legendary kami is the king of defeating Electric-type Pokemon. A very recent release at the time of writing this (actually, it's still not out until next month), Therian Forme Landorus should be the ace of any Ground-type team. Hopefully soon, we'll have the option to change the lesser Incarnate Forme into this one, but an official announcement has yet to be made.
+
+> If you're reading this and forme changing has been added to the game, please yell at me either on Twitter [@GoDreamEaters](https://www.twitter.com/godreameaters) or via e-mail at DreamEaters.Go@gmail.com
+{:.note title="Updates Coming Soon"}
+{:.faded}
+
 ### Excadrill - I Dig It!
 ![Excadrill](https://img.pokemondb.net/sprites/home/normal/excadrill.png)
 
 > Mud-Slap + Drill Run
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+It's always great to have a top-placing attacker that's also accessible and easy to get. Wild Drilbur are often uncommon spawns in cities, while Excradrill itself has been known to appear in 3✰ Raids from time to time. Be sure to catch any wild spawns you encounter, and feeding them Pinap Berries means you'll quickly earn the 50 Candy needed to evolve them.
 
 ### Landorus (Incarnate Forme) - Second verse, same-ish as the first.
 ![Ladorus](https://img.pokemondb.net/sprites/home/normal/landorus-incarnate.png)
@@ -632,12 +672,18 @@ As the *only* counter to **Electric-types**, **Ground-type** Pokemon are absolut
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Landorus' lesser forme, at least in terms of attack power. The Incarnate Forme still pulls its weight, and shouldn't be ignored. It does everything that Therian Forme can, just not as well. At the very least, catching it will earn you Landorus Candy you could spend on the superior Therian Forme.
+
 ### Groudon - Behemoth (Stay Tuned!)
 ![Groudon](https://img.pokemondb.net/sprites/home/normal/groudon.png)
 
 > Mud Shot + Earthquake
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+The best Ground-type attacker we had for a long time, Groudon still holds up today. Not an uncommon sight in 5✰ Raids, it's worth catching if you don't already have some. This is especially recommended if Drilbur is rare in your area, and you have no Landorus yet.
+
+Though both Landorus and Excadrill have surpassed it, this behemoth has a few tricks left up its sleeve. Once its signature move, **Precipice Blades**, is added to the game, Groudon will likely once again be #1. Regarded in legend as the Pokemon that created the continents in ancient times, Groudon has a Mega Evolution of sorts called Primal Groudon. Though not yet released, this ancient form of Groudon is sure to rocket to the top of its Type.
 
 ### Garchomp - Landshark
 ![Garchomp](https://img.pokemondb.net/sprites/home/normal/garchomp.png)
@@ -693,7 +739,7 @@ Already regarded for its incredible niche as a [Dragon-type attacker](#dialga---
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Nearly as strong of a Steel-type as it is a [Ground-type attacker](#excadrill---i-dig-it), Excadrill is also easily the most accessible Pokemon of this Type. Evolving from Drillbur with 50 Candy, it's a common wild Pokemon you'll want to use your Pinap Berries on and ideally catch in Cloudy Weather for the level boost.
+Nearly as strong of a Steel-type as it is a [Ground-type attacker](#excadrill---i-dig-it), Excadrill is also easily the most accessible Pokemon of this Type. Evolving from Drilbur with 50 Candy, it's a common wild Pokemon you'll want to use your Pinap Berries on and ideally catch in Cloudy Weather for the level boost.
 
 ### Jirachi - Make a Wish!
 ![Jirachi](https://img.pokemondb.net/sprites/home/normal/jirachi.png)
@@ -772,7 +818,7 @@ Though **Water** and **Grass-types** share a couple purposes, they are on par wi
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-The Pokemon said to have raised the tides in ancient times, Kyogre is a Legendary Pokemon that has yet to even show us its full potential, but is already an absolute beast. Nearly as devastating as the two Pokemon ranked below it on this list, but with *much* more bulk to back it up, Kyogre crashes through opponents like a tidal wave! With a Signature Move yet to be released (Origin Pulse), and a Mega Evolution also waiting for its time (Primal Kyogre), this leviathan is destined to become the undisputed best Water-type in the game, most likely holding that title forever.
+The Pokemon said to have raised the tides in ancient times, Kyogre is a Legendary Pokemon that has yet to even show us its full potential, but is already an absolute beast. Nearly as devastating as the two Pokemon ranked below it on this list, but with *much* more bulk to back it up, Kyogre crashes through opponents like a tidal wave! With a Signature Move yet to be released (**Origin Pulse**), and a Mega Evolution also waiting for its time (Primal Kyogre), this leviathan is destined to become the undisputed best Water-type in the game, most likely holding that title forever.
 
 ### Kingler & Crawdaunt - Crushing Claws
 ![Kingler](https://img.pokemondb.net/sprites/home/normal/kingler.png)![Crawdaunt](https://img.pokemondb.net/sprites/home/normal/crawdaunt.png)
