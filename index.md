@@ -11,8 +11,6 @@ hide_image: false
 cover: true
 ---
 
-# Welcome to Team Dream Eaters
-
 This site is currently a work in-progress, so please mind the occasional broken link, or "coming soon" page.
 
 The goal of this site is to present Pokemon Go player's guides to help Trainers learn how to build Battle Parties, what Pokemon are worth investing resources into and why, how to best manage their Pokemon and Items Storage, and more.
