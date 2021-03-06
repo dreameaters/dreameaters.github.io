@@ -402,12 +402,17 @@ Proudly including the most powerful Pokemon of all time, Mewtwo, the **Psychic-t
 {:.note title="B-Tier Moveset"}
 {:.faded}
 
+> Mewtwo's unmatched power really skews the Psychic-type list. Just know that the remaining Psychic-types listed all have higher DPS than most top attackers of other Types. Mewtwo simply breaks the ceiling for what a #1 attacker is normally capable of.
+{:.note title="Comparison Note"}
+
 ### Espeon - MVE (Most Valuable Eevee)
 ![Espeon](https://img.pokemondb.net/sprites/home/normal/espeon.png)
 
 > Confusion + Psychic
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Every Trainer should collect Espeon by walking their best Eevee for 10km, and evolving it as their buddy for 25 Candy. It's hard to find a more accessible top attacker of any Type. Espeon is the best non-legendary Psychic-type by far, and so much easier to get than any others, Legendaries included. The best of the Eeveelutions deserves highest priority for Trainers new and old.
 
 ### Latios - Big Bro
 ![Latios](https://img.pokemondb.net/sprites/home/normal/latios.png)
@@ -416,7 +421,7 @@ Proudly including the most powerful Pokemon of all time, Mewtwo, the **Psychic-t
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Simply more offensive than his red sister, Latias.
+Not to be confused with his red sister, Latias. Latios is simply the attack-oriented sibling, while Latias leans heavily into defense, which we know doesn't help us much in Raids. This blue jet dragon is a little weaker than Espeon, but the secondary Dragon-typing does grant it a few new resistances to help it hang on in a fight. Ultimately, nothing can compare to Mewtwo's otherworldly power, or Espeon's tremendous accessibility, but if you think Latios can fill a slot in your Party, it'll do a good job.
 
 ### Metagross - Super Computer
 ![Metagross](https://img.pokemondb.net/sprites/home/normal/metagross.png)
@@ -424,6 +429,8 @@ Simply more offensive than his red sister, Latias.
 > Zen Headbutt + Psychic
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Without its Elite Charge Move, **Meteor Mash†**, making it the best [Steel-type attacker](#metagross---meteor-mash-or-bust) by far, Metagross serves as a strong Psychic-type attacker with great defense and a very resistant typing. Though its base form (Beldum) is very rare, if you can get 125 Candy to fully evolve one, it's a solid option for your Psychic-type Party.
 
 
 ## Ice-Type
@@ -677,12 +684,16 @@ Without **Meteor Mash†**, Metagross can't help you as a Steel-type attacker.
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Already regarded for its incredible niche as a [Dragon-type attacker](#dialga---shielded-dragon), Dialga obviously leaves its mark high on the Steel-type ladder as well. The only Dragon/Steel-type combo in the game ensures that Dialga will hold a unique spot in notoriety regardless of future releases. Catch it whenever it appears in 5✰ Raids, and know that you have a Legendary Pokemon that lives up to the title.
+
 ### Excadrill - A drill that will pierce the heavens!
 ![Excadrill](https://img.pokemondb.net/sprites/home/normal/excadrill.png)
 
 > Metal Claw + Iron Head
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Nearly as strong of a Steel-type as it is a [Ground-type attacker](#excadrill---i-dig-it), Excadrill is also easily the most accessible Pokemon of this Type. Evolving from Drillbur with 50 Candy, it's a common wild Pokemon you'll want to use your Pinap Berries on and ideally catch in Cloudy Weather for the level boost.
 
 ### Jirachi - Make a Wish!
 ![Jirachi](https://img.pokemondb.net/sprites/home/normal/jirachi.png)
@@ -691,6 +702,11 @@ Without **Meteor Mash†**, Metagross can't help you as a Steel-type attacker.
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Being a Mythical Pokemon found only in the Special Research "A Thousand Year Slumber", each Trainer will only ever get one of these wishmakers. (No trading, either.) Its exclusivity also means your best way to power it up will be by spending Rare Candies. In the end, it's a little stronger than Dialga, but without a Steel-type Fast Move. It's an option, but there are much easier ways to get good Steel-types.
+
+> Jirachi also does very well in the Great League class of Go Battle League. So if that interests you, you'll want to keep Jirachi under 1500cp instead of powering it up high for battling Raids.
+{:.note title="Great League"}
+
 ### Genesect - Death Metal Bug
 ![Genesect](https://img.pokemondb.net/sprites/home/normal/genesect.png)
 
@@ -698,6 +714,7 @@ Without **Meteor Mash†**, Metagross can't help you as a Steel-type attacker.
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+Nearly as powerful as Excadrill, Genesect is a Mythical Pokemon that has appeared in 5✰ Raids. The secondary Bug-typing makes it double-weak to Fire-types, but you shouldn't be using it against them anyway. Though the weakest of the best Steel-types, its only other use is as the best [Bug-type attacker](#genesect---metabee), which has no real use at all.
 
 ---
 
@@ -717,6 +734,8 @@ Outclassed by **Electric**, **Ice**, and **Fighting**, **Grass-type** Pokemon ar
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+The hardest-hitting Grass-type attacker, Roserade, will cost 100 Candy and a Sinnoh Stone to evolve from Roselia. No other Grass-type can tear through opponents like Roselia, making it an absolute superstar on any Grass-type Raid Party.
+
 ### Venusaur & Sceptile - Frenzy Plant!!
 ![Venusaur](https://img.pokemondb.net/sprites/home/normal/venusaur.png)![Sceptile](https://img.pokemondb.net/sprites/home/normal/sceptile.png)
 
@@ -728,12 +747,17 @@ Outclassed by **Electric**, **Ice**, and **Fighting**, **Grass-type** Pokemon ar
 {:.note title="Sceptile's Moveset"}
 {:.faded}
 
+The two Grass-type starter Pokemon which have the attack power to back up their exclusive Elite Charge Move, **Frenzy Plant†**. As is common in these paired listings, Venusaur has extra bulk, while Sceptile hits a harder. Generally, you'll prefer Sceptile, but wild Bulbasaur are a common inclusion during various events, making Venusaur the more accessible option for most Trainers.\
+Additionally, Venusaur has the secondary Poison-typing, as well as a Mega Evolution. Sceptile will be receiving a Mega of its own in the future, but for now it will have to wait.
+
 ### Tangrowth - Objectively Flawless (citation needed)
 ![Tangrowth](https://img.pokemondb.net/sprites/home/normal/tangrowth.png)
 
 > Vine Whip + Power Whip
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+The evolved form of my favorite Pokemon, Tangela, requires 100 Candy and a Sinnoh Stone, much like Roserade at the top of this Type's list. Though it doesn't hit quite as hard, it has *much* more bulk to keep it in the fight, and more importantly ditches the pesky secondary Poison-type, removing weakness to Psychic-types.
 
 
 ## Water-Type
@@ -865,6 +889,7 @@ Togekiss is the final stage of Togepi. Meaning you either have to hatch a Togepi
 
 The only Fairy-type up here that can be found with any sort of ease. Snubbull around in the wild every now and then, and only takes 50 candy to evolve into Granbull. Granbull isn't even very far behind Togekiss or even Gardevoir in terms of attacking Raid Bosses, so it's much more worth your time and effort to just worry about grabbing a few of these if you really want Fairy-types for a Raid Party, for some reason. I should remind you though, there are better types out there.
 
+
 ## Flying-Type
 
 Simply said, **Fire** and **Psychic-types** hit harder than **Flying-type** Pokemon tend to, and are less fragile. There are very few Raid Bosses that would be better countered by these birds, and only a single Legendary. (Virizion)
@@ -876,12 +901,18 @@ Simply said, **Fire** and **Psychic-types** hit harder than **Flying-type** Poke
 {:.note title="Optimal Moveset"}
 {:.faded}
 
+The Elite Charge Move **Sky Attack†** pushes Moltres into the top slot when it comes to Flying-type attackers. It commonly has this Elite Move when caught from 5✰ Raids these days, but it's not a guarantee. Make sure to check the event details to find out if **Sky Attack†** is a part of the deal or not.\
+Though with all of that said, Moltres is better off with a non-Elite [**Double-Fire Moveset**.](#moltres---rising-phoenix){:.heading.flip-title}
+{:.read-more}
+
 ### Honchkrow - Darkness is behind me.
 ![Honchkrow](https://img.pokemondb.net/sprites/home/normal/honchkrow.png)
 
 > Peck + Sky Attack
 {:.note title="Optimal Moveset"}
 {:.faded}
+
+Evolving from Murkrow with 100 Candy and a Sinnoh stone, Honchkrow is one of the best [Dark-type attackers](#weavile--honchkrow---dark-sinnoh-evolutions) in the game. It's also great as a Flying-type attacker, but with how useful Dark-types are against many 5✰ Raid Bosses (including Mewtwo), you'd be silly to bother giving it a **Double-Flying Moveset**.
 
 ### Zapdos & Rayquaza - Quell the Storm
 ![Zapdos](https://img.pokemondb.net/sprites/home/normal/zapdos.png)![Rayquaza](https://img.pokemondb.net/sprites/home/normal/rayquaza.png)
@@ -893,6 +924,8 @@ Simply said, **Fire** and **Psychic-types** hit harder than **Flying-type** Poke
 > Air Slash + Aerial Ace
 {:.note title="Rayquaza's Moveset"}
 {:.faded}
+
+Zapdos (with or without its Elite Fast Move) and Rayquaza (on any day) are two more Legendary Pokemon that are good at using Flying-type moves, but better off specializing in their other Types. Zapdos should be an [Electric-type attacker](#zapdos---pure-instinct), and Rayquaza is the best [Dragon-type attacker](#rayquaza---king-of-dragons) there is, and likely ever will be.
 
 
 ## Poison-Type
