@@ -11,6 +11,10 @@ redirect_from:
 
 # Best Attackers to Train
 
+> Added [Thundurus Therian Forme]() as 2nd best Electric-type.
+{:.note title="March 17th Update"}
+{:.faded}
+
 This article serves to give an analysis and breakdown of the various top performing Pokemon in terms of battling Raid Bosses. The main aspect important in an attacker is high DPS (Damage Per Second), meaning that bulkier Pokemon with high Defense or HP won't be as useful. Pokemon with simply high Attack, and powerful moves, will prevail here. Also, it's a high priority for attackers to exclusively use moves matching one of their Types, like a Fire-type Pokemon using a Fire-type move, as it would gain STAB (Same Type Attack Bonus), making the move 25% more powerful. Finally, having a moveset where both moves are the same Type is commonly called a "Double-[type]" moveset, and is almost always ideal.
 
 > Charizard, a Fire/Flying-type Pokemon, with the Fast Move of **Fire Spin** and the Charge Move of **Blast Burn** would be considered to have a **Double-Fire Moveset**, allowing it to constantly deal Super-Effective damage on a Bug, Grass, or Ice-type opponent, and would deal 25% more damage due to STAB with both moves.
@@ -150,7 +154,7 @@ These two are very similar, sharing the Dragon/Flying-typing as well as having t
 Additionally, Salamence will get a Mega Evolution at some point in the future, while Dragonite will not.
 
 > *Dragonite has **Outrage** as a normal move, learnable by regular Charge TM, while **Draco Meteor** is an Elite Move learnable only during certain events or via Elite Charge TM. The opposite is true for Salamence.
-> {:.note title="Important! Elite Moves"}
+{:.note title="Important! Elite Moves"}
 
 ### Haxorus & Garchomp - Dragons of Myth
 ![Haxorus](https://img.pokemondb.net/sprites/home/normal/haxorus.png)![Garchomp](https://img.pokemondb.net/sprites/home/normal/garchomp.png)
@@ -517,6 +521,16 @@ Having only a single weakness in **Ground-types**, **Electric-type** Pokemon can
 {:.faded}
 
 Towering over its fellow Electric-types, the deep black dragon of ideals rules supreme. Only caught in 5✰ Raids, Zekrom is a Legendary worth chasing after. Though it also fares well with a [**Double-Dragon Moveset**](#zekrom--reshiram---far-from-home), the Electric-type is where it truly is truly shines.
+
+### Thundurus (Therian Forme) - Not a Genie
+
+> Volt Switch + Thunderbolt
+{:.note title="Optimal Moveset"}
+{:.faded}
+
+With DPS surpassing even Zekrom, Therian Forme Thundurus hits harder than any other Electric-type attacker in the game. The *slight* increase in power compared to Zekrom comes at the cost of *far* less bulk. Normally, DPS is more important than bulk, but in this case the difference in power is so small that Zekrom's stats end up better as a whole.
+
+Additionally, Zekrom's secondary Dragon-typing is much more useful than Thundurus' secondary Flying-type. When using an Electric-type attacker, you'd often want to resist Water-types, which Zekrom does while Thundurus does not.
 
 ### Electivire - Fists of Lightning
 ![Electivire](https://img.pokemondb.net/sprites/home/normal/electivire.png)
