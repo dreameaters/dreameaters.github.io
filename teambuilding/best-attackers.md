@@ -11,7 +11,7 @@ redirect_from:
 
 # Best Attackers to Train
 
-> Added [Thundurus Therian Forme]() as 2nd best Electric-type.
+> Added [Thundurus Therian Forme](#thundurus-therian-forme---not-a-genie) as 2nd best Electric-type.
 {:.note title="March 17th Update"}
 {:.faded}
 
@@ -523,6 +523,7 @@ Having only a single weakness in **Ground-types**, **Electric-type** Pokemon can
 Towering over its fellow Electric-types, the deep black dragon of ideals rules supreme. Only caught in 5✰ Raids, Zekrom is a Legendary worth chasing after. Though it also fares well with a [**Double-Dragon Moveset**](#zekrom--reshiram---far-from-home), the Electric-type is where it truly is truly shines.
 
 ### Thundurus (Therian Forme) - Not a Genie
+![Thundurus](https://img.pokemondb.net/sprites/home/normal/thundurus-therian.png)
 
 > Volt Switch + Thunderbolt
 {:.note title="Optimal Moveset"}
