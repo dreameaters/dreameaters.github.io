@@ -1008,3 +1008,15 @@ The only **Double-Poison Moveset** worth talking about here. There are several i
 
 The most unfortunate Type when it comes to attacking, the **Normal-type** isn't Super-Effective against any Type at all. Though they can often learn a wide variety of Typed moves, they won't get STAB on any of them, making them 25% weaker all the time when compared to properly Typed counters.\
 Though I'm personally a fan of many **Normal-type** Pokemon, I'll be discussing none here, because they won't do you any good at all in Raid Battles.
+
+---
+
+## Changelog
+
+> Added [Thundurus Therian Forme](#thundurus-therian-forme---not-a-genie) as 2nd best Electric-type.
+{:.note title="March 17th, 2020 Update"}
+{:.faded}
+
+> Initial launch of the original guide.
+{:.note title="March 6th, 2020 Launch"}
+{:.faded}
