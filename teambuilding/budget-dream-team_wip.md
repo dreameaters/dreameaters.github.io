@@ -12,13 +12,119 @@ redirect_from:
 # The Budget Dream Team
 
 If you don't have many Pokemon of a certain Type, and the ones listed in my [Best Attackers](/go/teambuilding/best-attackers) guide are out of your reach, then this is the place to be to fill in those gaps.\
-The Pokemon listed here are easy to get, first and foremost. They mostly won't be as good as the Best Attackers of course, but some of them come close, and the goal is just to get you a Party that will work well enough for now. You can eventually rotate some of these Pokemon out of your Raid Parties as you start to collect better ones. These will do alright for you until then, to make sure you don't get crushed in a Raid, and make you feel confident instead of being unsure why your team isn't doing as well as some other Trainers in your lobby.
+The Pokemon listed here are easy to get, first and foremost, which means that super rare wild encounters, Legendaries, Shadow Pokemon, and Mega Evolutions will be excluded. They mostly won't be as good as the Best Attackers of course, but some of them come close, and the goal is just to get you a Party that will work well enough for now. You can eventually rotate some of these Pokemon out of your Raid Parties as you start to collect better ones. These will do alright for you until then, to make sure you don't get crushed in a Raid, and make you feel confident alongside your fellow Trainers in a lobby.
+
+> Some Pokemon listed in this guide are also listed in the Best Attackers guide. This means, in addition to being easy to get, they're also fantastic enough to be considered a top choice. Any Best Attackers in this list will be denoted by a ✰ next to their name.
+{:.note title="Easily Awesome!"}
+{:.faded}
+
+---
+
+The main aspect important in an attacker is high DPS (Damage Per Second), meaning that bulkier Pokemon with high Defense or HP won't be as useful. Pokemon with simply high Attack, and powerful moves, will prevail here. Also, it's a high priority for attackers to exclusively use moves matching one of their Types, like a Fire-type Pokemon using a Fire-type move, as it would gain STAB (Same Type Attack Bonus), making the move 25% more powerful. Finally, having a moveset where both moves are the same Type is commonly called a "Double-[type]" moveset, and is almost always ideal.
+
+> Charizard, a Fire/Flying-type Pokemon, with the Fast Move of **Fire Spin** and the Charge Move of **Blast Burn** would be considered to have a **Double-Fire Moveset**, allowing it to constantly deal Super-Effective damage on a Bug, Grass, or Ice-type opponent, and would deal 25% more damage due to STAB with both moves.
+{:.note title="Example of an Ideal Attacker"}
+
+With all of that said, if you still find yourself struggling to build a Party after reviewing this guide, then your best bet is to simply use your highest CP Pokemon of the Type you need, as long as they have a Double-[type] moveset.\
+Further advice and guidance on building a team from whatever you have can be found in [Building a Good Pokemon](/go/building-a-good-pokemon/).
+
+> This guide expects an understanding of the terms "[Elite Move](/go/glossary/#elite-move)", "[STAB](/go/glossary/#stab-same-type-attack-bonus)", and "[DPS](/go/glossary/#dps-damage-per-second)". Visit the [Glossary](/go/glossary/) if you encounter any terms you're unfamiliar with.
+{:.note title="Helpful Note"}
+{:.faded}
 
 1. [Psychic Starter](#moveset---break-out-those-tms-or-not)
 2. [Fighting Back!](#level---time-to-power-up)
 3. [Dark as Night](#appraisal-and-ivs)
 4. [Mewtwo & Friends](#extra-tips-and-notes)
 {:toc}
+
+
+## Dark
+
+### Houndoom
+### Muk (Alolan)
+### Sharpedo
+
+## Dragon
+
+### Exeggutor (Alolan)
+
+## Rock
+
+### Gigalith
+### Aerodactyl
+### Golem & Golem (Alolan)
+
+## Fire
+
+### Flareon
+### Charizard
+
+## Fighting
+
+### Machamp
+### Hariyama
+### Toxicroak
+### Breloom
+
+## Psychic
+
+### Espeon
+### Alakazam
+### Exeggutor
+
+## Ice
+
+### Glaceon
+### Jynx
+### Abomasnow
+
+## Electric
+
+### Jolteon (because Flareon fail evos?)
+### Golem (Alolan)
+
+## Ghost
+
+### Gengar
+
+## Ground
+
+### Excadrill
+### Donphan
+### Golem
+
+## Steel
+
+### Excadrill
+### Scizor? (Too much candy, plus item?)
+
+## Grass
+
+### Leafeon
+### Exeggutor & Exeggutor (Alolan)
+### Breloom
+### Venusaur
+![Venusaur](https://img.pokemondb.net/sprites/home/normal/venusaur.png)\
+![Meganium](https://img.pokemondb.net/sprites/home/normal/meganium.png){:.lead width="90" height="90" loading="lazy"}
+![Sceptile](https://img.pokemondb.net/sprites/home/normal/sceptile.png){:.lead width="90" height="90" loading="lazy"}
+![Torterra](https://img.pokemondb.net/sprites/home/normal/torterra.png){:.lead width="90" height="90" loading="lazy"}
+![Serperior](https://img.pokemondb.net/sprites/home/normal/serperior.png){:.lead width="90" height="90" loading="lazy"}
+![Chesnaught](https://img.pokemondb.net/sprites/home/normal/chesnaught.png){:.lead width="90" height="90" loading="lazy"}
+
+## Water
+
+###
+
+## Bug
+
+## Fairy
+
+## Flying
+
+## Poison
+
+## Normal
 
 
 ## Psychic Starter - Walking with Eevee
