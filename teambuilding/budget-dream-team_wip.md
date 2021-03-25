@@ -108,7 +108,7 @@ Further advice and guidance on building a team from whatever you have can be fou
 ### Venusaur & Friends
 ![Venusaur](https://img.pokemondb.net/sprites/home/normal/venusaur.png)\
 ![Meganium](https://img.pokemondb.net/sprites/home/normal/meganium.png)
-<img src="https://img.pokemondb.net/sprites/home/normal/sceptile.png" width="90">
+<img src="https://img.pokemondb.net/sprites/home/normal/sceptile.png" width="50">
 ![Torterra](https://img.pokemondb.net/sprites/home/normal/torterra.png){:width="90" height="90" loading="lazy"}
 ![Serperior](https://img.pokemondb.net/sprites/home/normal/serperior.png){:width="90" height="90" loading="lazy"}
 ![Chesnaught](https://img.pokemondb.net/sprites/home/normal/chesnaught.png){:width="90" height="90" loading="lazy"}
