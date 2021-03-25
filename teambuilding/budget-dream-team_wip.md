@@ -58,7 +58,8 @@ Further advice and guidance on building a team from whatever you have can be fou
 ## Fire
 
 ### Flareon
-### Charizard
+### Blaziken
+### Charizard & Friends
 
 ## Fighting
 
@@ -104,17 +105,17 @@ Further advice and guidance on building a team from whatever you have can be fou
 ### Leafeon
 ### Exeggutor & Exeggutor (Alolan)
 ### Breloom
-### Venusaur
+### Venusaur & Friends
 ![Venusaur](https://img.pokemondb.net/sprites/home/normal/venusaur.png)\
-![Meganium](https://img.pokemondb.net/sprites/home/normal/meganium.png){width="90" height="90" loading="lazy"}
-![Sceptile](https://img.pokemondb.net/sprites/home/normal/sceptile.png){width="90" height="90" loading="lazy"}
-![Torterra](https://img.pokemondb.net/sprites/home/normal/torterra.png){width="90" height="90" loading="lazy"}
-![Serperior](https://img.pokemondb.net/sprites/home/normal/serperior.png){width="90" height="90" loading="lazy"}
-![Chesnaught](https://img.pokemondb.net/sprites/home/normal/chesnaught.png){width="90" height="90" loading="lazy"}
+![Meganium](https://img.pokemondb.net/sprites/home/normal/meganium.png | width=90)
+<img src="https://img.pokemondb.net/sprites/home/normal/sceptile.png" width="70%">
+![Torterra](https://img.pokemondb.net/sprites/home/normal/torterra.png){:width="90" height="90" loading="lazy"}
+![Serperior](https://img.pokemondb.net/sprites/home/normal/serperior.png){:width="90" height="90" loading="lazy"}
+![Chesnaught](https://img.pokemondb.net/sprites/home/normal/chesnaught.png){:width="90" height="90" loading="lazy"}
 
 ## Water
 
-###
+### Blastoise & Friends
 
 ## Bug
 
