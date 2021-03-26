@@ -855,7 +855,9 @@ These crustaceans are the most accessible Water-types on this list. Only 50 Cand
 Though it doesn't learn any Water-type Fast Moves, Palkia still hits harder than any other Water-type in the game so far. Kyogre is expected to surpass it someday with its currently unreleased signature move (Origin Pulse), but until then, Palkia tops the charts on damage, and has sizable bulk to boot. Until Kyogre gets an upgrade, Palkia is the Water-type to beat.
 
 ### Swampert, Feraligatr & Empoleon - Hydro Cannon!!
-![Swampert](https://img.pokemondb.net/sprites/home/normal/swampert.png)![Feraligatr](https://img.pokemondb.net/sprites/home/normal/feraligatr.png)![Empoleon](https://img.pokemondb.net/sprites/home/normal/empoleon.png)
+<img src="https://img.pokemondb.net/sprites/home/normal/swampert.png" width="110">
+<img src="https://img.pokemondb.net/sprites/home/normal/feraligatr.png" width="110">
+<img src="https://img.pokemondb.net/sprites/home/normal/empoleon.png" width="110">
 
 > Water Gun + Hydro Cannon†
 {:.note title="Swampert's Moveset"}
