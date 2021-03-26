@@ -59,7 +59,7 @@ Further advice and guidance on building a team from whatever you have can be fou
 
 ### Flareon
 ### Blaziken
-### Charizard & Friends
+### Blast Burn Starters
 
 ## Fighting
 
@@ -105,23 +105,26 @@ Further advice and guidance on building a team from whatever you have can be fou
 ### Leafeon
 ### Exeggutor & Exeggutor (Alolan)
 ### Breloom
-### Venusaur & Friends
-![Venusaur](https://img.pokemondb.net/sprites/home/normal/venusaur.png)\
-![Meganium](https://img.pokemondb.net/sprites/home/normal/meganium.png)
-<img src="https://img.pokemondb.net/sprites/home/normal/sceptile.png" width="50">
-![Torterra](https://img.pokemondb.net/sprites/home/normal/torterra.png){:width="90" height="90" loading="lazy"}
-![Serperior](https://img.pokemondb.net/sprites/home/normal/serperior.png){:width="90" height="90" loading="lazy"}
-![Chesnaught](https://img.pokemondb.net/sprites/home/normal/chesnaught.png){:width="90" height="90" loading="lazy"}
+### Frenzy Plant Starters
+<img src="https://img.pokemondb.net/sprites/home/normal/sceptile.png" width="110">
+<img src="https://img.pokemondb.net/sprites/home/normal/venusaur.png" width="110">
+<img src="https://img.pokemondb.net/sprites/home/normal/torterra.png" width="110">
 
 ## Water
 
 ### Kingler
 ### Vaporeon (extra failed flareon)
-### Blastoise & Friends
+### Hydro Cannon Starters
 
 ## Bug
 
+### Pinsir
+### Escavalier
+
 ## Fairy
+
+### Granbull
+### Clefable
 
 ## Flying
 
