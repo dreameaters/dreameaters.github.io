@@ -49,7 +49,7 @@ Guides on top Pokemon, how to get them, and how to build them. Divided by stages
 # [Pokemon Rankings]
 External links to sheets of Pokemon, ranked in my own style.
 ## Top Attackers
-  Pokemon divided by type, ranked in their effectiveness in Raids. Mostly based on DPS, with bias toward STAB and doubles.
+  Pokemon divided by type, ranked in their effectiveness in Raids. Mostly based on `*[DPS]: Damage Per Second`, with bias toward STAB and doubles.
 ## Mega Rankings
   All Mega Evolutions divided by type, and given a 5✰ rating for usefulness in Mega Boost, extra candy, PvE, and PvP.
 

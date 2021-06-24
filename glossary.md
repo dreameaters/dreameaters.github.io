@@ -23,7 +23,7 @@ A non-descript term for a Pokemon having high defense and/or HP. (Generally, or 
 text\
 CP = (Attack * Defense^0.5 * Stamina^0.5 * Total_CP_Multiplier ^ 2) / 10
 
-### DPS (Damage Per Second)
+### `*[DPS]: Damage Per Second` (Damage Per Second)
 A number used to note how much damage a specific Pokemon can mathematically deal on average.\
 More generally, it's commonly used as the measure to compare the offensive power of Pokemon, across different Movesets, levels, species, etc.\
 Often considered a more useful metric than [TDO](#tdo-total-damage-output), due to being based entirely on a specific Pokemon, without regard to a specific opponent.
@@ -39,8 +39,8 @@ The only way for a Pokemon to learn an Elite Move outside of the appropriate eve
 {:.note title="Example of a Toggle"}
 
 ### Power
-1. A "slang" term for a Pokemon's [DPS](#dps-damage-per-second). ie, a powerful Pokemon is normally one with high DPS.
-2. A lazy way to say [Combat Power](#cp-combat-power) (aka CP). Often avoided, to not confuse CP and DPS.
+1. A "slang" term for a Pokemon's [`*[DPS]: Damage Per Second`](#`*[DPS]: Damage Per Second`-damage-per-second). ie, a powerful Pokemon is normally one with high `*[DPS]: Damage Per Second`.
+2. A lazy way to say [Combat Power](#cp-combat-power) (aka CP). Often avoided, to not confuse CP and `*[DPS]: Damage Per Second`.
 
 > The term "Power" will never be used anywhere on this site to mean "Combat Power".
 
@@ -53,7 +53,7 @@ Charizard deals 25% extra damage due to STAB when using **Fire Spin** or **Air S
 
 
 ### TDO (Total Damage Output)
-A number used to note the total amount of damage a specific Pokemon can mathematically deal against a specific opponent before fainting. This is rarely used as a useful metric, as it is dependant on the defending Pokemon's stats, as well as [DPS](#dps-damage-per-second) almost always being a more relevant and helpful measure to compare Pokemon by.
+A number used to note the total amount of damage a specific Pokemon can mathematically deal against a specific opponent before fainting. This is rarely used as a useful metric, as it is dependant on the defending Pokemon's stats, as well as [`*[DPS]: Damage Per Second`](#`*[DPS]: Damage Per Second`-damage-per-second) almost always being a more relevant and helpful measure to compare Pokemon by.
 
 > A Pokemon with higher TDO is likely due to it having more "[bulk](#bulk)".
 {:.note}

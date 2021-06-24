@@ -18,9 +18,9 @@ I'm going to break down why that is, and how to judge that for yourself when com
 - [Power vs Bulk]()
 
 
-## Power vs Bulk - aka, DPS vs TDO
+## Power vs Bulk - aka, `*[DPS]: Damage Per Second` vs TDO
 
-DPS > TDO almost all the time.
+`*[DPS]: Damage Per Second` > TDO almost all the time.
 
 ### Recommended for Survival - Why you need to build your own teams.
 

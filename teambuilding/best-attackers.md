@@ -15,12 +15,12 @@ redirect_from:
 {:.note title="March 17th Update"}
 {:.faded}
 
-This article serves to give an analysis and breakdown of the various top performing Pokemon in terms of battling Raid Bosses. The main aspect important in an attacker is high DPS (Damage Per Second), meaning that bulkier Pokemon with high Defense or HP won't be as useful. Pokemon with simply high Attack, and powerful moves, will prevail here. Also, it's a high priority for attackers to exclusively use moves matching one of their Types, like a Fire-type Pokemon using a Fire-type move, as it would gain STAB (Same Type Attack Bonus), making the move 25% more powerful. Finally, having a moveset where both moves are the same Type is commonly called a "Double-[type]" moveset, and is almost always ideal.
+This article serves to give an analysis and breakdown of the various top performing Pokemon in terms of battling Raid Bosses. The main aspect important in an attacker is high `*[DPS]: Damage Per Second` (Damage Per Second), meaning that bulkier Pokemon with high Defense or HP won't be as useful. Pokemon with simply high Attack, and powerful moves, will prevail here. Also, it's a high priority for attackers to exclusively use moves matching one of their Types, like a Fire-type Pokemon using a Fire-type move, as it would gain STAB (Same Type Attack Bonus), making the move 25% more powerful. Finally, having a moveset where both moves are the same Type is commonly called a "Double-[type]" moveset, and is almost always ideal.
 
 > Charizard, a Fire/Flying-type Pokemon, with the Fast Move of **Fire Spin** and the Charge Move of **Blast Burn** would be considered to have a **Double-Fire Moveset**, allowing it to constantly deal Super-Effective damage on a Bug, Grass, or Ice-type opponent, and would deal 25% more damage due to STAB with both moves.
 {:.note title="Example of an Ideal Attacker"}
 
-> This guide expects an understanding of the terms "[Elite Move](/go/glossary/#elite-move)", "[STAB](/go/glossary/#stab-same-type-attack-bonus)", and "[DPS](/go/glossary/#dps-damage-per-second)". Visit the [Glossary](/go/glossary/) if you encounter any terms you're unfamiliar with.
+> This guide expects an understanding of the terms "[Elite Move](/go/glossary/#elite-move)", "[STAB](/go/glossary/#stab-same-type-attack-bonus)", and "[`*[DPS]: Damage Per Second`](/go/glossary/#`*[DPS]: Damage Per Second`-damage-per-second)". Visit the [Glossary](/go/glossary/) if you encounter any terms you're unfamiliar with.
 {:.note title="Helpful Note"}
 {:.faded}
 
@@ -80,7 +80,7 @@ Darkrai is the best Dark-type in the game, and will likely keep that title forev
 Weavile and Honchkrow perform very similarly when Honchkrow uses **Dark Pulse** instead of **Sky Attack**, so I'm covering them together. When Honchkrow uses the optimal **Sky Attack** rather than going with a **Double-Dark Moveset** to match Weavile, it's much like Darkrai instead.\
 Weavile evolves from Sneasel, and Honchkrow from Murkrow. Both require 100 Candy and a Sinnoh Stone to evolve. These Pokemon are both regularly uncommon, with Sneasel showing up more easily during Snowy weather. It will take some time, but should be a pretty consistent grind to get either of these two, and they're always worth catching. (Though Murkrow has a pretty annoying catch rate. Razz Berries recommended.)
 
-> Noting that Honchkrow uses **Sky Attack** as its Charge Move, it can learn **Dark Pulse** instead at the cost of 16.7% DPS (damage per second) in exchange for a **Double-Dark Moveset**. This makes it on par with Weavile, rather than Darkrai.
+> Noting that Honchkrow uses **Sky Attack** as its Charge Move, it can learn **Dark Pulse** instead at the cost of 16.7% `*[DPS]: Damage Per Second` (damage per second) in exchange for a **Double-Dark Moveset**. This makes it on par with Weavile, rather than Darkrai.
 {:.note title="Note: Double-Dark Honchkrow"}
 
 ### Hydreigon - Tyrant Dragon
@@ -134,7 +134,7 @@ Rayquaza is the strongest Dragon-type there is. With a Mega Evolution coming at 
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Due to the secondary Steel-typing, Dialga is the only Dragon-type Pokemon to *not* be weak to Dragon itself. That incredible fact combined with great DPS, makes it an extremely important Pokemon to have. Unfortunately, it's only been in 5✰ Raids very few times since it was first released in early 2019. Everyone is eagerly awaiting this truly Legendary Dragon's return. Be sure to catch as many as you can once it's available again.
+Due to the secondary Steel-typing, Dialga is the only Dragon-type Pokemon to *not* be weak to Dragon itself. That incredible fact combined with great `*[DPS]: Damage Per Second`, makes it an extremely important Pokemon to have. Unfortunately, it's only been in 5✰ Raids very few times since it was first released in early 2019. Everyone is eagerly awaiting this truly Legendary Dragon's return. Be sure to catch as many as you can once it's available again.
 
 > With Pokemon Brilliant Diamond and Shining Pearl versions releasing on Nintendo Switch late this year, expect both Dialga and its counterpart Palkia to return to raids in celebration of the release.
 {:.note}
@@ -150,7 +150,7 @@ Due to the secondary Steel-typing, Dialga is the only Dragon-type Pokemon to *no
 {:.note title="B-Tier Moveset"}
 {:.faded}
 
-These two are very similar, sharing the Dragon/Flying-typing as well as having the exact same best, and second best, movesets. They also share their types and moves with the great Rayquaza. Salamence has a little more Attack and a little less Defense, while Dragonite is the opposite. We know that offense is preferred, so generally Salamence is the better option, but they're both so close that it doesn't make much of a difference. Speaking of not much difference, their B-Tier Moveset is nearly as good as their Optimal Moveset (~2.5% DPS difference).\
+These two are very similar, sharing the Dragon/Flying-typing as well as having the exact same best, and second best, movesets. They also share their types and moves with the great Rayquaza. Salamence has a little more Attack and a little less Defense, while Dragonite is the opposite. We know that offense is preferred, so generally Salamence is the better option, but they're both so close that it doesn't make much of a difference. Speaking of not much difference, their B-Tier Moveset is nearly as good as their Optimal Moveset (~2.5% `*[DPS]: Damage Per Second` difference).\
 Additionally, Salamence will get a Mega Evolution at some point in the future, while Dragonite will not.
 
 > *Dragonite has **Outrage** as a normal move, learnable by regular Charge TM, while **Draco Meteor** is an Elite Move learnable only during certain events or via Elite Charge TM. The opposite is true for Salamence.
@@ -177,7 +177,7 @@ Garchomp is also a wonderful [Ground-type attacker](#garchomp---landshark).
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Palkia trades in the resistance of Dialga for extra power, and a secondary Water-typing. Unlike Dialga's Steel-type, Water does nothing special for Palkia. This doesn't mean Palkia should be ignored. Boasting DPS comparable to Salamence, without all the candy needed to evolve, Palkia is yet another powerhouse of a Dragon-type, well worth the stardust investment.
+Palkia trades in the resistance of Dialga for extra power, and a secondary Water-typing. Unlike Dialga's Steel-type, Water does nothing special for Palkia. This doesn't mean Palkia should be ignored. Boasting `*[DPS]: Damage Per Second` comparable to Salamence, without all the candy needed to evolve, Palkia is yet another powerhouse of a Dragon-type, well worth the stardust investment.
 
 > With Pokemon Brilliant Diamond and Shining Pearl versions releasing on Nintendo Switch late this year, expect both Dialga and Palkia to return to raids in celebration of the release.
 {:.note}
@@ -236,7 +236,7 @@ With very similar stats, and a rare limiter on accessibility, deciding between t
 {:.note title="B-Tier Moveset"}
 {:.faded}
 
-Regarded as the best Rock-type attacker for a long time, Tyranitar has since been one-upped by the newer Pokemon listed above. Don't let this lead you to think that Tyranitar isn't worth your attention though. It still hits as hard as ever, and that's *very* hard. It's old Community Day move, **Smack Down†**, will give the **Double-Rock Moveset** you ideally want, but **Bite** is regularly accessible and matches it for DPS, while still getting STAB from Tyranitar's Dark-typing. However, if your opponent isn't also weak to Dark, then you're missing out on Super-Effective damage.
+Regarded as the best Rock-type attacker for a long time, Tyranitar has since been one-upped by the newer Pokemon listed above. Don't let this lead you to think that Tyranitar isn't worth your attention though. It still hits as hard as ever, and that's *very* hard. It's old Community Day move, **Smack Down†**, will give the **Double-Rock Moveset** you ideally want, but **Bite** is regularly accessible and matches it for `*[DPS]: Damage Per Second`, while still getting STAB from Tyranitar's Dark-typing. However, if your opponent isn't also weak to Dark, then you're missing out on Super-Effective damage.
 
 ## Fire-Type
 
@@ -324,7 +324,7 @@ Two more Legendary Pokemon, nearly similar in terms of attacking power. Entei an
 {:.faded}
 
 Flareon, like all the Eeveelutions, is incredibly easy to get. All it takes is 25 Candy on an Eevee, no special conditions. Though, you might end up with a Vaporeon or Jolteon instead, so it's not quite as simple as it could be. But you're bound to find Eevee often enough to be able to take a shot at this fluffy fire Pokemon every now and then.\
-**Overheat** is less than 1% DPS stronger than **Flamethrower**, so either is perfectly fine. Just be sure to replace **Fire Blast** if you have it, as it's far worse than the other two. (Also the Elite Move **Last Resort**, if evolved during a special event. It's only used in Go Battle League.)
+**Overheat** is less than 1% `*[DPS]: Damage Per Second` stronger than **Flamethrower**, so either is perfectly fine. Just be sure to replace **Fire Blast** if you have it, as it's far worse than the other two. (Also the Elite Move **Last Resort**, if evolved during a special event. It's only used in Go Battle League.)
 
 ## Fighting-Type
 
@@ -410,7 +410,7 @@ Dr. Fuji was right, before Mewtwo blew him up, along with the entire island and 
 
 This is *the* Pokemon you'll always want to catch and train.
 
-> Mewtwo's unmatched power really skews the Psychic-type list. Just know that the remaining Psychic-types listed all have higher DPS than most top attackers of other Types. Mewtwo simply breaks the ceiling for what a #1 attacker is normally capable of.
+> Mewtwo's unmatched power really skews the Psychic-type list. Just know that the remaining Psychic-types listed all have higher `*[DPS]: Damage Per Second` than most top attackers of other Types. Mewtwo simply breaks the ceiling for what a #1 attacker is normally capable of.
 {:.note title="Comparison Note"}
 
 ### Espeon - MVE (Most Valuable Eevee)
@@ -529,7 +529,7 @@ Towering over its fellow Electric-types, the deep black dragon of ideals rules s
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-With DPS surpassing even Zekrom, Therian Forme Thundurus hits harder than any other Electric-type attacker in the game. The *slight* increase in power compared to Zekrom comes at the cost of *far* less bulk. Normally, DPS is more important than bulk, but in this case the difference in power is so small that Zekrom's stats end up better as a whole.
+With `*[DPS]: Damage Per Second` surpassing even Zekrom, Therian Forme Thundurus hits harder than any other Electric-type attacker in the game. The *slight* increase in power compared to Zekrom comes at the cost of *far* less bulk. Normally, `*[DPS]: Damage Per Second` is more important than bulk, but in this case the difference in power is so small that Zekrom's stats end up better as a whole.
 
 Additionally, Zekrom's secondary Dragon-typing is much more useful than Thundurus' secondary Flying-type. When using an Electric-type attacker, you'd often want to resist Water-types, which Zekrom does while Thundurus does not.
 
@@ -641,7 +641,7 @@ Before Mewtwo got its signature move **Psystrike**, it had another Elite Charge 
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Gengar has the highest DPS of all Ghost-type Pokemon. So why is it so low? Because it's made of glass and tissue paper. Gengar hits even harder than Chandelure, but will faint in so few hits that you won't know what happened. If you tend to have a lot of healing items (or no just other options), then Gengar will tear apart the battlefield better than anyone else, but it's gonna be chugging Revives and Potions faster than anything else as well.
+Gengar has the highest `*[DPS]: Damage Per Second` of all Ghost-type Pokemon. So why is it so low? Because it's made of glass and tissue paper. Gengar hits even harder than Chandelure, but will faint in so few hits that you won't know what happened. If you tend to have a lot of healing items (or no just other options), then Gengar will tear apart the battlefield better than anyone else, but it's gonna be chugging Revives and Potions faster than anything else as well.
 
 An important note though, is that Gengar is a Trade Evolution Pokemon. Meaning that, much like Machamp in the Fighting-type category, you could trade high-level Gastly or Haunter with your friends, and evolve to Gengar for free. This accessibility simply can't be beat when it comes to Ghost-type attackers, and means that Gengar will likely make up most of any Trainer's Ghost-type parties for a while, until more sustainable options are caught.
 
@@ -842,7 +842,7 @@ The Pokemon said to have raised the tides in ancient times, Kyogre is a Legendar
 
 These crustaceans are the most accessible Water-types on this list. Only 50 Candy each from their base forms (Krabby & Corphish respectively), they're worth evolving whenever you find yourself a high-level one. Gifted with the unmatched **Crabhammer** (exclusive to these two Pokemon), they're both equally skilled at crushing Raid Bosses. Be wary of their fragile defense, but if you have no other Water-types that hit as hard, it's worth spending the extra healing items to just throw them back into the fight when they faint.
 
-> Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in order to have a **Double-Water Moveset**, sacrificing 7.8% DPS.
+> Crawdaunt can swap use **Waterfall** instead of **Snarl** for it's Fast Move in order to have a **Double-Water Moveset**, sacrificing 7.8% `*[DPS]: Damage Per Second`.
 {:.note title="Dark Water"}
 
 ### Palkia - Rend the Tide!
@@ -867,7 +867,7 @@ Though it doesn't learn any Water-type Fast Moves, Palkia still hits harder than
 {:.note title="Feraligatr & Empoleon's Moveset"}
 {:.faded}
 
-The Elite Charge Move **Hydro Cannon†** is the signature of fully evolved Water-type starter Pokemon. It's also required for any of them to reach the DPS expected of a top attacker. Evolving your Mudkips, Totodiles, or Piplups all the way to their final stage when **Hydro Cannon†** isn't available (limited to specific events) is unfortunately a big waste. Hold out for its return, and you'll be rewarded with solid Water-type attackers.
+The Elite Charge Move **Hydro Cannon†** is the signature of fully evolved Water-type starter Pokemon. It's also required for any of them to reach the `*[DPS]: Damage Per Second` expected of a top attacker. Evolving your Mudkips, Totodiles, or Piplups all the way to their final stage when **Hydro Cannon†** isn't available (limited to specific events) is unfortunately a big waste. Hold out for its return, and you'll be rewarded with solid Water-type attackers.
 
 ### Gyarados - Skull Kraken!
 ![Gyarados](https://img.pokemondb.net/sprites/home/normal/gyarados.png)
@@ -882,7 +882,7 @@ The Elite Charge Move **Hydro Cannon†** is the signature of fully evolved Wate
 
 Costing an incredible 400 Magikarp Candy to evolve, Gyarados is a big goal for many Trainers early on. It ends up being quite worth it. Though not as powerful as the **Hydro Cannon†** users, Gyarados makes up for it by always being available, and pushes its way quickly up the ranks when Mega Evolved. (Also trading the secondary Flying-type for Dark-type, for what its worth.)
 
-> Using **Aqua Tail†** (Gyarados' Community Day Elite Move) instead of **Hydro Pump** for Gyarados' Fast Move barely loses any damage (1.4% DPS), so if you have that already, don't waste your Charge TMs swapping to **Hydro Pump**.
+> Using **Aqua Tail†** (Gyarados' Community Day Elite Move) instead of **Hydro Pump** for Gyarados' Fast Move barely loses any damage (1.4% `*[DPS]: Damage Per Second`), so if you have that already, don't waste your Charge TMs swapping to **Hydro Pump**.
 {:.note title="Aqua Tail's Comparison"}
 
 ---
@@ -902,7 +902,7 @@ The **Bug-type** was simply never meant to be a big deal, as sad as that is to s
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-Genesect is as good as Bug-types get. Hosting the lowest DPS of any Type's #1 slot, Genesect also holds the "honor" of being a Mythical Pokemon, locked behind a Special Research, 5✰ Raids, and being unable to be traded. So not only is the best Bug-type the worst #1, but it's also about as complicated as it gets to obtain. To top it all off, Genesect performs a bit better as a [Steel-type attacker](#genesect---death-metal-bug), while also being outclassed by 4 or 5 better Steel-types.\
+Genesect is as good as Bug-types get. Hosting the lowest `*[DPS]: Damage Per Second` of any Type's #1 slot, Genesect also holds the "honor" of being a Mythical Pokemon, locked behind a Special Research, 5✰ Raids, and being unable to be traded. So not only is the best Bug-type the worst #1, but it's also about as complicated as it gets to obtain. To top it all off, Genesect performs a bit better as a [Steel-type attacker](#genesect---death-metal-bug), while also being outclassed by 4 or 5 better Steel-types.\
 If you want a big Bug-type, this is it. Though its runner-up is just barely below it, and much easier to catch. Keep scrolling.
 
 ### Pinsir - Vicegrip (but don't use that)
@@ -916,7 +916,7 @@ Pinsir is generally uncommon in the wild, and has been Jessie's catchable Shadow
 
 ## Fairy-Type
 
-The things of storybooks and fables, **Fairy-type** Pokemon have a unique mystique to them, that unfortunately doesn't translate well into battle. Though they do counter **Dragon-types** better than anything else, with a 2x Resistance to the beasts, that's the part they were built for: Defense. **Fairies** will take a beating and keep standing, but at the cost of having very poor offense to work with. As I said at the very start of this article, we want fast power in high DPS, even if it means fainting more. Surviving until the end doesn't help us if the timer runs out before the Raid Boss faints.
+The things of storybooks and fables, **Fairy-type** Pokemon have a unique mystique to them, that unfortunately doesn't translate well into battle. Though they do counter **Dragon-types** better than anything else, with a 2x Resistance to the beasts, that's the part they were built for: Defense. **Fairies** will take a beating and keep standing, but at the cost of having very poor offense to work with. As I said at the very start of this article, we want fast power in high `*[DPS]: Damage Per Second`, even if it means fainting more. Surviving until the end doesn't help us if the timer runs out before the Raid Boss faints.
 
 ### Gardevoir - Pretty, I guess.
 ![Gardevoir](https://img.pokemondb.net/sprites/home/normal/gardevoir.png)
@@ -994,7 +994,7 @@ With one of **Poison's** main targets being **Grass**, which often has **Poison*
 {:.note title="Optimal Moveset"}
 {:.faded}
 
-[As discussed in the Ghost-type section](#gengar---now-you-see-me-now-you-dont), Gengar hits very hard and gets hit very hard in return. This holds true as a Poison-type attacker, boasting only slightly lower DPS (1% less than a **Double-Ghost Moveset**). If you have a good Gengar, you should already know to give it Ghost-type moves, but if you have a full team of Pokemon better than it (minus keeping one to Mega Evolve), then maybe you can give it new life with **Sludge Bomb**, however rarely it may be used.
+[As discussed in the Ghost-type section](#gengar---now-you-see-me-now-you-dont), Gengar hits very hard and gets hit very hard in return. This holds true as a Poison-type attacker, boasting only slightly lower `*[DPS]: Damage Per Second` (1% less than a **Double-Ghost Moveset**). If you have a good Gengar, you should already know to give it Ghost-type moves, but if you have a full team of Pokemon better than it (minus keeping one to Mega Evolve), then maybe you can give it new life with **Sludge Bomb**, however rarely it may be used.
 
 ### Roserade - Why so Toxic?
 ![Roserade](https://img.pokemondb.net/sprites/home/normal/roserade.png)
