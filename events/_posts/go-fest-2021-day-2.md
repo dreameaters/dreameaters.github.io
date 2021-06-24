@@ -11,11 +11,11 @@ hide_last_modified: true
 
 | Legendary | Rating   |
 |----------:|:----------|
-| Mewtwo    | ⭐⭐⭐⭐⭐ |
+| Mewtwo    | ⭐⭐⭐⭐⭐ |P
 | Ho-Oh     | ⭐⭐ |
-| Latias    | ⭐ |
+| Latias    | ⭐ |S
 | Latios    | ⭐⭐⭐ |
-| Regigigas | ⭐⭐⭐ |
+| Regigigas | ⭐⭐⭐ |N
 | Giratina  | ⭐⭐ |
 | Cresselia | ⭐⭐ |
 | Tornadus  | ⭐ |
