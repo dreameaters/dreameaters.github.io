@@ -23,7 +23,7 @@ A non-descript term for a Pokemon having high defense and/or HP. (Generally, or 
 text\
 CP = (Attack * Defense^0.5 * Stamina^0.5 * Total_CP_Multiplier ^ 2) / 10
 
-### [DPS](a "Damage Per Second") (Damage Per Second)
+### `*[DPS]: Damage Per Second` (Damage Per Second)
 A number used to note how much damage a specific Pokemon can mathematically deal on average.\
 More generally, it's commonly used as the measure to compare the offensive power of Pokemon, across different Movesets, levels, species, etc.\
 Often considered a more useful metric than [TDO](#tdo-total-damage-output), due to being based entirely on a specific Pokemon, without regard to a specific opponent.
